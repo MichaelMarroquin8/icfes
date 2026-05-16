@@ -631,6 +631,9 @@ async function pickAndShowNextQuestion() {
   byId("study-empty-lead").innerHTML =
     'Pulsa <strong>Siguiente pregunta</strong> para otra, o <strong>← Volver a temas</strong> para cambiar de tema.';
   await refreshStudyRepasoContext();
+  if (window.matchMedia("(max-width: 768px)").matches) {
+    document.getElementById("study-stage")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
 }
 
 function renderChoices(q) {
