@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%237c5cff'/%3E%3Ctext x='16' y='22' text-anchor='middle' fill='white' font-size='18' font-family='sans-serif' font-weight='bold'%3EI%3C/text%3E%3C/svg%3E" />
+    <title>Icfes • Plataforma de estudio</title>
+    <link rel="stylesheet" href="./src/style.css" />
+  </head>
+  <body>
+    <div id="boot-error" class="boot-error" role="alert" hidden></div>
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">I</div>
+        <div>
+          <div class="brand-title">Icfes</div>
+          <div class="brand-subtitle">Saber 11</div>
+        </div>
+      </div>
+      <nav class="topnav" aria-label="Navegación">
+        <button class="tabbtn" data-tab="home" type="button">Inicio</button>
+        <button class="tabbtn" data-tab="study" type="button">Repaso</button>
+        <button class="tabbtn" data-tab="plan" type="button">Plan</button>
+        <button class="tabbtn" data-tab="library" type="button">Biblioteca</button>
+        <button class="tabbtn" data-tab="progress" type="button">Progreso</button>
+        <button class="tabbtn" data-tab="settings" type="button">Ajustes</button>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section class="panel" id="tab-home" data-tabpanel="home" hidden>
+        <div class="home-wrap">
+          <h1 class="home-title">Qué quieres estudiar</h1>
+          <p class="home-lead muted">
+            Aquí ves los <strong>temas por área</strong>. Pulsa <strong>Repaso</strong> en un tema para ir a la pestaña
+            <strong>Repaso</strong> y practicar con las preguntas de ese tema.
+          </p>
+          <label class="field home-module-field">
+            <span>Mostrar</span>
+            <select id="home-module" aria-label="Filtrar áreas en inicio"></select>
+          </label>
+          <h2 class="home-section-title">Temas</h2>
+          <div id="home-topics" class="home-topics"></div>
+          <div class="home-footer-actions">
+            <button type="button" id="home-go-module" class="primary" hidden>
+              Repaso de todo el área seleccionada
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" id="tab-study" data-tabpanel="study" hidden>
+        <h1 class="sr-only">Repaso</h1>
+        <div class="study-repaso-head">
+          <button type="button" id="study-back-home" class="study-back">← Volver a temas</button>
+          <p class="study-repaso-context muted" id="study-repaso-context" aria-live="polite"></p>
+        </div>
+        <div class="study-toolbar">
+          <label class="study-toolbar-module">
+            <span class="sr-only">Módulo</span>
+            <select id="study-module" aria-label="Módulo"></select>
+          </label>
+          <button id="study-next" class="primary study-next" type="button">Siguiente pregunta</button>
+          <details class="study-more">
+            <summary>Filtros</summary>
+            <div class="study-more-inner">
+              <label class="field study-field-inline">
+                <span>Tema</span>
+                <select id="study-topic"></select>
+              </label>
+              <label class="field study-field-inline">
+                <span>Modo</span>
+                <select id="study-mode">
+                  <option value="progressive">Progresivo</option>
+                  <option value="review">Repaso</option>
+                  <option value="new">Nuevas</option>
+                  <option value="mix">Mixto</option>
+                </select>
+              </label>
+            </div>
+          </details>
+        </div>
+
+        <div id="study-stage" class="stage study-stage">
+          <div class="card study-card" id="study-card" hidden>
+            <div class="q-passage-wrap" id="q-passage-wrap" hidden>
+              <p class="q-passage-label">Texto / contexto</p>
+              <div class="q-passage study-qpassage" id="q-passage"></div>
+            </div>
+            <div class="qtext study-qtext" id="q-stem"></div>
+            <div class="qmedia study-qmedia" id="q-media" hidden>
+              <img id="q-image" alt="Imagen de la pregunta" />
+            </div>
+            <fieldset class="choices study-choices" id="q-choices">
+              <legend class="sr-only">Opciones de respuesta</legend>
+            </fieldset>
+            <div class="actions study-actions">
+              <button id="submit-answer" class="primary study-btn-main" type="button" disabled>Comprobar</button>
+              <button id="skip-question" class="study-btn-skip" type="button">Saltar</button>
+            </div>
+          </div>
+
+          <div class="empty card study-empty" id="study-empty">
+            <p class="study-empty-lead" id="study-empty-lead">
+              Pulsa <strong>Siguiente pregunta</strong> para empezar, o vuelve a <strong>Inicio</strong> para otro tema.
+            </p>
+          </div>
+
+          <div class="card feedback study-feedback" id="feedback-card" hidden>
+            <p class="study-fb-badge" id="fb-badge" aria-live="polite"></p>
+            <p class="study-fb-line" id="fb-line"></p>
+            <div class="study-fb-blocks" id="fb-blocks"></div>
+            <div class="fb-actions study-fb-actions">
+              <button id="fb-continue" class="primary study-btn-main" type="button">Siguiente</button>
+              <button id="fb-edit" class="study-btn-skip" type="button">Editar en biblioteca</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" id="tab-library" data-tabpanel="library" hidden>
+        <div class="panel-header">
+          <h1>Biblioteca</h1>
+          <div class="row">
+            <button id="add-question" class="primary" type="button">Nueva pregunta</button>
+            <label class="btnlike">
+              Importar archivos
+              <input id="import-sources" type="file" accept="application/pdf,image/*" multiple hidden />
+            </label>
+            <button id="seed-sample" type="button">Cargar ejemplos</button>
+          </div>
+        </div>
+
+        <div class="split">
+          <div class="card">
+            <h2>Fuentes (PDF / capturas)</h2>
+            <div class="muted">
+              Importa tus archivos con el botón <strong>Importar archivos</strong>. Luego crea preguntas a partir de
+              una captura, o abre un PDF para copiar el enunciado.
+            </div>
+            <div class="row" style="margin-top:10px">
+              <select id="src-filter">
+                <option value="">Todas</option>
+                <option value="image">Imágenes</option>
+                <option value="pdf">PDF</option>
+              </select>
+              <button id="src-clear" class="danger" type="button">Limpiar</button>
+            </div>
+            <div id="src-list" class="list"></div>
+          </div>
+
+          <div class="card" style="display: none;">
+            <h2>Preguntas</h2>
+            <div class="row">
+              <input id="q-search" class="grow" placeholder="Buscar..." />
+              <select id="q-filter-module"></select>
+            </div>
+            <div id="q-list" class="list"></div>
+          </div>
+
+          <div class="card">
+            <h2 id="editor-title">Editor</h2>
+            <form id="q-form" class="form">
+              <div class="grid2">
+                <label class="field">
+                  <span>Módulo</span>
+                  <select id="f-module"></select>
+                </label>
+                <label class="field">
+                  <span>Dificultad</span>
+                  <select id="f-difficulty">
+                    <option value="easy">Fácil</option>
+                    <option value="medium" selected>Media</option>
+                    <option value="hard">Difícil</option>
+                  </select>
+                </label>
+              </div>
+
+              <label class="field">
+                <span>Pregunta</span>
+                <textarea id="f-text" rows="5" required></textarea>
+              </label>
+
+              <label class="field">
+                <span>Imagen (opcional)</span>
+                <input id="f-image" type="file" accept="image/*" />
+                <small class="hint">Se guarda dentro del navegador (base64).</small>
+              </label>
+              <div class="qmedia" id="f-image-preview" hidden>
+                <img id="f-image-preview-img" alt="Vista previa" />
+              </div>
+
+              <div class="choices-editor" id="f-choices"></div>
+
+              <div class="grid2">
+                <label class="field">
+                  <span>Respuesta correcta</span>
+                  <select id="f-correct"></select>
+                </label>
+                <label class="field">
+                  <span>Etiqueta/tema (opcional)</span>
+                  <input id="f-topic" placeholder="Ej: funciones, cinemática..." />
+                </label>
+              </div>
+
+              <label class="field">
+                <span>Explicación general (opcional)</span>
+                <textarea id="f-explain" rows="4"></textarea>
+              </label>
+
+              <div class="card soft">
+                <h3>Retroalimentación punto por punto</h3>
+                <p class="muted">
+                  Escribe el razonamiento para cada opción. Esto es lo que verás cuando te equivoques (y también
+                  cuando aciertes).
+                </p>
+                <div id="f-option-feedback"></div>
+              </div>
+
+              <div class="row">
+                <button id="save-question" class="primary" type="submit">Guardar</button>
+                <button id="delete-question" class="danger" type="button" disabled>Eliminar</button>
+                <button id="new-question" type="button">Limpiar</button>
+              </div>
+              <div class="muted" id="editor-status"></div>
+            </form>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" id="tab-plan" data-tabpanel="plan" hidden >
+        <div class="panel-header" >
+          <h1>Plan de estudio</h1>
+          <div class="row">
+            <label class="field">
+              <span>Módulo</span>
+              <select id="plan-module"></select>
+            </label>
+            <button id="plan-refresh" type="button">Actualizar</button>
+          </div>
+        </div>
+
+        <div class="grid2">
+          <div class="card">
+            <h2>Siguiente enfoque</h2>
+            <div class="muted" id="plan-next-sub"></div>
+            <div class="kpi" id="plan-next-title"></div>
+            <div class="row" style="margin-top:10px">
+              <button id="plan-start-topic" class="primary" type="button">Empezar este tema</button>
+              <button id="plan-start-mix" type="button">Estudio mixto</button>
+            </div>
+          </div>
+          <div class="card">
+            <h2>Ruta sugerida</h2>
+            <div class="muted">Ordenada por “más débil primero” para avanzar progresivamente.</div>
+            <div id="plan-route" class="list"></div>
+          </div>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h2>Plan estructurado (recomendado)</h2>
+          <div class="muted" id="plan-structured-sub"></div>
+          <div id="plan-structured" class="list"></div>
+        </div>
+      </section>
+
+      <section class="panel" id="tab-progress" data-tabpanel="progress" hidden>
+        <div class="panel-header">
+          <h1>Progreso</h1>
+          <div class="row">
+            <label class="field">
+              <span>Módulo</span>
+              <select id="p-module"></select>
+            </label>
+            <button id="p-refresh" type="button">Actualizar</button>
+          </div>
+        </div>
+        <div class="grid3">
+          <div class="card">
+            <h2>Hoy</h2>
+            <div class="kpi" id="kpi-today"></div>
+            <div class="muted" id="kpi-today-sub"></div>
+          </div>
+          <div class="card">
+            <h2>Dominio</h2>
+            <div class="kpi" id="kpi-mastery"></div>
+            <div class="muted" id="kpi-mastery-sub"></div>
+          </div>
+          <div class="card">
+            <h2>Cola de repaso</h2>
+            <div class="kpi" id="kpi-due"></div>
+            <div class="muted" id="kpi-due-sub"></div>
+          </div>
+        </div>
+        <div class="card">
+          <h2>Detalle</h2>
+          <div id="p-detail" class="list"></div>
+        </div>
+      </section>
+
+      <section class="panel" id="tab-settings" data-tabpanel="settings" hidden>
+        <div class="panel-header">
+          <h1>Ajustes</h1>
+        </div>
+        <div class="grid2">
+          <div class="card">
+            <h2>Módulos</h2>
+            <div class="row">
+              <input id="m-name" class="grow" placeholder="Ej: Matemáticas" />
+              <button id="m-add" class="primary" type="button">Agregar</button>
+            </div>
+            <div class="muted">Sugeridos: Matemáticas, Ciencias Naturales, Lectura Crítica, Sociales, Inglés.</div>
+            <div id="m-list" class="list"></div>
+          </div>
+
+          <div class="card">
+            <h2>Respaldo</h2>
+            <p class="muted">
+              El progreso se guarda localmente en este navegador. Para que “no se pierda nunca”, usa exportar y
+              guarda el archivo en tu PC (y si quieres, en la nube).
+            </p>
+            <div class="row">
+              <button id="export-data" type="button">Exportar</button>
+              <label class="btnlike">
+                Importar
+                <input id="import-data" type="file" accept="application/json" hidden />
+              </label>
+            </div>
+            <div class="row">
+              <button id="reset-data" class="danger" type="button">Borrar todo</button>
+            </div>
+            <div class="muted" id="backup-status"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="muted">
+        Consejo: abre esta página siempre desde el mismo navegador y el mismo “perfil” para mantener tu progreso.
+      </div>
+    </footer>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>

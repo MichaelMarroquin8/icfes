@@ -1,0 +1,1088 @@
+{
+  "format": "cuadernillo_json_v1",
+  "archivoPdf": "16-feb-cuadernillo-de-preguntas-lectura-critica-saber-11-2026.pdf",
+  "moduloNombre": "Lectura Crítica",
+  "moduleId": "f7460987-4c0b-5864-9ca0-7c88acf97742",
+  "exportedAt": 1778964621507,
+  "totalPreguntas": 49,
+  "preguntas": [
+    {
+      "id": "bd25e3d0-9e72-57c3-901c-a68fd9e0d15f",
+      "numero": 1,
+      "tema": "Vocabulario en contexto",
+      "dificultad": "easy",
+      "enunciado": "JOHNNY\n«Conozco a un tipo»: Esta es la frase recurrente que define a Johnny. A secas. Johnny era así, uno le\ndecía: me encantaría multiplicar mis ahorros por mil. Y él: \"Conozco a un tipo\". Me encantaría viajar\na Cuba, comprar unos habanos y volver. ¿Para qué? Para venderlo. \"Conozco a un tipo\".\nMe encantaría hacerme un tatuaje. ¿Dónde? En la nuca: \"Conozco a un tipo\".\nMe encantaría quedarme acá para siempre. Y ahí Johnny ya no conocía a nadie. Decía: este es\nun país muy duro. Pero él vivía como un magnate, cambiaba de carro cada seis meses y seguía\npagando el mismo leasing; cobraba un subsidio de desempleo que nadie le controlaba y era con eso\nque pagaba los moteles donde tirábamos, o las langostas que nos comíamos en Key West, o los\nVIP passes de los bares de salsa a los que le gustaba llevarme en Calle Ocho.\nJohnny vivía a expensas de su mujer –mitad gringa, mitad ecuatoriana– y compraba hasta los\ncalzoncillos de marca: alimentaba rigurosamente su pequeño sueño americano como si temiera que,\nsi un día se olvidaba de hacerlo, se desplomara a sus pies como un pajarito famélico.\nTomado y adaptado de: García Robayo, M. (2015). Hasta que pase un huracán. Bogotá, D. C.: Laguna Libros.\n\n────────────────────\n\nEn el último párrafo del texto se utiliza la palabra \"famélico\" para describir a Johnny. ¿Cuál de los siguientes adjetivos le da un sentido contrario al significado que tiene esta palabra en el texto?",
+      "opciones": [
+        "Magro.",
+        "Enjuto.",
+        "Relleno.",
+        "Esquelético."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («JOHNNY»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Magro. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Enjuto. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Relleno. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Esquelético. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "84984ce2-b08a-5a5b-b799-9e10015a4b08",
+      "numero": 2,
+      "tema": "Comprensión lectora",
+      "dificultad": "easy",
+      "enunciado": "JOHNNY\n«Conozco a un tipo»: Esta es la frase recurrente que define a Johnny. A secas. Johnny era así, uno le\ndecía: me encantaría multiplicar mis ahorros por mil. Y él: \"Conozco a un tipo\". Me encantaría viajar\na Cuba, comprar unos habanos y volver. ¿Para qué? Para venderlo. \"Conozco a un tipo\".\nMe encantaría hacerme un tatuaje. ¿Dónde? En la nuca: \"Conozco a un tipo\".\nMe encantaría quedarme acá para siempre. Y ahí Johnny ya no conocía a nadie. Decía: este es\nun país muy duro. Pero él vivía como un magnate, cambiaba de carro cada seis meses y seguía\npagando el mismo leasing; cobraba un subsidio de desempleo que nadie le controlaba y era con eso\nque pagaba los moteles donde tirábamos, o las langostas que nos comíamos en Key West, o los\nVIP passes de los bares de salsa a los que le gustaba llevarme en Calle Ocho.\nJohnny vivía a expensas de su mujer –mitad gringa, mitad ecuatoriana– y compraba hasta los\ncalzoncillos de marca: alimentaba rigurosamente su pequeño sueño americano como si temiera que,\nsi un día se olvidaba de hacerlo, se desplomara a sus pies como un pajarito famélico.\nTomado y adaptado de: García Robayo, M. (2015). Hasta que pase un huracán. Bogotá, D. C.: Laguna Libros.\n\n────────────────────\n\nEl fragmento lo narra",
+      "opciones": [
+        "Un testigo que solo cuenta lo que ve.",
+        "Johnny, el protagonista.",
+        "Un personaje de la historia que cuenta lo que le contaron.",
+        "Alguien que conoce a Johnny."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («JOHNNY»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Un testigo que solo cuenta lo que ve. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Johnny, el protagonista. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Un personaje de la historia que cuenta lo que le contaron. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Alguien que conoce a Johnny. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "c32f9cd1-8ce5-5e92-8828-56f638d7f43e",
+      "numero": 3,
+      "tema": "Comprensión lectora",
+      "dificultad": "easy",
+      "enunciado": "JOHNNY\n«Conozco a un tipo»: Esta es la frase recurrente que define a Johnny. A secas. Johnny era así, uno le\ndecía: me encantaría multiplicar mis ahorros por mil. Y él: \"Conozco a un tipo\". Me encantaría viajar\na Cuba, comprar unos habanos y volver. ¿Para qué? Para venderlo. \"Conozco a un tipo\".\nMe encantaría hacerme un tatuaje. ¿Dónde? En la nuca: \"Conozco a un tipo\".\nMe encantaría quedarme acá para siempre. Y ahí Johnny ya no conocía a nadie. Decía: este es\nun país muy duro. Pero él vivía como un magnate, cambiaba de carro cada seis meses y seguía\npagando el mismo leasing; cobraba un subsidio de desempleo que nadie le controlaba y era con eso\nque pagaba los moteles donde tirábamos, o las langostas que nos comíamos en Key West, o los\nVIP passes de los bares de salsa a los que le gustaba llevarme en Calle Ocho.\nJohnny vivía a expensas de su mujer –mitad gringa, mitad ecuatoriana– y compraba hasta los\ncalzoncillos de marca: alimentaba rigurosamente su pequeño sueño americano como si temiera que,\nsi un día se olvidaba de hacerlo, se desplomara a sus pies como un pajarito famélico.\nTomado y adaptado de: García Robayo, M. (2015). Hasta que pase un huracán. Bogotá, D. C.: Laguna Libros.\n\n────────────────────\n\nDesde la información que brinda el texto, ¿cuál de las siguientes palabras describe mejor a Johnny?",
+      "opciones": [
+        "Vividor.",
+        "Generoso.",
+        "Trabajador.",
+        "Mezquino."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («JOHNNY»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Vividor. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Generoso. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Trabajador. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Mezquino. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "78936c37-79db-56c1-8dc5-76886c2ea660",
+      "numero": 4,
+      "tema": "Estructura del texto",
+      "dificultad": "easy",
+      "enunciado": "Instinto en lugar de lógica\nCuando llega la hora de poner sus huevos, la avispa Sphex construye una pequeña madriguera para\neste propósito y sale en la búsqueda de un grillo al cual pica de manera tal que lo paraliza, pero no\nlo mata. La avispa lleva al grillo a su madriguera, deja sus huevos, cierra la madriguera y luego se\nva para no volver. Pasado un tiempo, los huevos crecen y la cría de la avispa se alimenta del grillo\nparalizado que no se descompone debido a que ha permanecido congelado. Para la mente humana,\ntal rutina tan organizada y aparentemente llena de propósitos lleva consigo un sabor de lógica y de\npensamiento. O por lo menos esto es así hasta que conocemos más detalles.\nPor ejemplo, la rutina de la avispa consiste en llevar al grillo hacia la madriguera, dejarlo en la\nentrada, ir adentro a revisar que todo esté bien, salir y luego dejar el grillo adentro. Si, mientras la\navispa está dentro de la madriguera haciendo su inspección preliminar, el grillo es movido algunos\ncentímetros de la entrada, entonces la avispa, al salir de la madriguera, volverá a dejar al grillo\nde nuevo en la entrada, pero no adentro, y repetirá el procedimiento preparatorio de entrar a la\nmadriguera a revisar que todo esté bien. Si, de nuevo, el grillo es movido unos centímetros de la\nentrada, la avispa llevará otra vez al grillo hacia la entrada y volverá a entrar a la madriguera para\nrevisarla. La avispa nunca piensa en llevar al grillo directamente a su madriguera. En una ocasión,\neste procedimiento fue repetido cuarenta veces, siempre con el mismo resultado.\nTomado y adaptado de: Woolridge, Dean E. (1963). The Machinery of the Brain, New York: McGraw-Hill, pp. 82-83.\n\n────────────────────\n\n¿Cuál de las siguientes citas refuerza la idea de que el comportamiento de la avispa Sphex no resulta de un proceso de pensamiento racional?",
+      "opciones": [
+        "“La avispa lleva al grillo a su madriguera, deja sus huevos, cierra la madriguera y luego se va para no volver”.",
+        "“La avispa nunca piensa en llevar al grillo directamente a su madriguera. En una ocasión, este procedimiento fue repetido cuarenta veces, siempre con el mismo resultado”.",
+        "“Para la mente humana, tal rutina tan organizada y aparentemente llena de propósitos lleva consigo un sabor de lógica y de pensamiento”.",
+        "“Por ejemplo, la rutina de la avispa consiste en llevar al grillo hacia la madriguera, dejarlo en la entrada, ir adentro a revisar que todo esté bien, salir y luego dejar el grillo adentro”."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Instinto en lugar de lógica»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). “La avispa lleva al grillo a su madriguera, deja sus huevos, cierra la madriguera y luego se va para no volver”. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). “La avispa nunca piensa en llevar al grillo directamente a su madriguera. En una ocasión, este procedimiento fue repetido cuarenta veces, siempre con el mismo resultado”. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). “Para la mente humana, tal rutina tan organizada y aparentemente llena de propósitos lleva consigo un sabor de lógica y de pensamiento”. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). “Por ejemplo, la rutina de la avispa consiste en llevar al grillo hacia la madriguera, dejarlo en la entrada, ir adentro a revisar que todo … — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "023c2047-929c-5dc3-8181-f53f73d5cdd2",
+      "numero": 5,
+      "tema": "Estructura del texto",
+      "dificultad": "easy",
+      "enunciado": "Instinto en lugar de lógica\nCuando llega la hora de poner sus huevos, la avispa Sphex construye una pequeña madriguera para\neste propósito y sale en la búsqueda de un grillo al cual pica de manera tal que lo paraliza, pero no\nlo mata. La avispa lleva al grillo a su madriguera, deja sus huevos, cierra la madriguera y luego se\nva para no volver. Pasado un tiempo, los huevos crecen y la cría de la avispa se alimenta del grillo\nparalizado que no se descompone debido a que ha permanecido congelado. Para la mente humana,\ntal rutina tan organizada y aparentemente llena de propósitos lleva consigo un sabor de lógica y de\npensamiento. O por lo menos esto es así hasta que conocemos más detalles.\nPor ejemplo, la rutina de la avispa consiste en llevar al grillo hacia la madriguera, dejarlo en la\nentrada, ir adentro a revisar que todo esté bien, salir y luego dejar el grillo adentro. Si, mientras la\navispa está dentro de la madriguera haciendo su inspección preliminar, el grillo es movido algunos\ncentímetros de la entrada, entonces la avispa, al salir de la madriguera, volverá a dejar al grillo\nde nuevo en la entrada, pero no adentro, y repetirá el procedimiento preparatorio de entrar a la\nmadriguera a revisar que todo esté bien. Si, de nuevo, el grillo es movido unos centímetros de la\nentrada, la avispa llevará otra vez al grillo hacia la entrada y volverá a entrar a la madriguera para\nrevisarla. La avispa nunca piensa en llevar al grillo directamente a su madriguera. En una ocasión,\neste procedimiento fue repetido cuarenta veces, siempre con el mismo resultado.\nTomado y adaptado de: Woolridge, Dean E. (1963). The Machinery of the Brain, New York: McGraw-Hill, pp. 82-83.\n\n────────────────────\n\n¿Cuál de los siguientes enunciados sintetiza el tema principal del texto?",
+      "opciones": [
+        "El comportamiento aparentemente inteligente de la avispa Sphex.",
+        "El papel de los grillos en la alimentación de las avispas Sphex.",
+        "La avispa Sphex como un caso que prueba la inteligencia animal.",
+        "Los métodos de crianza y las precauciones de las avispas Sphex."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Instinto en lugar de lógica»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). El comportamiento aparentemente inteligente de la avispa Sphex. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). El papel de los grillos en la alimentación de las avispas Sphex. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). La avispa Sphex como un caso que prueba la inteligencia animal. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Los métodos de crianza y las precauciones de las avispas Sphex. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "b38cecdf-2396-5140-a8af-b3710c7fed49",
+      "numero": 6,
+      "tema": "Propósito del autor",
+      "dificultad": "easy",
+      "enunciado": "Máxima\nemergencia\nLLAMAR A\nEMERGENCIAS\nInformar el lugar del accidente,\nel número de víctimas, qué les\npasó y los síntomas\n107 Capital Federal\n911/107 Provincia\nPOSICIONAR A LA VÍCTIMA\nSi está boca abajo, girarla\nboca arriba.\nCHEQUEAR\nSI RESPIRA\nSI NO RESPIRA HACER\nRESPIRACIÓN BOCA A BOCA\nTOMAR EL\nPULSO\nSI NO\nTIENE\nPULSO\nHACER MASAJE CARDÍACO\nSI NO RESPIRA NI\nTIENE PULSO\nElevar el mentón\ncon una mano.\nCon una mano tapar la nariz y extender\nla cabeza. Con la otra elevar el mentón.\nAlternar 2 soplos y 15\ncompresiones. Efectuar 4 series y\nchequear si respira y tiene pulso.\nControlar cada pocos\nminutos.\nCon la otra mano\nextender la cabeza.\nUbicarla en posición\nde recuperación.\nSellar una boca\ncon otra y soplar.\nApoyar la\notra mano\nencima\nSoplar durante\ndos segundos\ny dejar salir el\naire. Repetir\nla maniobra\ndos veces.\nAcercar el oído\na la boca de la\nvíctima, mirar el\npecho, escuchar\ny sentir si respira.\nComprimir el\ntórax entre 4\ny 5 cm en\nforma rítmica\n15 veces.\nSI RESPIRA PASAR\nAL PASO 5\nP\nE\nD\nI\nR\nA\nY\nU\nD\nA\nR\nE\nA\nN\nI\nM\nA\nC\nI\nÓ\nN\nP\nU\nL\nM\nO\nN\nA\nR\nR\nE\nA\nN\nI\nM\nA\nC\nI\nÓ\nN\nC\nA\nR\nD\nÍ\nA\nCA\nFue\nnte:\nAso\nciac\nión\nMet\nrop\nolit\nana\nde\nM\nedi\ncin\na d\nel\nDe\npo\nrte\n/\nCo\nnse\njo\nNac\nion\nal de\nRes\nucit\nació\nn. I\nnve\nstig\naci\nón:\nSt\nella\nBi\nn. I\nnfo\ngra\nfía:\nPA\nULA\nSI\nMO\nNET\nTI p\nara\nClar\nín\nSI LA VÍCTIMA REACCIONA\nBuscar el eje del\nesternón, colocar\nel talón de la mano\nsobre el tórax, dos\ndedos por encima\nde la unión de las\ncostillas.\n\n────────────────────\n\nDe acuerdo con la infografía, ¿en qué momento se requiere proceder a efectuar una reanimación cardíaca?",
+      "opciones": [
+        "Después de confirmar que la víctima reacciona.",
+        "Después de comprobar que la víctima no tiene pulso.",
+        "En el momento en que la víctima muestra problemas de respiración.",
+        "En el momento en que la víctima está en posición de recuperación."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Máxima»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Después de confirmar que la víctima reacciona. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Después de comprobar que la víctima no tiene pulso. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). En el momento en que la víctima muestra problemas de respiración. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). En el momento en que la víctima está en posición de recuperación. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "d31a313e-7f3d-536b-8cf0-626aa1841fbb",
+      "numero": 7,
+      "tema": "Inferencia",
+      "dificultad": "easy",
+      "enunciado": "Máxima\nemergencia\nLLAMAR A\nEMERGENCIAS\nInformar el lugar del accidente,\nel número de víctimas, qué les\npasó y los síntomas\n107 Capital Federal\n911/107 Provincia\nPOSICIONAR A LA VÍCTIMA\nSi está boca abajo, girarla\nboca arriba.\nCHEQUEAR\nSI RESPIRA\nSI NO RESPIRA HACER\nRESPIRACIÓN BOCA A BOCA\nTOMAR EL\nPULSO\nSI NO\nTIENE\nPULSO\nHACER MASAJE CARDÍACO\nSI NO RESPIRA NI\nTIENE PULSO\nElevar el mentón\ncon una mano.\nCon una mano tapar la nariz y extender\nla cabeza. Con la otra elevar el mentón.\nAlternar 2 soplos y 15\ncompresiones. Efectuar 4 series y\nchequear si respira y tiene pulso.\nControlar cada pocos\nminutos.\nCon la otra mano\nextender la cabeza.\nUbicarla en posición\nde recuperación.\nSellar una boca\ncon otra y soplar.\nApoyar la\notra mano\nencima\nSoplar durante\ndos segundos\ny dejar salir el\naire. Repetir\nla maniobra\ndos veces.\nAcercar el oído\na la boca de la\nvíctima, mirar el\npecho, escuchar\ny sentir si respira.\nComprimir el\ntórax entre 4\ny 5 cm en\nforma rítmica\n15 veces.\nSI RESPIRA PASAR\nAL PASO 5\nP\nE\nD\nI\nR\nA\nY\nU\nD\nA\nR\nE\nA\nN\nI\nM\nA\nC\nI\nÓ\nN\nP\nU\nL\nM\nO\nN\nA\nR\nR\nE\nA\nN\nI\nM\nA\nC\nI\nÓ\nN\nC\nA\nR\nD\nÍ\nA\nCA\nFue\nnte:\nAso\nciac\nión\nMet\nrop\nolit\nana\nde\nM\nedi\ncin\na d\nel\nDe\npo\nrte\n/\nCo\nnse\njo\nNac\nion\nal de\nRes\nucit\nació\nn. I\nnve\nstig\naci\nón:\nSt\nella\nBi\nn. I\nnfo\ngra\nfía:\nPA\nULA\nSI\nMO\nNET\nTI p\nara\nClar\nín\nSI LA VÍCTIMA REACCIONA\nBuscar el eje del\nesternón, colocar\nel talón de la mano\nsobre el tórax, dos\ndedos por encima\nde la unión de las\ncostillas.\n\n────────────────────\n\nEn caso de que la víctima no respire, ¿qué procedimiento se sugiere seguir en la infografía?",
+      "opciones": [
+        "Saltar al paso 5 (tomar el pulso).",
+        "Llamar a un número de emergencias.",
+        "Realizar una respiración boca a boca.",
+        "Llevar a cabo una reanimación cardiopulmonar."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Máxima»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Saltar al paso 5 (tomar el pulso). — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Llamar a un número de emergencias. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Realizar una respiración boca a boca. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Llevar a cabo una reanimación cardiopulmonar. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "b42675fc-934f-5345-a8d2-6422d8f0da68",
+      "numero": 8,
+      "tema": "Propósito del autor",
+      "dificultad": "easy",
+      "enunciado": "Máxima\nemergencia\nLLAMAR A\nEMERGENCIAS\nInformar el lugar del accidente,\nel número de víctimas, qué les\npasó y los síntomas\n107 Capital Federal\n911/107 Provincia\nPOSICIONAR A LA VÍCTIMA\nSi está boca abajo, girarla\nboca arriba.\nCHEQUEAR\nSI RESPIRA\nSI NO RESPIRA HACER\nRESPIRACIÓN BOCA A BOCA\nTOMAR EL\nPULSO\nSI NO\nTIENE\nPULSO\nHACER MASAJE CARDÍACO\nSI NO RESPIRA NI\nTIENE PULSO\nElevar el mentón\ncon una mano.\nCon una mano tapar la nariz y extender\nla cabeza. Con la otra elevar el mentón.\nAlternar 2 soplos y 15\ncompresiones. Efectuar 4 series y\nchequear si respira y tiene pulso.\nControlar cada pocos\nminutos.\nCon la otra mano\nextender la cabeza.\nUbicarla en posición\nde recuperación.\nSellar una boca\ncon otra y soplar.\nApoyar la\notra mano\nencima\nSoplar durante\ndos segundos\ny dejar salir el\naire. Repetir\nla maniobra\ndos veces.\nAcercar el oído\na la boca de la\nvíctima, mirar el\npecho, escuchar\ny sentir si respira.\nComprimir el\ntórax entre 4\ny 5 cm en\nforma rítmica\n15 veces.\nSI RESPIRA PASAR\nAL PASO 5\nP\nE\nD\nI\nR\nA\nY\nU\nD\nA\nR\nE\nA\nN\nI\nM\nA\nC\nI\nÓ\nN\nP\nU\nL\nM\nO\nN\nA\nR\nR\nE\nA\nN\nI\nM\nA\nC\nI\nÓ\nN\nC\nA\nR\nD\nÍ\nA\nCA\nFue\nnte:\nAso\nciac\nión\nMet\nrop\nolit\nana\nde\nM\nedi\ncin\na d\nel\nDe\npo\nrte\n/\nCo\nnse\njo\nNac\nion\nal de\nRes\nucit\nació\nn. I\nnve\nstig\naci\nón:\nSt\nella\nBi\nn. I\nnfo\ngra\nfía:\nPA\nULA\nSI\nMO\nNET\nTI p\nara\nClar\nín\nSI LA VÍCTIMA REACCIONA\nBuscar el eje del\nesternón, colocar\nel talón de la mano\nsobre el tórax, dos\ndedos por encima\nde la unión de las\ncostillas.\n\n────────────────────\n\nDe acuerdo con el propósito del texto, ¿cuál de las siguientes opciones NO presenta una buena razón para incluir imágenes en la infografía?",
+      "opciones": [
+        "La descripción verbal se debe acompañar de un ejemplo gráfico.",
+        "Se debe ilustrar en qué lugares se puede llevar a cabo la reanimación.",
+        "Se le debe aclarar al lector qué debe hacer en cada etapa de la reanimación.",
+        "Se deben representar los pasos que debe realizar una persona para reanimar a otra."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Máxima»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). La descripción verbal se debe acompañar de un ejemplo gráfico. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Se debe ilustrar en qué lugares se puede llevar a cabo la reanimación. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Se le debe aclarar al lector qué debe hacer en cada etapa de la reanimación. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Se deben representar los pasos que debe realizar una persona para reanimar a otra. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "1aceb70c-416d-5f95-87fc-2254b35c6c72",
+      "numero": 9,
+      "tema": "Comprensión lectora",
+      "dificultad": "easy",
+      "enunciado": "Es noche de martes\nDiego lava lechuga. Yo corto cebollas, pico tomates, controlo una salsa. Abrimos un vino. Después\nde comer, cruza sus cubiertos y me dice que qué bien cocino. Que soy rebuena ama de casa.\nAhora –mucha confianza y años juntos– sólo finjo que me enojo y él, que me conoce, finge que se\nsorprende con mi ceño fruncido. Sabe que me gusta cocinar y tener la casa ordenada, pero sabe,\ntambién, que imagino el infierno bajo la forma de las tareas del hogar como ocupación obligatoria\ny excluyente. Tenemos cuentas separadas, casa compartida y responsabilidades iguales. En fin:\ncasi. Porque si bien no hay nada que sea tarea exclusiva de Diego, sacar la ropa del tendedero\ny guardarla en los placares es una de esas cosas que “si-no-las-hago-yo-no-las-hace-nadie”.\nA Diego, simplemente, no le importa ver la ropa colgada durante meses, y yo prefiero que las\nmedias y los calzones no me arruinen la vista del balcón, de modo que una vez por semana me\ntransformo en mi mamá, que volvía del fondo con una parva de sábanas oliendo a sol, y junto la\nropa recién lavada.\nCada tanto me canso y revoleo mi derecho a la igualdad, entonces Diego dice con ternura “Sí,\ngordita, tenés razón”, dobla un par de remeras y a la semana otra vez: ahí voy yo, juntando broches.\nTambién soy la encargada de la sección “comidas difíciles” (Diego es del Club del Bifecito a la\nPlancha, si le toca cocinar). Si llego tarde a casa, sobre el pálido desierto de la mesa lucirá, con\nsuerte, el laguito rojo de un tomate cortado al medio. Si es Diego el que llega tarde, de guacamole\npara arriba habrá de todo. Antes pensaba que estas cosas –el orden, la comida caliente, una casa\nagradable– tenían que ver con cierta sensibilidad femenina en la que, por cierto, me cuesta creer:\ntengo amigos varones que viven solos y sus casas son tan agradables como la mía y cocinan mejor\nque yo. Prefiero pensar que son síntomas –visibles– de mi educación de buen partido: prolija, limpia,\nordenada. Cosas que aprendí de mi madre: perfumar la casa con cascarita de naranja, sacar las\nfrazadas al sol.\nTomado de: Leila Guerrero, (2009). “Me gusta ser mujer… y odio a las histéricas“,\nen Frutos extraños, Bogotá, Aguilar. pp. 330-331.\n\n────────────────────\n\nEn el fragmento del texto: \"Si llego tarde a casa, sobre el pálido desierto de la mesa lucirá, con suerte, el laguito rojo de un tomate cortado al medio\", ¿para qué se utilizan las expresiones \"pálido desierto de la mesa\" y \"laguito rojo de un tomate\"?",
+      "opciones": [
+        "Para resaltar el poco esfuerzo de Diego en la cocina.",
+        "Para explicar por qué Diego no se esforzó en la cocina.",
+        "Para justificar el poco esfuerzo de Diego en la cocina.",
+        "Para ilustrar el buen trabajo de Diego en la cocina."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Es noche de martes»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Para resaltar el poco esfuerzo de Diego en la cocina. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Para explicar por qué Diego no se esforzó en la cocina. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Para justificar el poco esfuerzo de Diego en la cocina. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Para ilustrar el buen trabajo de Diego en la cocina. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "aba81310-8a86-5b02-8310-7a46653721db",
+      "numero": 10,
+      "tema": "Comprensión lectora",
+      "dificultad": "easy",
+      "enunciado": "Es noche de martes\nDiego lava lechuga. Yo corto cebollas, pico tomates, controlo una salsa. Abrimos un vino. Después\nde comer, cruza sus cubiertos y me dice que qué bien cocino. Que soy rebuena ama de casa.\nAhora –mucha confianza y años juntos– sólo finjo que me enojo y él, que me conoce, finge que se\nsorprende con mi ceño fruncido. Sabe que me gusta cocinar y tener la casa ordenada, pero sabe,\ntambién, que imagino el infierno bajo la forma de las tareas del hogar como ocupación obligatoria\ny excluyente. Tenemos cuentas separadas, casa compartida y responsabilidades iguales. En fin:\ncasi. Porque si bien no hay nada que sea tarea exclusiva de Diego, sacar la ropa del tendedero\ny guardarla en los placares es una de esas cosas que “si-no-las-hago-yo-no-las-hace-nadie”.\nA Diego, simplemente, no le importa ver la ropa colgada durante meses, y yo prefiero que las\nmedias y los calzones no me arruinen la vista del balcón, de modo que una vez por semana me\ntransformo en mi mamá, que volvía del fondo con una parva de sábanas oliendo a sol, y junto la\nropa recién lavada.\nCada tanto me canso y revoleo mi derecho a la igualdad, entonces Diego dice con ternura “Sí,\ngordita, tenés razón”, dobla un par de remeras y a la semana otra vez: ahí voy yo, juntando broches.\nTambién soy la encargada de la sección “comidas difíciles” (Diego es del Club del Bifecito a la\nPlancha, si le toca cocinar). Si llego tarde a casa, sobre el pálido desierto de la mesa lucirá, con\nsuerte, el laguito rojo de un tomate cortado al medio. Si es Diego el que llega tarde, de guacamole\npara arriba habrá de todo. Antes pensaba que estas cosas –el orden, la comida caliente, una casa\nagradable– tenían que ver con cierta sensibilidad femenina en la que, por cierto, me cuesta creer:\ntengo amigos varones que viven solos y sus casas son tan agradables como la mía y cocinan mejor\nque yo. Prefiero pensar que son síntomas –visibles– de mi educación de buen partido: prolija, limpia,\nordenada. Cosas que aprendí de mi madre: perfumar la casa con cascarita de naranja, sacar las\nfrazadas al sol.\nTomado de: Leila Guerrero, (2009). “Me gusta ser mujer… y odio a las histéricas“,\nen Frutos extraños, Bogotá, Aguilar. pp. 330-331.\n\n────────────────────\n\nEn el texto, ¿por qué la narradora finge enojarse cuando Diego le dice que es una buena ama de casa?",
+      "opciones": [
+        "Porque no quiere ser catalogada como ama de casa.",
+        "Porque no es cierto que sea una buena ama de casa.",
+        "Porque no le gusta que la comparen con su mamá.",
+        "Porque no siente afecto por las mujeres que son amas de casa."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Es noche de martes»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Porque no quiere ser catalogada como ama de casa. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Porque no es cierto que sea una buena ama de casa. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Porque no le gusta que la comparen con su mamá. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Porque no siente afecto por las mujeres que son amas de casa. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "75ee0e9c-2d6b-5540-8ece-b0bfc926ec08",
+      "numero": 11,
+      "tema": "Estructura del texto",
+      "dificultad": "easy",
+      "enunciado": "Tratado contra el método\nEl conocimiento no consiste en una serie de teorías autoconsistentes que tiende a converger en\nuna perspectiva ideal; no consiste en un acercamiento gradual hacia la verdad. Por el contrario,\nel conocimiento es un océano, siempre en aumento, de alternativas incompatibles entre sí (y tal\nvez inconmensurables); toda teoría particular, todo cuento de hadas, todo mito, forman parte del\nconjunto que obliga al resto a una articulación mayor, y todos ellos contribuyen, por medio de este\nproceso competitivo, al desarrollo de nuestro conocimiento. No hay nada establecido para siempre,\nningún punto de vista puede quedar omitido en una explicación comprehensiva (...). Expertos y\nprofanos, profesionales y diletantes, forjadores de utopías y mentirosos, todos ellos están invitados\na participar en el debate y a contribuir al enriquecimiento de la cultura.\nLa tarea del científico no ha de ser por más tiempo “la búsqueda de la verdad”, o “la glorificación\nde dios”, o “la sistematización de las observaciones” o “el perfeccionamiento de predicciones”.\nTodas estas cosas no son más que efectos marginales de una actividad a la que se dirige ahora su\natención y que consiste en “hacer de la causa más débil la causa más fuerte”, como dijo el sofista,\n“por ello en apoyar el movimiento de conjunto”.\nTomado y adaptado de: Paul Feyerabend (1986). Tratado contra el método. Madrid,: Técnos, pp.14-15.\n\n────────────────────\n\n¿Cuál de las siguientes opciones describe mejor la relación entre el contenido del texto y el título?",
+      "opciones": [
+        "El texto introduce la propuesta de un nuevo método para la investigación científica, diferente del tradicional.",
+        "El texto ataca diferentes ideas a propósito de qué es aquello en lo que consiste el llamado “método científico”.",
+        "El texto crítica concepciones del conocimiento científico, el cual se ha concebido como resultado de un método.",
+        "El texto argumenta a favor de la pluralidad de métodos disponibles para que cada ciencia alcance sus verdades."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Tratado contra el método»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). El texto introduce la propuesta de un nuevo método para la investigación científica, diferente del tradicional. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). El texto ataca diferentes ideas a propósito de qué es aquello en lo que consiste el llamado “método científico”. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). El texto crítica concepciones del conocimiento científico, el cual se ha concebido como resultado de un método. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). El texto argumenta a favor de la pluralidad de métodos disponibles para que cada ciencia alcance sus verdades. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "3e12465a-90e5-5540-8d22-794fc0454fa5",
+      "numero": 12,
+      "tema": "Comprensión lectora",
+      "dificultad": "easy",
+      "enunciado": "Tratado contra el método\nEl conocimiento no consiste en una serie de teorías autoconsistentes que tiende a converger en\nuna perspectiva ideal; no consiste en un acercamiento gradual hacia la verdad. Por el contrario,\nel conocimiento es un océano, siempre en aumento, de alternativas incompatibles entre sí (y tal\nvez inconmensurables); toda teoría particular, todo cuento de hadas, todo mito, forman parte del\nconjunto que obliga al resto a una articulación mayor, y todos ellos contribuyen, por medio de este\nproceso competitivo, al desarrollo de nuestro conocimiento. No hay nada establecido para siempre,\nningún punto de vista puede quedar omitido en una explicación comprehensiva (...). Expertos y\nprofanos, profesionales y diletantes, forjadores de utopías y mentirosos, todos ellos están invitados\na participar en el debate y a contribuir al enriquecimiento de la cultura.\nLa tarea del científico no ha de ser por más tiempo “la búsqueda de la verdad”, o “la glorificación\nde dios”, o “la sistematización de las observaciones” o “el perfeccionamiento de predicciones”.\nTodas estas cosas no son más que efectos marginales de una actividad a la que se dirige ahora su\natención y que consiste en “hacer de la causa más débil la causa más fuerte”, como dijo el sofista,\n“por ello en apoyar el movimiento de conjunto”.\nTomado y adaptado de: Paul Feyerabend (1986). Tratado contra el método. Madrid,: Técnos, pp.14-15.\n\n────────────────────\n\nEl autor del texto aplica a la filosofía de la ciencia el principio del liberalismo, según el cual “todos los ciudadanos son iguales ante la ley y ante el Estado”. De acuerdo con esto, ¿cuál de las siguientes afirmaciones refleja de manera más directa la influencia de las ideas liberales?",
+      "opciones": [
+        "La tarea del científico no ha de ser por más tiempo la glorificación de dios.",
+        "Toda teoría particular, todo cuento de hadas, todo mito, forman parte del conocimiento.",
+        "Hacer de la causa más débil la causa más fuerte, por ello en apoyar el movimiento de conjunto.",
+        "El conocimiento no consiste en una serie de teorías autoconsistentes que tiende a converger en una perspectiva ideal."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Tratado contra el método»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). La tarea del científico no ha de ser por más tiempo la glorificación de dios. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Toda teoría particular, todo cuento de hadas, todo mito, forman parte del conocimiento. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Hacer de la causa más débil la causa más fuerte, por ello en apoyar el movimiento de conjunto. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). El conocimiento no consiste en una serie de teorías autoconsistentes que tiende a converger en una perspectiva ideal. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "6677254e-0493-522e-8384-0d8ad60deea0",
+      "numero": 13,
+      "tema": "Comprensión lectora",
+      "dificultad": "easy",
+      "enunciado": "Quino. (2011). Tomado de LITERATURA+TECNOLOGÍA+JÓVENES. Recuperado el 29 de enero de 2014, de\n- LLEGÓ HABLANDO DE COSAS MUY RARAS,...BONDAD, AMOR, TOLERANCIA,\nCARIDAD, CUANDO AQUI LO QUE NECESITAMOS ES SEGURIDAD, CASA, PAN Y\nTRABAJO. PERO LO QUE NOS HIZO SOSPECHAR ENSEGUIDA DE ÉL ES QUE\nNO RECORDAMOS HABERLO VISTO SIQUIERA UNA VEZ EN TELEVISIÓN.\n\n────────────────────\n\nEn la historieta, el niño intenta justificar el alto precio de la limonada recurriendo a:",
+      "opciones": [
+        "Argumentos absurdos pero consistentes.",
+        "Un modelo económico fiel a la realidad.",
+        "Una ley de mercado que no existe.",
+        "Su propia versión de la economía."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Quino. (2011). Tomado de LITERATURA+TECNOLOGÍA+JÓVENES. Recuperado el 29 de enero de 2014, de»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Argumentos absurdos pero consistentes. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Un modelo económico fiel a la realidad. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Una ley de mercado que no existe. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Su propia versión de la economía. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "34e8035e-9365-5f05-86ec-dc14801d480b",
+      "numero": 14,
+      "tema": "Comprensión lectora",
+      "dificultad": "easy",
+      "enunciado": "¿Cuál de los siguientes enunciados describe mejor la caricatura?",
+      "opciones": [
+        "El pueblo hace justicia por su propia mano.",
+        "El linchamiento de un ángel.",
+        "Entrevista con el asesino.",
+        "Un ángel bajó del cielo."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («¿Cuál de los siguientes enunciados describe mejor la caricatura?»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). El pueblo hace justicia por su propia mano. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). El linchamiento de un ángel. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Entrevista con el asesino. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Un ángel bajó del cielo. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "11e75088-d132-56db-9b56-f85dc8931a25",
+      "numero": 15,
+      "tema": "Propósito del autor",
+      "dificultad": "easy",
+      "enunciado": "Gran Hermano\n1984 es una novela futurista que tiene lugar en una sociedad totalitaria. Los ciudadanos de esta\nsociedad son controlados por una figura omnipresente conocida como el Gran Hermano. En el\nsiguiente apartado, un miembro defensor del orden le explica al protagonista el principal propósito\ndel régimen.\nNo habrá lealtad; no existirá más fidelidad que la que se debe al Partido, ni más amor que el amor\nal Gran Hermano. No habrá risa, excepto la risa triunfal cuando se derrota a un enemigo. No habrá\narte, ni literatura, ni ciencia. No habrá ya distinción entre la belleza y la fealdad. Todos los placeres\nserán destruidos. Pero siempre, no lo olvides, Winston, siempre habrá el afán de poder, la sed de\ndominio, que aumentará constantemente y se hará cada vez más sutil. Siempre existirá la emoción\nde la victoria, la sensación de pisotear a un enemigo indefenso. Si quieres hacerte una idea de cómo\nserá el futuro, figúrate una bota aplastando un rostro humano... incesantemente.\nTomado y adaptado de: Orwell, George. 1984. Barcelona: Ediciones Destino. 2008.\n\n────────────────────\n\nTeniendo en cuenta la información que brinda el texto, ¿cuál de las siguientes afirmaciones es compatible con las políticas del Partido?",
+      "opciones": [
+        "El pueblo debe mantenerse unido.",
+        "La individualidad debe ser eliminada.",
+        "El poder está en ser fiel a uno mismo.",
+        "Un pueblo ignorante es más poderoso."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Gran Hermano»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). El pueblo debe mantenerse unido. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). La individualidad debe ser eliminada. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). El poder está en ser fiel a uno mismo. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Un pueblo ignorante es más poderoso. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "bd407fcb-512d-58e6-bfe0-88e7f80dc9b1",
+      "numero": 16,
+      "tema": "Propósito del autor",
+      "dificultad": "easy",
+      "enunciado": "Gran Hermano\n1984 es una novela futurista que tiene lugar en una sociedad totalitaria. Los ciudadanos de esta\nsociedad son controlados por una figura omnipresente conocida como el Gran Hermano. En el\nsiguiente apartado, un miembro defensor del orden le explica al protagonista el principal propósito\ndel régimen.\nNo habrá lealtad; no existirá más fidelidad que la que se debe al Partido, ni más amor que el amor\nal Gran Hermano. No habrá risa, excepto la risa triunfal cuando se derrota a un enemigo. No habrá\narte, ni literatura, ni ciencia. No habrá ya distinción entre la belleza y la fealdad. Todos los placeres\nserán destruidos. Pero siempre, no lo olvides, Winston, siempre habrá el afán de poder, la sed de\ndominio, que aumentará constantemente y se hará cada vez más sutil. Siempre existirá la emoción\nde la victoria, la sensación de pisotear a un enemigo indefenso. Si quieres hacerte una idea de cómo\nserá el futuro, figúrate una bota aplastando un rostro humano... incesantemente.\nTomado y adaptado de: Orwell, George. 1984. Barcelona: Ediciones Destino. 2008.\n\n────────────────────\n\nEn el texto, la frase “figúrate una bota aplastando un rostro humano…incesantemente”",
+      "opciones": [
+        "explica los planes para el futuro del régimen.",
+        "ejemplifica las ideas transmitidas al pueblo.",
+        "expone el verdadero propósito del sistema de gobierno.",
+        "ilustra las condiciones de los ciudadanos bajo el régimen."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Gran Hermano»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). explica los planes para el futuro del régimen. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). ejemplifica las ideas transmitidas al pueblo. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). expone el verdadero propósito del sistema de gobierno. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). ilustra las condiciones de los ciudadanos bajo el régimen. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "b4e2ec9b-f076-590e-ab2c-271db6829b23",
+      "numero": 17,
+      "tema": "Vocabulario en contexto",
+      "dificultad": "medium",
+      "enunciado": "Sobre la fotografía\nSi las fotografías permiten la posesión imaginaria de un pasado irreal, también ayudan a tomar\nposesión de un espacio donde la gente está insegura. Así, la fotografía se desarrolla en conjunción\ncon una de las actividades modernas más características: el turismo. Por primera vez en la historia,\ngrupos numerosos de gente abandonan sus entornos habituales por breves periodos. Parece\ndecididamente anormal viajar por placer sin llevar una cámara. Las fotografías son la prueba\nirrecusable de que se hizo la excursión, se cumplió el programa, se gozó del viaje. Las fotografías\ndocumentan secuencias de consumo realizadas en ausencia de la familia, los amigos, los vecinos.\nPero la dependencia de la cámara, en cuanto aparato que da realidad a las experiencias, no\ndisminuye cuando la gente viaja más. El acto de fotografiar satisface las mismas necesidades para\nlos cosmopolitas que acumulan trofeos fotográficos de su excursión en barco por el Nilo o sus\ncatorce días en China, que para los turistas de clase media que hacen instantáneas de la Torre Eiffel\no las cataratas del Niágara.\nEl acto fotográfico, un modo de certificar la experiencia, es también un modo de rechazarla: cuando\nse confina a la búsqueda de lo fotogénico, cuando se convierte la experiencia en una imagen,\nun recuerdo. El viaje se transforma en una estrategia para acumular fotos. La propia actividad\nfotográfica es tranquilizadora, y mitiga esa desorientación general que se suele agudizar con los\nviajes. La mayoría de los turistas se sienten obligados a poner la cámara entre ellos y toda cosa\ndestacable que les sale al paso. Al no saber cómo reaccionar, hacen una foto. Así, la experiencia\ncobra forma: alto, una fotografía, adelante. El método seduce sobre todo a gente subyugada\na una ética de trabajo implacable: alemanes, japoneses y estadounidenses. El empleo de una\ncámara atenúa su ansiedad provocada por la inactividad laboral cuando están en vacaciones\ny presuntamente divirtiéndose. Cuentan con una tarea que parece una simpática imitación del\ntrabajo: pueden hacer fotos.\nTomado y adaptado de: Sontag, S. (2009). Sobre la fotografía. Barcelona: Debolsillo.\n\n────────────────────\n\nEn el fragmento tomado del texto: “Las fotografías son la prueba irrecusable de que se hizo la excursión, se cumplió el programa, se gozó del viaje”, ¿cuál de las siguientes palabras es un sinónimo de la palabra ‘irrecusable’?",
+      "opciones": [
+        "Inminente.",
+        "Concluyente.",
+        "Irremplazable.",
+        "Cuestionable."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Sobre la fotografía»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Inminente. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Concluyente. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Irremplazable. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Cuestionable. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "ec3b6517-6177-5908-8e9b-a7ea2e3cde26",
+      "numero": 18,
+      "tema": "Relación entre ideas",
+      "dificultad": "medium",
+      "enunciado": "Sobre la fotografía\nSi las fotografías permiten la posesión imaginaria de un pasado irreal, también ayudan a tomar\nposesión de un espacio donde la gente está insegura. Así, la fotografía se desarrolla en conjunción\ncon una de las actividades modernas más características: el turismo. Por primera vez en la historia,\ngrupos numerosos de gente abandonan sus entornos habituales por breves periodos. Parece\ndecididamente anormal viajar por placer sin llevar una cámara. Las fotografías son la prueba\nirrecusable de que se hizo la excursión, se cumplió el programa, se gozó del viaje. Las fotografías\ndocumentan secuencias de consumo realizadas en ausencia de la familia, los amigos, los vecinos.\nPero la dependencia de la cámara, en cuanto aparato que da realidad a las experiencias, no\ndisminuye cuando la gente viaja más. El acto de fotografiar satisface las mismas necesidades para\nlos cosmopolitas que acumulan trofeos fotográficos de su excursión en barco por el Nilo o sus\ncatorce días en China, que para los turistas de clase media que hacen instantáneas de la Torre Eiffel\no las cataratas del Niágara.\nEl acto fotográfico, un modo de certificar la experiencia, es también un modo de rechazarla: cuando\nse confina a la búsqueda de lo fotogénico, cuando se convierte la experiencia en una imagen,\nun recuerdo. El viaje se transforma en una estrategia para acumular fotos. La propia actividad\nfotográfica es tranquilizadora, y mitiga esa desorientación general que se suele agudizar con los\nviajes. La mayoría de los turistas se sienten obligados a poner la cámara entre ellos y toda cosa\ndestacable que les sale al paso. Al no saber cómo reaccionar, hacen una foto. Así, la experiencia\ncobra forma: alto, una fotografía, adelante. El método seduce sobre todo a gente subyugada\na una ética de trabajo implacable: alemanes, japoneses y estadounidenses. El empleo de una\ncámara atenúa su ansiedad provocada por la inactividad laboral cuando están en vacaciones\ny presuntamente divirtiéndose. Cuentan con una tarea que parece una simpática imitación del\ntrabajo: pueden hacer fotos.\nTomado y adaptado de: Sontag, S. (2009). Sobre la fotografía. Barcelona: Debolsillo.\n\n────────────────────\n\nConsidere el siguiente resumen del texto:\n“La autora analiza la relación entre el turismo y la fotografía, teniendo en cuenta que los cosmopolitas ven en sus viajes al acto de fotografiar como una necesidad. Según ella, ese acto acaba por convertirse en una práctica trivial con la que solo se busca mitigar la desorientación general que causan los viajes. Así, la fotografía se convierte para los cosmopolitas japoneses, estadounidenses y alemanes en una especie de reemplazo del trabajo al que están acostumbrados”.\nEl anterior resumen se puede describir como inadecuado porque",
+      "opciones": [
+        "expone ideas contrarias a las afirmaciones principales del texto.",
+        "se centra en un tipo particular de turistas y no en los turistas en general.",
+        "omite el tono irónico y burlón con que la autora se refiere al arte de la fotografía.",
+        "se detiene en presentar información en extremo detallada y secundaria del texto."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Sobre la fotografía»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). expone ideas contrarias a las afirmaciones principales del texto. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). se centra en un tipo particular de turistas y no en los turistas en general. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). omite el tono irónico y burlón con que la autora se refiere al arte de la fotografía. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). se detiene en presentar información en extremo detallada y secundaria del texto. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "f9f83c4d-dde8-5167-958c-d1fb976b019f",
+      "numero": 19,
+      "tema": "Vocabulario en contexto",
+      "dificultad": "medium",
+      "enunciado": "Entre la crónica y la ideología\nFray Pedro de Aguado fue un misionero español que vivió en el Nuevo Reino de Granada entre\n1560 y 1590, aproximadamente. Se le atribuye la autoría de la Recopilación historial,*un extenso\ncompendio de crónicas donde se refieren los hechos de la temprana colonización española en los\nactuales territorios de Colombia y Venezuela. Las narraciones de la Recopilación giran alrededor\nde la entrada de los colonizadores españoles en territorios del “Nuevo Mundo”, del sometimiento\nde sus pobladores ancestrales y la subsiguiente fundación de ciudades coloniales, ofreciendo\npor lo general descripciones de las sociedades indígenas y su entorno natural. En el relato de las\ncampañas del capitán Galarza y sus soldados en los actuales territorios del Tolima, Aguado se\nrefiere de esta manera a los indios de la región:\nSon estos indios de Ibagué grandes carniceros de carne humana y de cualquier otra carne; tienen algodón,\naunque poco, de que hacen algunas mantas para su vestir; las indias son muy feas, y traen en la cabeza unos\nbonetes de venado con que aprietan y axen los cabellos; no hay entre ellos caciques, como entre otros indios,\nmas son mandados de algunos indios principales  que entre ellos hay, a los cuales obedecen cuando les\nparece y les da gusto. Es tierra muy áspera y fragosa, en la que estos indios habitan, y todas sierras peladas.\nEn su estudio Los indios medievales de fray Pedro de Aguado**, el historiador Jaime Humberto\nBorja sostuvo que la Recopilación historial no puede ser tomada como una fuente fiable para el\nconocimiento de los eventos históricos; ante todo, debe asumirse como un texto que respondía\nideológica y culturalmente a una tradición europea que poco tenía que ver con el mundo que\npretendía representar: el del indígena y su entorno natural. Frente a descripciones como la que\nacabamos de citar, afirma Borja que el de Aguado “es un indio retórico, que surge de una realidad\ntextual y no de una realidad aprehendida por la experiencia”. Además, la construcción narrativa del\nindio de la crónica de Aguado reúne imágenes conocidas por la tradición cristiana y los imaginarios\nbíblicos: “El canibalismo, las exacerbadas costumbres, la fiereza de sus armas, su alianza con\ntraidores, el engaño. En el indio recae la descripción de los vicios físicos y morales de toda la\nextensión natural. (…) Para reafirmar sus posiciones, Aguado presenta una naturaleza tan salvaje\ncomo sus habitantes”.\nTomado y adaptado de: Borja Gómez, J. H. (2002).Los indios medievales de fray Pedro de Aguado: construcción del\nidólatra y escritura de la historia en una crónica del siglo XVI. CEJA/Instituto Colombiano de Antropología e Historia/\nUniversidad Iberoamericana.\n\n────────────────────\n\nDe acuerdo con el texto, se puede afirmar que la descripción de los indios de Ibagué hecha por\nAguado corresponde a",
+      "opciones": [
+        "un periodo anterior a la llegada de los españoles al continente americano, pues presenta a los indígenas en una situación de “salvajismo” absoluto.",
+        "el proceso de fundación de la ciudad colonial de Ibagué, pues la dinámica de colonización consistía en fundar las ciudades y luego someter a los indígenas de la zona.",
+        "la etapa de “conquista” de los territorios que se anexarían a la colonia neogranadina, pues la descripción es parte de un relato de una campaña militar.",
+        "un periodo histórico indeterminado, pues el texto no ofrece información cronológica que permita identificar el momento que corresponde a la descripción."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Entre la crónica y la ideología»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). un periodo anterior a la llegada de los españoles al continente americano, pues presenta a los indígenas en una situación de “salvajismo” ab… — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). el proceso de fundación de la ciudad colonial de Ibagué, pues la dinámica de colonización consistía en fundar las ciudades y luego someter a… — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). la etapa de “conquista” de los territorios que se anexarían a la colonia neogranadina, pues la descripción es parte de un relato de una campaña militar. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). un periodo histórico indeterminado, pues el texto no ofrece información cronológica que permita identificar el momento que corresponde a la … — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "d0f8d3a7-ac97-50f4-8934-6d80c9cc2a1c",
+      "numero": 20,
+      "tema": "Vocabulario en contexto",
+      "dificultad": "medium",
+      "enunciado": "Entre la crónica y la ideología\nFray Pedro de Aguado fue un misionero español que vivió en el Nuevo Reino de Granada entre\n1560 y 1590, aproximadamente. Se le atribuye la autoría de la Recopilación historial,*un extenso\ncompendio de crónicas donde se refieren los hechos de la temprana colonización española en los\nactuales territorios de Colombia y Venezuela. Las narraciones de la Recopilación giran alrededor\nde la entrada de los colonizadores españoles en territorios del “Nuevo Mundo”, del sometimiento\nde sus pobladores ancestrales y la subsiguiente fundación de ciudades coloniales, ofreciendo\npor lo general descripciones de las sociedades indígenas y su entorno natural. En el relato de las\ncampañas del capitán Galarza y sus soldados en los actuales territorios del Tolima, Aguado se\nrefiere de esta manera a los indios de la región:\nSon estos indios de Ibagué grandes carniceros de carne humana y de cualquier otra carne; tienen algodón,\naunque poco, de que hacen algunas mantas para su vestir; las indias son muy feas, y traen en la cabeza unos\nbonetes de venado con que aprietan y axen los cabellos; no hay entre ellos caciques, como entre otros indios,\nmas son mandados de algunos indios principales  que entre ellos hay, a los cuales obedecen cuando les\nparece y les da gusto. Es tierra muy áspera y fragosa, en la que estos indios habitan, y todas sierras peladas.\nEn su estudio Los indios medievales de fray Pedro de Aguado**, el historiador Jaime Humberto\nBorja sostuvo que la Recopilación historial no puede ser tomada como una fuente fiable para el\nconocimiento de los eventos históricos; ante todo, debe asumirse como un texto que respondía\nideológica y culturalmente a una tradición europea que poco tenía que ver con el mundo que\npretendía representar: el del indígena y su entorno natural. Frente a descripciones como la que\nacabamos de citar, afirma Borja que el de Aguado “es un indio retórico, que surge de una realidad\ntextual y no de una realidad aprehendida por la experiencia”. Además, la construcción narrativa del\nindio de la crónica de Aguado reúne imágenes conocidas por la tradición cristiana y los imaginarios\nbíblicos: “El canibalismo, las exacerbadas costumbres, la fiereza de sus armas, su alianza con\ntraidores, el engaño. En el indio recae la descripción de los vicios físicos y morales de toda la\nextensión natural. (…) Para reafirmar sus posiciones, Aguado presenta una naturaleza tan salvaje\ncomo sus habitantes”.\nTomado y adaptado de: Borja Gómez, J. H. (2002).Los indios medievales de fray Pedro de Aguado: construcción del\nidólatra y escritura de la historia en una crónica del siglo XVI. CEJA/Instituto Colombiano de Antropología e Historia/\nUniversidad Iberoamericana.\n\n────────────────────\n\nDe acuerdo a su contenido, ¿qué otro título podría ajustarse al texto?",
+      "opciones": [
+        "Civilización y barbarie en la colonización española.",
+        "Fray Pedro de Aguado y la construcción retórica del indígena.",
+        "El canibalismo ritual en la crónica de fray Pedro de Aguado.",
+        "La influencia de los autores clásicos en los cronistas neogranadinos: el caso de Aguado."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Entre la crónica y la ideología»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Civilización y barbarie en la colonización española. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Fray Pedro de Aguado y la construcción retórica del indígena. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). El canibalismo ritual en la crónica de fray Pedro de Aguado. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). La influencia de los autores clásicos en los cronistas neogranadinos: el caso de Aguado. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "433a38c4-3512-5ac3-a03f-5ba8007b2e5a",
+      "numero": 21,
+      "tema": "Comprensión lectora",
+      "dificultad": "medium",
+      "enunciado": "Tomado de: Quino (1972). Caricatura. A mí no me grite. Buenos Aires: Lumen.\n\n────────────────────\n\n¿En cuál de los siguientes contextos se inscribe mejor la caricatura?",
+      "opciones": [
+        "Anuncio publicitario.",
+        "Reportaje gráfico.",
+        "Humor gráfico.",
+        "Sátira política. RESPONDE LA PREGUNTA 21 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Tomado de: Quino (1972). Caricatura. A mí no me grite. Buenos Aires: Lumen."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Tomado de: Quino (1972). Caricatura. A mí no me grite. Buenos Aires: Lumen.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Anuncio publicitario. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Reportaje gráfico. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Humor gráfico. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Sátira política. RESPONDE LA PREGUNTA 21 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Tomado de: Quino (1972). Caricatura. A mí no me grite. Buen… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "d5412f71-1a5d-55ac-b386-a73553e7aaa3",
+      "numero": 22,
+      "tema": "Relación entre ideas",
+      "dificultad": "medium",
+      "enunciado": "DEL DEBER DE LA DESOBEDIENCIA CIVIL (1849)\nCreo de todo corazón en el lema “El mejor gobierno es el que tiene que gobernar menos”, y me\ngustaría verlo hacerse efectivo más rápida y sistemáticamente. Bien llevado, finalmente resulta en\nalgo en lo que también creo: “El mejor gobierno es el que no tiene que gobernar en absoluto”. Y\ncuando los pueblos estén preparados para ello, ése será el tipo de gobierno que tengan. En el mejor\nde los casos, el gobierno no es más que una conveniencia, pero en su mayoría los gobiernos son\ninconvenientes y todos han resultado serlo en algún momento. Las objeciones que se han hecho\na la existencia de un ejército permanente, que son varias y de peso, y que merecen mantenerse,\npueden también por fin esgrimirse en contra del gobierno. El ejército permanente es sólo el brazo\ndel gobierno establecido. El gobierno en sí, que es únicamente el modo escogido por el pueblo para\nejecutar su voluntad, está igualmente sujeto al abuso y la corrupción antes de que el pueblo pueda\nactuar a través suyo.\nSomos testigos de la actual guerra con México, obra de unos pocos individuos comparativamente,\nque utilizan como herramienta al gobierno actual; en principio, el pueblo no habría aprobado esta\nmedida. Pero, para hablar en forma práctica y como ciudadano, a diferencia de aquellos que se\nllaman “antigobiernistas”, yo pido, no como “antigobiernista” sino como ciudadano, y de inmediato,\nun mejor gobierno. Permítasele a cada individuo dar a conocer el tipo de gobierno que lo impulsaría\na respetarlo y eso ya sería un paso ganado para obtener ese respeto. Después de todo, la razón\npráctica por la cual, una vez que el poder está en manos del pueblo, se le permite a una mayoría,\ny por un período largo de tiempo, regir, no es porque esa mayoría esté tal vez en lo correcto, ni\nporque le parezca justo a la minoría, sino porque físicamente son los más fuertes. Pero un gobierno\nen el que la mayoría rige en todos los casos no se puede basar en la justicia. No es deseable cultivar\nrespeto por la ley más de por lo que es correcto. La única obligación a la que debo someterme es a\nla de hacer siempre lo que creo correcto. La ley nunca hizo al hombre un ápice más justo, y a causa\ndel respeto por ella, aún el hombre bien dispuesto se convierte a diario en un agente de la injusticia.\nHenry David Thoreau\nTomado y adaptado de: http://thoreau.eserver.org/spanishcivil.html. Consultado el 25 de enero de 2015.\n\n────────────────────\n\n¿Cuál de los siguientes es un ejemplo que menciona el autor para apoyar su posición frente a los\nGobiernos?",
+      "opciones": [
+        "La guerra con México.",
+        "Los abusos del ejército.",
+        "La tiranía de las mayorías.",
+        "La debilidad de las minorías. RESPONDE LA PREGUNTA 23 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN » Las filosofías comienzan en filosofía y acaban en retórica. (59) » La filosofía es actitud solitaria. » La adhesión de cualquier muchedumbre a una doctrina la convierte en mitología. (110) » Los sistemas filosóficos difieren los unos de los otros menos en la manera de resolver que en la manera de escamotear los problemas. (117) » Los que se ocupan de filosofía no la tomarían tan en serio, si generalmente no vivieran de ella como profesión. (130) » En filosofía lo que no sea fragmento es estafa. (162) Tomado de: Gómez Dávila, N.(1992). Sucesivos escolios a un texto implícito. Bogotá: Instituto Caro y Cuervo."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («DEL DEBER DE LA DESOBEDIENCIA CIVIL (1849)»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). La guerra con México. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Los abusos del ejército. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). La tiranía de las mayorías. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). La debilidad de las minorías. RESPONDE LA PREGUNTA 23 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN » Las filosofías comienzan en filosofía y acab… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "dc52d06f-aebf-5202-b3ac-0efa2c55de4d",
+      "numero": 23,
+      "tema": "Comprensión lectora",
+      "dificultad": "medium",
+      "enunciado": "»\nLas filosofías comienzan en filosofía y acaban en retórica. (59)\n»\nLa filosofía es actitud solitaria.\n»\nLa adhesión de cualquier muchedumbre a una doctrina la convierte en mitología. (110)\n»\nLos sistemas filosóficos difieren los unos de los otros menos en la manera de resolver que en la\nmanera de escamotear los problemas. (117)\n»\nLos que se ocupan de filosofía no la tomarían tan en serio, si generalmente no vivieran de ella\ncomo profesión. (130)\n»\nEn filosofía lo que no sea fragmento es estafa. (162)\nTomado de: Gómez Dávila, N.(1992). Sucesivos escolios a un texto implícito. Bogotá: Instituto Caro y Cuervo.\n\n────────────────────\n\nDe acuerdo con el enunciado “Los sistemas filosóficos difieren los unos de los otros menos en la manera de resolver que en la manera de escamotear los problemas”, ¿cuál es la principal diferencia entre un sistema filosófico y otro?",
+      "opciones": [
+        "La manera de plantear los problemas.",
+        "La manera de resolver los problemas.",
+        "La manera de esquivar los problemas.",
+        "La manera de burlarse de los problemas."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («»»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). La manera de plantear los problemas. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). La manera de resolver los problemas. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). La manera de esquivar los problemas. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). La manera de burlarse de los problemas. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "bbccb25e-d150-5fc2-9068-519758989ebe",
+      "numero": 24,
+      "tema": "Propósito del autor",
+      "dificultad": "medium",
+      "enunciado": "Aprendiendo de los chimpancés\nCuando inicié mi estudio sobre chimpancés salvajes en 1960, en el Centro de Investigaciones\nGombe Stream, no era permitido, al menos no en los círculos de etología, hablar sobre la mente de\nlos animales. Solo los humanos tienen mentes. Ni tampoco era del todo correcto hablar acerca de la\npersonalidad de los animales. Por supuesto que todos sabían que ellos tienen sus caracteres únicos\n—todos los que alguna vez hubieran tenido un perro u otra mascota eran conscientes de ello—.\nPero los etólogos, luchando por hacer de la suya una ciencia ‘dura’, se mantuvieron alejados de la\ntarea de tratar de explicar esas cosas objetivamente. Un respetado etólogo, al mismo tiempo que\nreconocía que había una “variabilidad entre animales individuales”, escribió que era mejor que este\nhecho se “escondiera debajo de la alfombra”.\nQué ingenua era. Como no había tenido una educación científica de pregrado, no me di cuenta de\nque en teoría los animales no debían tener personalidades, pensar o sentir emociones o dolor. No\ntenía idea de que hubiera sido más apropiado —una vez que llegara a conocerla o conocerlo—\nasignarle a cada uno de los chimpancés un número en lugar de un nombre. No me di cuenta de\nque no era científico discutir sobre el comportamiento en términos de motivación o propósito.\nNo era respetable, en círculos científicos, hablar sobre la personalidad de los animales. Eso era\nalgo que estaba reservado para los humanos. Tampoco tenían mente, así que no eran capaces\nde pensamiento racional. Y hablar acerca de sus emociones era sentirse culpable del peor tipo de\nantropomorfismo (atribuirles características humanas a los animales).\nEn los comentarios editoriales al primer artículo que escribí con fines de publicación, se exigía que\ntodo “él” o “ella” fuera reemplazado por “ello” y que todo “quien” fuera reemplazado por “que”.\nEnfurecida, taché uno a uno los “ello” y “que” y reescribí los pronombres originales. Dado que no\nme interesaba forjarme un nicho personal en el mundo de la ciencia, sino que simplemente quería\nvivir entre chimpancés y aprender sobre ellos, la posible reacción del editor de la muy ilustrada\nrevista me era indiferente. El artículo, cuando finalmente fue publicado, les confirió a los chimpancés\nla dignidad de sus géneros correspondientes y correctamente los promovió del estatus de meras\n“cosas” a su existencia esencial.\nTomado y adaptado de: Goodall, Jane. “Aprendiendo de los chimpancés: un mensaje que los humanos pueden entender”.\nEn: Science, diciembre, 1998: Vol. 282 no. 5397 pp. 2184-2185.\n\n────────────────────\n\nConsidere el siguiente enunciado tomado del texto: \"No me di cuenta de que no era científico discutir sobre el comportamiento en términos de motivación o propósito\".\n¿Qué prejuicio cuestiona la autora por medio del enunciado anterior?",
+      "opciones": [
+        "Los animales tienen mente y, por tanto, deben tratarse como seres con personalidades o emociones.",
+        "La etología es una ciencia “dura” que se esfuerza por mantener a raya las explicaciones subjetivas.",
+        "Las explicaciones científicas sobre el comportamiento no deben tener en cuenta la intención al explicar la conducta.",
+        "La variabilidad entre animales individuales es un hecho contingente que la etología no debe considerar. RESPONDE LA PREGUNTA 25 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Tomado de: Barrero, Tomás y Henao, Alejandro (2014). Historia de un olvido. Bogotá: Editorial Dendros."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Aprendiendo de los chimpancés»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Los animales tienen mente y, por tanto, deben tratarse como seres con personalidades o emociones. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). La etología es una ciencia “dura” que se esfuerza por mantener a raya las explicaciones subjetivas. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Las explicaciones científicas sobre el comportamiento no deben tener en cuenta la intención al explicar la conducta. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). La variabilidad entre animales individuales es un hecho contingente que la etología no debe considerar. RESPONDE LA PREGUNTA 25 DE ACUERDO C… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "0e2b1670-8a41-56aa-884a-22ccc07bd06a",
+      "numero": 25,
+      "tema": "Comprensión lectora",
+      "dificultad": "medium",
+      "enunciado": "Tomado de: Barrero, Tomás y Henao, Alejandro (2014). Historia de un olvido.\nBogotá: Editorial Dendros.\n\n────────────────────\n\nTeniendo en cuenta los planteamientos dados en la historieta, ¿cuál de los siguientes enunciados contradice la tesis central del texto?",
+      "opciones": [
+        "No todo se divide entre lo que depende y lo que no depende de nosotros.",
+        "Alejarnos de alguien no depende de nosotros mismos.",
+        "La mente de un filósofo funciona de la misma manera que su cuerpo.",
+        "El juicio y el deseo no dependen de nosotros."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («Tomado de: Barrero, Tomás y Henao, Alejandro (2014). Historia de un olvido.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). No todo se divide entre lo que depende y lo que no depende de nosotros. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Alejarnos de alguien no depende de nosotros mismos. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). La mente de un filósofo funciona de la misma manera que su cuerpo. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). El juicio y el deseo no dependen de nosotros. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "138391a9-ef90-5589-b518-d820a4b622ba",
+      "numero": 26,
+      "tema": "Comprensión lectora",
+      "dificultad": "medium",
+      "enunciado": "La historia del arte\nA mucha gente le gusta ver en los cuadros lo que también le gustaría ver en la realidad. Se trata\nde una preferencia perfectamente comprensible. A todos nos atrae lo bello en la naturaleza y\nagradecemos a los artistas que lo recojan en sus obras. Esos mismos artistas no nos censurarían\npor nuestros gustos. Cuando el gran artista flamenco Rubens dibujó a su hijo, estaba orgulloso\nde sus agradables acciones y deseaba que también nosotros admiráramos al pequeño. Pero\nesta inclinación a los temas bonitos y atractivos puede convertirse en nociva si nos conduce\na rechazar obras que representan asuntos menos agradables. El gran pintor alemán Alberto\nDurero seguramente dibujó a su madre con tanta devoción y cariño como Rubens a su hijo. Su\nverista estudio de la vejez y la decrepitud puede producirnos tan viva impresión que nos haga\napartar los ojos de él y, sin embargo, si reaccionamos contra esta primera aversión, quedaremos\nrecompensados con creces, pues el dibujo de Durero, en su tremenda sinceridad, es una gran\nobra. En efecto, de pronto descubrimos que la hermosura de un cuadro no reside realmente en la\nbelleza de su tema. No sé si los golfillos que el pintor español Murillo se complacía en pintar eran\nestrictamente bellos o no, pero tal como fueron pintados por él, poseen desde luego gran encanto.\nTomado de: Gombrich, E. H. (2003). La historia del arte. Madrid: Random House Mondadori.\n\n────────────────────\n\nEn el texto, ¿para qué el autor hace referencia a Rubens?",
+      "opciones": [
+        "Para mostrar que a todos nos atrae lo bello y por fortuna el arte lo recoge en la pintura.",
+        "Para resaltar que el público siempre exige que el artista refleje la realidad en los cuadros.",
+        "Para manifestar que algunos artistas plasman en sus obras lo que nos gusta ver en la realidad.",
+        "Para concluir que la inclinación en el arte por los temas bonitos y atractivos es bastante nociva."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («La historia del arte»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Para mostrar que a todos nos atrae lo bello y por fortuna el arte lo recoge en la pintura. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Para resaltar que el público siempre exige que el artista refleje la realidad en los cuadros. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Para manifestar que algunos artistas plasman en sus obras lo que nos gusta ver en la realidad. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Para concluir que la inclinación en el arte por los temas bonitos y atractivos es bastante nociva. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "ede5c00c-1436-5964-a070-ab9a3052e666",
+      "numero": 27,
+      "tema": "Comprensión lectora",
+      "dificultad": "medium",
+      "enunciado": "La historia del arte\nA mucha gente le gusta ver en los cuadros lo que también le gustaría ver en la realidad. Se trata\nde una preferencia perfectamente comprensible. A todos nos atrae lo bello en la naturaleza y\nagradecemos a los artistas que lo recojan en sus obras. Esos mismos artistas no nos censurarían\npor nuestros gustos. Cuando el gran artista flamenco Rubens dibujó a su hijo, estaba orgulloso\nde sus agradables acciones y deseaba que también nosotros admiráramos al pequeño. Pero\nesta inclinación a los temas bonitos y atractivos puede convertirse en nociva si nos conduce\na rechazar obras que representan asuntos menos agradables. El gran pintor alemán Alberto\nDurero seguramente dibujó a su madre con tanta devoción y cariño como Rubens a su hijo. Su\nverista estudio de la vejez y la decrepitud puede producirnos tan viva impresión que nos haga\napartar los ojos de él y, sin embargo, si reaccionamos contra esta primera aversión, quedaremos\nrecompensados con creces, pues el dibujo de Durero, en su tremenda sinceridad, es una gran\nobra. En efecto, de pronto descubrimos que la hermosura de un cuadro no reside realmente en la\nbelleza de su tema. No sé si los golfillos que el pintor español Murillo se complacía en pintar eran\nestrictamente bellos o no, pero tal como fueron pintados por él, poseen desde luego gran encanto.\nTomado de: Gombrich, E. H. (2003). La historia del arte. Madrid: Random House Mondadori.\n\n────────────────────\n\n¿Cuál de los siguientes enunciados expresa un juicio de valor presente en el texto?",
+      "opciones": [
+        "Mientras Rubens dibujó la juventud, Durero dibujó la vejez.",
+        "Los golfillos del pintor español Murillo tienen gran encanto.",
+        "Rubens estaba orgulloso de su hijo y deseaba que lo admiráramos.",
+        "Para el público, la hermosura de un cuadro reside en la belleza de su tema."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («La historia del arte»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Mientras Rubens dibujó la juventud, Durero dibujó la vejez. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Los golfillos del pintor español Murillo tienen gran encanto. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Rubens estaba orgulloso de su hijo y deseaba que lo admiráramos. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Para el público, la hermosura de un cuadro reside en la belleza de su tema. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "e2e5ea3f-a970-587d-adb3-2ffe22f610c2",
+      "numero": 28,
+      "tema": "Estructura del texto",
+      "dificultad": "medium",
+      "enunciado": "La historia del arte\nA mucha gente le gusta ver en los cuadros lo que también le gustaría ver en la realidad. Se trata\nde una preferencia perfectamente comprensible. A todos nos atrae lo bello en la naturaleza y\nagradecemos a los artistas que lo recojan en sus obras. Esos mismos artistas no nos censurarían\npor nuestros gustos. Cuando el gran artista flamenco Rubens dibujó a su hijo, estaba orgulloso\nde sus agradables acciones y deseaba que también nosotros admiráramos al pequeño. Pero\nesta inclinación a los temas bonitos y atractivos puede convertirse en nociva si nos conduce\na rechazar obras que representan asuntos menos agradables. El gran pintor alemán Alberto\nDurero seguramente dibujó a su madre con tanta devoción y cariño como Rubens a su hijo. Su\nverista estudio de la vejez y la decrepitud puede producirnos tan viva impresión que nos haga\napartar los ojos de él y, sin embargo, si reaccionamos contra esta primera aversión, quedaremos\nrecompensados con creces, pues el dibujo de Durero, en su tremenda sinceridad, es una gran\nobra. En efecto, de pronto descubrimos que la hermosura de un cuadro no reside realmente en la\nbelleza de su tema. No sé si los golfillos que el pintor español Murillo se complacía en pintar eran\nestrictamente bellos o no, pero tal como fueron pintados por él, poseen desde luego gran encanto.\nTomado de: Gombrich, E. H. (2003). La historia del arte. Madrid: Random House Mondadori.\n\n────────────────────\n\n¿Cuál de los siguientes títulos podría ser el más adecuado para el texto anterior?",
+      "opciones": [
+        "En defensa del mal gusto en el arte.",
+        "El arte como modelo de la realidad.",
+        "La representación de la belleza en el arte.",
+        "Rubens, Durero y Murillo: el arte de la pintura."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («La historia del arte»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). En defensa del mal gusto en el arte. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). El arte como modelo de la realidad. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). La representación de la belleza en el arte. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Rubens, Durero y Murillo: el arte de la pintura. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "3f03eef4-7f74-53e9-9314-1673d80d0ae7",
+      "numero": 29,
+      "tema": "Comprensión lectora",
+      "dificultad": "medium",
+      "enunciado": "El Anillo de Giges: La Naturaleza de la Justicia\nNadie es justo por voluntad sino porque no tiene el poder de cometer injusticias. Esto lo\npercibiremos mejor si nos imaginamos las cosas del siguiente modo: demos tanto al justo como al\ninjusto el poder de hacer lo que cada uno de ellos quiere, y a continuación sigámoslos para observar\nhasta dónde lo lleva a cada uno el deseo. Entonces sorprenderemos al justo tomando el mismo\ncamino que el injusto, siguiendo sus propios intereses, lo que toda criatura persigue por naturaleza\ncomo un bien, pero que la fuerza de la ley obliga a seguir el camino del respeto por la igualdad.\nEl poder del que hablo sería efectivo al máximo si aquellos hombres adquirieran una fuerza tal como\nla que se dice que cierta vez tuvo Giges, el antepasado del lidio. Giges era un pastor que servía\nal entonces rey de Lidia. Un día sobrevino una gran tormenta y un terremoto que rasgó la tierra y\nprodujo un abismo en el lugar en que Giges llevaba el ganado a pastorear. Asombrado al ver esto,\ndescendió al abismo y halló, entre otras maravillas que narran los mitos, un caballo de bronce,\nhueco y con ventanillas, a través de las cuales divisó adentro un cadáver de tamaño más grande\nque el de un hombre, según parecía, y que no tenía nada excepto un anillo de oro en la mano. Giges\nle quitó el anillo y salió del abismo. Ahora bien, los pastores hacían su reunión habitual para dar\nal rey el informe mensual concerniente a la hacienda, cuando llegó Giges llevando el anillo. Tras\nsentarse entre los demás, casualmente volvió el engaste del anillo hacia el interior de su mano. Al\nsuceder esto se tornó invisible para los que estaban sentados allí, quienes se pusieron a hablar de\nél como si se hubiera ido. Giges se asombró, y luego, examinando el anillo, dio vuelta al engaste\nhacia afuera y tornó a hacerse visible. Al advertirlo, experimentó con el anillo para ver si tenía tal\npropiedad, y comprobó que así era: cuando giraba el engaste hacia adentro, su dueño se hacía\ninvisible, y cuando lo giraba hacia afuera, se hacía visible. En cuanto se hubo cerciorado de ello,\nmaquinó el modo de formar parte de los que fueron a la residencia del rey como informantes y, una\nvez allí, sedujo a la reina y con ayuda de ella mató al rey y se apoderó del reino.\nPor consiguiente, si hubiese dos anillos como el de Giges y se diera uno a un hombre justo y\notro a uno injusto, ninguno perseveraría en la justicia ni soportaría abstenerse de bienes ajenos,\ncuando podría tanto apoderarse impunemente de lo que quisiera del mercado, como, al entrar en\nlas casas, acostarse con la mujer que prefiriera, y tanto matar a unos como librar de las cadenas a\notros, según su voluntad, y hacer todo como si fuera igual a un dios entre los hombres. En esto, el\nhombre justo no haría nada diferente del injusto, sino que ambos marcharían por el mismo camino.\nE incluso se diría que esto es una importante prueba de que nadie es justo si no es forzado a serlo,\npor no considerarse a la justicia como un bien individual, ya que allí donde cada uno se cree capaz\nde cometer injusticias, las comete. En efecto, todo hombre piensa que la injusticia le brinda más\nventajas individuales que la justicia, y está en lo cierto, si habla de acuerdo con esta teoría.\nTomado de: Platón IV, D. (1986). República, Traducción y notas de C. Eggers Lan, Madrid, Gredos.\n\n────────────────────\n\n¿Cuál de las siguientes afirmaciones contradice las ideas que presenta el autor?",
+      "opciones": [
+        "Algunas personas actúan justamente a pesar de poder actuar de manera injusta.",
+        "La injusticia, contrariamente a la justicia, es natural en el ser humano.",
+        "Actuar con justicia brinda menos ventajas que hacerlo con injusticia.",
+        "La injusticia, contrariamente a la justicia, se comete voluntariamente."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El Anillo de Giges: La Naturaleza de la Justicia»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Algunas personas actúan justamente a pesar de poder actuar de manera injusta. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). La injusticia, contrariamente a la justicia, es natural en el ser humano. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Actuar con justicia brinda menos ventajas que hacerlo con injusticia. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). La injusticia, contrariamente a la justicia, se comete voluntariamente. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "9621ee11-47c4-5e8d-9525-663cc6b6400b",
+      "numero": 30,
+      "tema": "Comprensión lectora",
+      "dificultad": "medium",
+      "enunciado": "El Anillo de Giges: La Naturaleza de la Justicia\nNadie es justo por voluntad sino porque no tiene el poder de cometer injusticias. Esto lo\npercibiremos mejor si nos imaginamos las cosas del siguiente modo: demos tanto al justo como al\ninjusto el poder de hacer lo que cada uno de ellos quiere, y a continuación sigámoslos para observar\nhasta dónde lo lleva a cada uno el deseo. Entonces sorprenderemos al justo tomando el mismo\ncamino que el injusto, siguiendo sus propios intereses, lo que toda criatura persigue por naturaleza\ncomo un bien, pero que la fuerza de la ley obliga a seguir el camino del respeto por la igualdad.\nEl poder del que hablo sería efectivo al máximo si aquellos hombres adquirieran una fuerza tal como\nla que se dice que cierta vez tuvo Giges, el antepasado del lidio. Giges era un pastor que servía\nal entonces rey de Lidia. Un día sobrevino una gran tormenta y un terremoto que rasgó la tierra y\nprodujo un abismo en el lugar en que Giges llevaba el ganado a pastorear. Asombrado al ver esto,\ndescendió al abismo y halló, entre otras maravillas que narran los mitos, un caballo de bronce,\nhueco y con ventanillas, a través de las cuales divisó adentro un cadáver de tamaño más grande\nque el de un hombre, según parecía, y que no tenía nada excepto un anillo de oro en la mano. Giges\nle quitó el anillo y salió del abismo. Ahora bien, los pastores hacían su reunión habitual para dar\nal rey el informe mensual concerniente a la hacienda, cuando llegó Giges llevando el anillo. Tras\nsentarse entre los demás, casualmente volvió el engaste del anillo hacia el interior de su mano. Al\nsuceder esto se tornó invisible para los que estaban sentados allí, quienes se pusieron a hablar de\nél como si se hubiera ido. Giges se asombró, y luego, examinando el anillo, dio vuelta al engaste\nhacia afuera y tornó a hacerse visible. Al advertirlo, experimentó con el anillo para ver si tenía tal\npropiedad, y comprobó que así era: cuando giraba el engaste hacia adentro, su dueño se hacía\ninvisible, y cuando lo giraba hacia afuera, se hacía visible. En cuanto se hubo cerciorado de ello,\nmaquinó el modo de formar parte de los que fueron a la residencia del rey como informantes y, una\nvez allí, sedujo a la reina y con ayuda de ella mató al rey y se apoderó del reino.\nPor consiguiente, si hubiese dos anillos como el de Giges y se diera uno a un hombre justo y\notro a uno injusto, ninguno perseveraría en la justicia ni soportaría abstenerse de bienes ajenos,\ncuando podría tanto apoderarse impunemente de lo que quisiera del mercado, como, al entrar en\nlas casas, acostarse con la mujer que prefiriera, y tanto matar a unos como librar de las cadenas a\notros, según su voluntad, y hacer todo como si fuera igual a un dios entre los hombres. En esto, el\nhombre justo no haría nada diferente del injusto, sino que ambos marcharían por el mismo camino.\nE incluso se diría que esto es una importante prueba de que nadie es justo si no es forzado a serlo,\npor no considerarse a la justicia como un bien individual, ya que allí donde cada uno se cree capaz\nde cometer injusticias, las comete. En efecto, todo hombre piensa que la injusticia le brinda más\nventajas individuales que la justicia, y está en lo cierto, si habla de acuerdo con esta teoría.\nTomado de: Platón IV, D. (1986). República, Traducción y notas de C. Eggers Lan, Madrid, Gredos.\n\n────────────────────\n\nDe los siguientes enunciados, ¿cuál presenta un supuesto subyacente a la afirmación “Todo hombre piensa que la injusticia le brinda más ventajas individuales que la justicia, y está en lo cierto, si habla de acuerdo con esta teoría”?",
+      "opciones": [
+        "La injusticia brinda las mismas ventajas individuales que la justicia.",
+        "La justicia, al igual que la injusticia, brinda ventajas individuales.",
+        "La injusticia, a diferencia de la justicia, brinda pocas ventajas individuales.",
+        "La justicia no brinda ninguna de las ventajas individuales que la injusticia brinda."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El Anillo de Giges: La Naturaleza de la Justicia»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). La injusticia brinda las mismas ventajas individuales que la justicia. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). La justicia, al igual que la injusticia, brinda ventajas individuales. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). La injusticia, a diferencia de la justicia, brinda pocas ventajas individuales. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). La justicia no brinda ninguna de las ventajas individuales que la injusticia brinda. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "7aec9f87-d977-517a-af38-0d4049b5d9b2",
+      "numero": 31,
+      "tema": "Comprensión lectora",
+      "dificultad": "medium",
+      "enunciado": "El Anillo de Giges: La Naturaleza de la Justicia\nNadie es justo por voluntad sino porque no tiene el poder de cometer injusticias. Esto lo\npercibiremos mejor si nos imaginamos las cosas del siguiente modo: demos tanto al justo como al\ninjusto el poder de hacer lo que cada uno de ellos quiere, y a continuación sigámoslos para observar\nhasta dónde lo lleva a cada uno el deseo. Entonces sorprenderemos al justo tomando el mismo\ncamino que el injusto, siguiendo sus propios intereses, lo que toda criatura persigue por naturaleza\ncomo un bien, pero que la fuerza de la ley obliga a seguir el camino del respeto por la igualdad.\nEl poder del que hablo sería efectivo al máximo si aquellos hombres adquirieran una fuerza tal como\nla que se dice que cierta vez tuvo Giges, el antepasado del lidio. Giges era un pastor que servía\nal entonces rey de Lidia. Un día sobrevino una gran tormenta y un terremoto que rasgó la tierra y\nprodujo un abismo en el lugar en que Giges llevaba el ganado a pastorear. Asombrado al ver esto,\ndescendió al abismo y halló, entre otras maravillas que narran los mitos, un caballo de bronce,\nhueco y con ventanillas, a través de las cuales divisó adentro un cadáver de tamaño más grande\nque el de un hombre, según parecía, y que no tenía nada excepto un anillo de oro en la mano. Giges\nle quitó el anillo y salió del abismo. Ahora bien, los pastores hacían su reunión habitual para dar\nal rey el informe mensual concerniente a la hacienda, cuando llegó Giges llevando el anillo. Tras\nsentarse entre los demás, casualmente volvió el engaste del anillo hacia el interior de su mano. Al\nsuceder esto se tornó invisible para los que estaban sentados allí, quienes se pusieron a hablar de\nél como si se hubiera ido. Giges se asombró, y luego, examinando el anillo, dio vuelta al engaste\nhacia afuera y tornó a hacerse visible. Al advertirlo, experimentó con el anillo para ver si tenía tal\npropiedad, y comprobó que así era: cuando giraba el engaste hacia adentro, su dueño se hacía\ninvisible, y cuando lo giraba hacia afuera, se hacía visible. En cuanto se hubo cerciorado de ello,\nmaquinó el modo de formar parte de los que fueron a la residencia del rey como informantes y, una\nvez allí, sedujo a la reina y con ayuda de ella mató al rey y se apoderó del reino.\nPor consiguiente, si hubiese dos anillos como el de Giges y se diera uno a un hombre justo y\notro a uno injusto, ninguno perseveraría en la justicia ni soportaría abstenerse de bienes ajenos,\ncuando podría tanto apoderarse impunemente de lo que quisiera del mercado, como, al entrar en\nlas casas, acostarse con la mujer que prefiriera, y tanto matar a unos como librar de las cadenas a\notros, según su voluntad, y hacer todo como si fuera igual a un dios entre los hombres. En esto, el\nhombre justo no haría nada diferente del injusto, sino que ambos marcharían por el mismo camino.\nE incluso se diría que esto es una importante prueba de que nadie es justo si no es forzado a serlo,\npor no considerarse a la justicia como un bien individual, ya que allí donde cada uno se cree capaz\nde cometer injusticias, las comete. En efecto, todo hombre piensa que la injusticia le brinda más\nventajas individuales que la justicia, y está en lo cierto, si habla de acuerdo con esta teoría.\nTomado de: Platón IV, D. (1986). República, Traducción y notas de C. Eggers Lan, Madrid, Gredos.\n\n────────────────────\n\n¿Cuál de las siguientes afirmaciones constituye una razón a favor de la tesis principal del texto anterior, a saber, que cuando alguien actúa justamente lo hace por obligación y no voluntariamente?",
+      "opciones": [
+        "La gente se ve obligada a actuar justamente.",
+        "Solo la igualdad garantiza el respeto por la ley.",
+        "La injusticia brinda las mismas ventajas individuales que la justicia.",
+        "Siempre que una persona cuente con la libertad para cometer injusticias lo hará."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El Anillo de Giges: La Naturaleza de la Justicia»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). La gente se ve obligada a actuar justamente. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Solo la igualdad garantiza el respeto por la ley. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). La injusticia brinda las mismas ventajas individuales que la justicia. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Siempre que una persona cuente con la libertad para cometer injusticias lo hará. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "04813156-cfd3-5c90-bb66-ff4ab5c7fb43",
+      "numero": 32,
+      "tema": "Estructura del texto",
+      "dificultad": "medium",
+      "enunciado": "El Anillo de Giges: La Naturaleza de la Justicia\nNadie es justo por voluntad sino porque no tiene el poder de cometer injusticias. Esto lo\npercibiremos mejor si nos imaginamos las cosas del siguiente modo: demos tanto al justo como al\ninjusto el poder de hacer lo que cada uno de ellos quiere, y a continuación sigámoslos para observar\nhasta dónde lo lleva a cada uno el deseo. Entonces sorprenderemos al justo tomando el mismo\ncamino que el injusto, siguiendo sus propios intereses, lo que toda criatura persigue por naturaleza\ncomo un bien, pero que la fuerza de la ley obliga a seguir el camino del respeto por la igualdad.\nEl poder del que hablo sería efectivo al máximo si aquellos hombres adquirieran una fuerza tal como\nla que se dice que cierta vez tuvo Giges, el antepasado del lidio. Giges era un pastor que servía\nal entonces rey de Lidia. Un día sobrevino una gran tormenta y un terremoto que rasgó la tierra y\nprodujo un abismo en el lugar en que Giges llevaba el ganado a pastorear. Asombrado al ver esto,\ndescendió al abismo y halló, entre otras maravillas que narran los mitos, un caballo de bronce,\nhueco y con ventanillas, a través de las cuales divisó adentro un cadáver de tamaño más grande\nque el de un hombre, según parecía, y que no tenía nada excepto un anillo de oro en la mano. Giges\nle quitó el anillo y salió del abismo. Ahora bien, los pastores hacían su reunión habitual para dar\nal rey el informe mensual concerniente a la hacienda, cuando llegó Giges llevando el anillo. Tras\nsentarse entre los demás, casualmente volvió el engaste del anillo hacia el interior de su mano. Al\nsuceder esto se tornó invisible para los que estaban sentados allí, quienes se pusieron a hablar de\nél como si se hubiera ido. Giges se asombró, y luego, examinando el anillo, dio vuelta al engaste\nhacia afuera y tornó a hacerse visible. Al advertirlo, experimentó con el anillo para ver si tenía tal\npropiedad, y comprobó que así era: cuando giraba el engaste hacia adentro, su dueño se hacía\ninvisible, y cuando lo giraba hacia afuera, se hacía visible. En cuanto se hubo cerciorado de ello,\nmaquinó el modo de formar parte de los que fueron a la residencia del rey como informantes y, una\nvez allí, sedujo a la reina y con ayuda de ella mató al rey y se apoderó del reino.\nPor consiguiente, si hubiese dos anillos como el de Giges y se diera uno a un hombre justo y\notro a uno injusto, ninguno perseveraría en la justicia ni soportaría abstenerse de bienes ajenos,\ncuando podría tanto apoderarse impunemente de lo que quisiera del mercado, como, al entrar en\nlas casas, acostarse con la mujer que prefiriera, y tanto matar a unos como librar de las cadenas a\notros, según su voluntad, y hacer todo como si fuera igual a un dios entre los hombres. En esto, el\nhombre justo no haría nada diferente del injusto, sino que ambos marcharían por el mismo camino.\nE incluso se diría que esto es una importante prueba de que nadie es justo si no es forzado a serlo,\npor no considerarse a la justicia como un bien individual, ya que allí donde cada uno se cree capaz\nde cometer injusticias, las comete. En efecto, todo hombre piensa que la injusticia le brinda más\nventajas individuales que la justicia, y está en lo cierto, si habla de acuerdo con esta teoría.\nTomado de: Platón IV, D. (1986). República, Traducción y notas de C. Eggers Lan, Madrid, Gredos.\n\n────────────────────\n\n¿Cuál de las siguientes afirmaciones sintetiza adecuadamente las ideas contenidas en el primer párrafo del texto?",
+      "opciones": [
+        "El que alguien sea justo es un deber que se deriva de la conciencia moral que tienen todos los hombres.",
+        "El que alguien sea justo resulta de una imposición, pues toda persona sin las restricciones y exigencias de la ley buscará satisfacer sus deseos.",
+        "La justicia es una ilusión, ya que lo natural es que una persona busque cumplir sus deseos y alcanzar sus intereses, sin reparar en la igualdad que exige la ley.",
+        "La justicia es un ideal inalcanzable, ya que toda persona, por más justa que aparente ser, tiene intereses propios que pueden llevarla a cometer injusticias."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El Anillo de Giges: La Naturaleza de la Justicia»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). El que alguien sea justo es un deber que se deriva de la conciencia moral que tienen todos los hombres. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). El que alguien sea justo resulta de una imposición, pues toda persona sin las restricciones y exigencias de la ley buscará satisfacer sus deseos. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). La justicia es una ilusión, ya que lo natural es que una persona busque cumplir sus deseos y alcanzar sus intereses, sin reparar en la igual… — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). La justicia es un ideal inalcanzable, ya que toda persona, por más justa que aparente ser, tiene intereses propios que pueden llevarla a com… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "e581d8bd-a4ef-557b-8482-41da75957be7",
+      "numero": 33,
+      "tema": "Propósito del autor",
+      "dificultad": "medium",
+      "enunciado": "El Anillo de Giges: La Naturaleza de la Justicia\nNadie es justo por voluntad sino porque no tiene el poder de cometer injusticias. Esto lo\npercibiremos mejor si nos imaginamos las cosas del siguiente modo: demos tanto al justo como al\ninjusto el poder de hacer lo que cada uno de ellos quiere, y a continuación sigámoslos para observar\nhasta dónde lo lleva a cada uno el deseo. Entonces sorprenderemos al justo tomando el mismo\ncamino que el injusto, siguiendo sus propios intereses, lo que toda criatura persigue por naturaleza\ncomo un bien, pero que la fuerza de la ley obliga a seguir el camino del respeto por la igualdad.\nEl poder del que hablo sería efectivo al máximo si aquellos hombres adquirieran una fuerza tal como\nla que se dice que cierta vez tuvo Giges, el antepasado del lidio. Giges era un pastor que servía\nal entonces rey de Lidia. Un día sobrevino una gran tormenta y un terremoto que rasgó la tierra y\nprodujo un abismo en el lugar en que Giges llevaba el ganado a pastorear. Asombrado al ver esto,\ndescendió al abismo y halló, entre otras maravillas que narran los mitos, un caballo de bronce,\nhueco y con ventanillas, a través de las cuales divisó adentro un cadáver de tamaño más grande\nque el de un hombre, según parecía, y que no tenía nada excepto un anillo de oro en la mano. Giges\nle quitó el anillo y salió del abismo. Ahora bien, los pastores hacían su reunión habitual para dar\nal rey el informe mensual concerniente a la hacienda, cuando llegó Giges llevando el anillo. Tras\nsentarse entre los demás, casualmente volvió el engaste del anillo hacia el interior de su mano. Al\nsuceder esto se tornó invisible para los que estaban sentados allí, quienes se pusieron a hablar de\nél como si se hubiera ido. Giges se asombró, y luego, examinando el anillo, dio vuelta al engaste\nhacia afuera y tornó a hacerse visible. Al advertirlo, experimentó con el anillo para ver si tenía tal\npropiedad, y comprobó que así era: cuando giraba el engaste hacia adentro, su dueño se hacía\ninvisible, y cuando lo giraba hacia afuera, se hacía visible. En cuanto se hubo cerciorado de ello,\nmaquinó el modo de formar parte de los que fueron a la residencia del rey como informantes y, una\nvez allí, sedujo a la reina y con ayuda de ella mató al rey y se apoderó del reino.\nPor consiguiente, si hubiese dos anillos como el de Giges y se diera uno a un hombre justo y\notro a uno injusto, ninguno perseveraría en la justicia ni soportaría abstenerse de bienes ajenos,\ncuando podría tanto apoderarse impunemente de lo que quisiera del mercado, como, al entrar en\nlas casas, acostarse con la mujer que prefiriera, y tanto matar a unos como librar de las cadenas a\notros, según su voluntad, y hacer todo como si fuera igual a un dios entre los hombres. En esto, el\nhombre justo no haría nada diferente del injusto, sino que ambos marcharían por el mismo camino.\nE incluso se diría que esto es una importante prueba de que nadie es justo si no es forzado a serlo,\npor no considerarse a la justicia como un bien individual, ya que allí donde cada uno se cree capaz\nde cometer injusticias, las comete. En efecto, todo hombre piensa que la injusticia le brinda más\nventajas individuales que la justicia, y está en lo cierto, si habla de acuerdo con esta teoría.\nTomado de: Platón IV, D. (1986). República, Traducción y notas de C. Eggers Lan, Madrid, Gredos.\n\n────────────────────\n\nDada la estructura del texto anterior, ¿qué propósito general tiene el autor al introducir el relato sobre el anillo de Giges, y cómo lo alcanza?",
+      "opciones": [
+        "Promover en la audiencia la idea de que es más ventajoso seguir el camino de la injusticia. El caso de Giges muestra cómo obtuvo beneficios gracias al comportamiento injusto que le posibilitó el anillo.",
+        "Convencer a la audiencia de que todo hombre cometerá injusticias cuando tenga la oportunidad. Así lo hizo Giges una vez descubrió el poder que le otorgaba el anillo.",
+        "Reforzar en la audiencia la idea de que todos cometemos injusticias. El caso de Giges ilustra cómo las personas aparentemente justas en realidad cometen grandes injusticias.",
+        "Persuadir a la audiencia de que actuar justamente requiere mucha fuerza de voluntad. En el caso de Giges, la tentación derivada del poder del anillo doblegó su voluntad."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El Anillo de Giges: La Naturaleza de la Justicia»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Promover en la audiencia la idea de que es más ventajoso seguir el camino de la injusticia. El caso de Giges muestra cómo obtuvo beneficios … — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Convencer a la audiencia de que todo hombre cometerá injusticias cuando tenga la oportunidad. Así lo hizo Giges una vez descubrió el poder que le otorgaba el anillo. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Reforzar en la audiencia la idea de que todos cometemos injusticias. El caso de Giges ilustra cómo las personas aparentemente justas en real… — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Persuadir a la audiencia de que actuar justamente requiere mucha fuerza de voluntad. En el caso de Giges, la tentación derivada del poder de… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "18758d18-ba73-5b04-be34-0e14fdab961a",
+      "numero": 34,
+      "tema": "Inferencia",
+      "dificultad": "medium",
+      "enunciado": "El matrimonio: más allá del amor\nEn nuestra sociedad, se tiende a pensar que el matrimonio, la base de la familia, se sostiene si hay\nconfianza mutua y buena comunicación, así como si ambos miembros de la pareja trabajan unidos\npara resolver los conflictos y pasan tiempo juntos. En resumen, su piedra angular es un amor maduro\ny sincero. No obstante, la idea de que este deba ser la razón última del enlace es bastante reciente:\naparece en el siglo XVIII y se afianza en el XIX, con el movimiento romántico. Hasta entonces, el\nmatrimonio era ante todo una institución económica y política demasiado trascendente como para\ndejarla en manos de los dos individuos implicados. En general, resultaba inconcebible que semejante\nacuerdo se basara en algo tan irracional como el enamoramiento. De hecho, no se inventó ni para\nque los hombres protegieran a las mujeres ni para que las explotaran. Se trataba de una alianza entre\ngrupos que iba más allá de los familiares más cercanos o incluso los pequeños grupos.\nPara las élites, era una manera excelente de consolidar la riqueza, fusionar recursos y forjar uniones\npolíticas. Desde la Edad Media, la dote de boda de la mujer constituía el mayor ingreso de dinero,\nbienes o tierras que un hombre iba a recibir en toda su vida. Para los más pobres, también suponía\nuna transacción económica que debía ser beneficiosa para la familia. Así, se solía casar al hijo con la\nhija de quien tenía un campo colindante. El matrimonio se convirtió en la estructura que garantizaba\nla supervivencia de la familia extendida, que incluye abuelos, hermanos, sobrinos… Al contrario de\nlo que solemos creer, la imagen del marido trabajando fuera de la casa y la mujer haciéndose cargo\nde la misma es un producto reciente, de los años 50. Hasta entonces, la familia no se sostenía con un\núnico proveedor, sino que todos sus integrantes contribuían al único negocio de la que esta dependía.\nQue el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran.\nSin embargo, en algunas culturas se trata de algo incompatible con el matrimonio. En la China\ntradicional, por ejemplo, una atracción excesiva entre los esposos era tenida como una amenaza al\nrespeto y solidaridad debida a la familia. Es más, en tal ambiente, la palabra amor solo se aplicaba\npara describir las relaciones ilícitas. Fue en la década de 1920 cuando se inventó un término para\ndesignar el cariño entre cónyuges. Una idea tan radicalmente nueva exigía un vocabulario especial.\nAún hoy, muchas sociedades desaprueban la idea de que el amor sea el centro del matrimonio.\nEs el caso de los fulbes africanos, del norte de Camerún. “Muchas de sus mujeres niegan\nvehementemente cualquier apego hacia el marido”, asegura Helen A. Regis, del Departamento de\nGeografía y Antropología de la Universidad Estatal de Luisiana. Otras, en cambio, aprueban el amor\nentre esposos, pero nunca antes de que el matrimonio haya cumplido su objetivo primordial.\nTomado y adaptado de: Sabadell, Miguel Ángel (2013). “Líos de familias”. En: Muy Interesante, No. 384, pp. 72-76.\n\n────────────────────\n\nPara el autor, el amor o el enamoramiento son",
+      "opciones": [
+        "la base fundamental del matrimonio y de la familia.",
+        "una atracción que amenaza al respeto y la solidaridad debida a la familia.",
+        "unas ideas vinculadas recientemente al matrimonio y la familia.",
+        "unos sentimientos irracionales que contradicen el deber ser del matrimonio."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El matrimonio: más allá del amor»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). la base fundamental del matrimonio y de la familia. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). una atracción que amenaza al respeto y la solidaridad debida a la familia. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). unas ideas vinculadas recientemente al matrimonio y la familia. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). unos sentimientos irracionales que contradicen el deber ser del matrimonio. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "df6241c9-6df7-5e04-aa51-fbc02a74376f",
+      "numero": 35,
+      "tema": "Inferencia",
+      "dificultad": "medium",
+      "enunciado": "El matrimonio: más allá del amor\nEn nuestra sociedad, se tiende a pensar que el matrimonio, la base de la familia, se sostiene si hay\nconfianza mutua y buena comunicación, así como si ambos miembros de la pareja trabajan unidos\npara resolver los conflictos y pasan tiempo juntos. En resumen, su piedra angular es un amor maduro\ny sincero. No obstante, la idea de que este deba ser la razón última del enlace es bastante reciente:\naparece en el siglo XVIII y se afianza en el XIX, con el movimiento romántico. Hasta entonces, el\nmatrimonio era ante todo una institución económica y política demasiado trascendente como para\ndejarla en manos de los dos individuos implicados. En general, resultaba inconcebible que semejante\nacuerdo se basara en algo tan irracional como el enamoramiento. De hecho, no se inventó ni para\nque los hombres protegieran a las mujeres ni para que las explotaran. Se trataba de una alianza entre\ngrupos que iba más allá de los familiares más cercanos o incluso los pequeños grupos.\nPara las élites, era una manera excelente de consolidar la riqueza, fusionar recursos y forjar uniones\npolíticas. Desde la Edad Media, la dote de boda de la mujer constituía el mayor ingreso de dinero,\nbienes o tierras que un hombre iba a recibir en toda su vida. Para los más pobres, también suponía\nuna transacción económica que debía ser beneficiosa para la familia. Así, se solía casar al hijo con la\nhija de quien tenía un campo colindante. El matrimonio se convirtió en la estructura que garantizaba\nla supervivencia de la familia extendida, que incluye abuelos, hermanos, sobrinos… Al contrario de\nlo que solemos creer, la imagen del marido trabajando fuera de la casa y la mujer haciéndose cargo\nde la misma es un producto reciente, de los años 50. Hasta entonces, la familia no se sostenía con un\núnico proveedor, sino que todos sus integrantes contribuían al único negocio de la que esta dependía.\nQue el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran.\nSin embargo, en algunas culturas se trata de algo incompatible con el matrimonio. En la China\ntradicional, por ejemplo, una atracción excesiva entre los esposos era tenida como una amenaza al\nrespeto y solidaridad debida a la familia. Es más, en tal ambiente, la palabra amor solo se aplicaba\npara describir las relaciones ilícitas. Fue en la década de 1920 cuando se inventó un término para\ndesignar el cariño entre cónyuges. Una idea tan radicalmente nueva exigía un vocabulario especial.\nAún hoy, muchas sociedades desaprueban la idea de que el amor sea el centro del matrimonio.\nEs el caso de los fulbes africanos, del norte de Camerún. “Muchas de sus mujeres niegan\nvehementemente cualquier apego hacia el marido”, asegura Helen A. Regis, del Departamento de\nGeografía y Antropología de la Universidad Estatal de Luisiana. Otras, en cambio, aprueban el amor\nentre esposos, pero nunca antes de que el matrimonio haya cumplido su objetivo primordial.\nTomado y adaptado de: Sabadell, Miguel Ángel (2013). “Líos de familias”. En: Muy Interesante, No. 384, pp. 72-76.\n\n────────────────────\n\nEn el Fragmento tomado del texto: \"Que el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran. Sin embargo, en algunas culturas se trata de algo incompatible con el matrimonio\", ¿qué función cumple el conector \"Sin embargo\"?",
+      "opciones": [
+        "Introducir un nuevo tema de reflexión.",
+        "Negar información suministrada previamente.",
+        "Agregar nuevos detalles acerca de lo dicho anteriormente.",
+        "Contrastar la información anterior sin llegar a invalidarla."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El matrimonio: más allá del amor»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Introducir un nuevo tema de reflexión. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Negar información suministrada previamente. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Agregar nuevos detalles acerca de lo dicho anteriormente. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Contrastar la información anterior sin llegar a invalidarla. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "32225ac3-2e99-5860-8012-f9ad02e13aee",
+      "numero": 36,
+      "tema": "Inferencia",
+      "dificultad": "medium",
+      "enunciado": "El matrimonio: más allá del amor\nEn nuestra sociedad, se tiende a pensar que el matrimonio, la base de la familia, se sostiene si hay\nconfianza mutua y buena comunicación, así como si ambos miembros de la pareja trabajan unidos\npara resolver los conflictos y pasan tiempo juntos. En resumen, su piedra angular es un amor maduro\ny sincero. No obstante, la idea de que este deba ser la razón última del enlace es bastante reciente:\naparece en el siglo XVIII y se afianza en el XIX, con el movimiento romántico. Hasta entonces, el\nmatrimonio era ante todo una institución económica y política demasiado trascendente como para\ndejarla en manos de los dos individuos implicados. En general, resultaba inconcebible que semejante\nacuerdo se basara en algo tan irracional como el enamoramiento. De hecho, no se inventó ni para\nque los hombres protegieran a las mujeres ni para que las explotaran. Se trataba de una alianza entre\ngrupos que iba más allá de los familiares más cercanos o incluso los pequeños grupos.\nPara las élites, era una manera excelente de consolidar la riqueza, fusionar recursos y forjar uniones\npolíticas. Desde la Edad Media, la dote de boda de la mujer constituía el mayor ingreso de dinero,\nbienes o tierras que un hombre iba a recibir en toda su vida. Para los más pobres, también suponía\nuna transacción económica que debía ser beneficiosa para la familia. Así, se solía casar al hijo con la\nhija de quien tenía un campo colindante. El matrimonio se convirtió en la estructura que garantizaba\nla supervivencia de la familia extendida, que incluye abuelos, hermanos, sobrinos… Al contrario de\nlo que solemos creer, la imagen del marido trabajando fuera de la casa y la mujer haciéndose cargo\nde la misma es un producto reciente, de los años 50. Hasta entonces, la familia no se sostenía con un\núnico proveedor, sino que todos sus integrantes contribuían al único negocio de la que esta dependía.\nQue el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran.\nSin embargo, en algunas culturas se trata de algo incompatible con el matrimonio. En la China\ntradicional, por ejemplo, una atracción excesiva entre los esposos era tenida como una amenaza al\nrespeto y solidaridad debida a la familia. Es más, en tal ambiente, la palabra amor solo se aplicaba\npara describir las relaciones ilícitas. Fue en la década de 1920 cuando se inventó un término para\ndesignar el cariño entre cónyuges. Una idea tan radicalmente nueva exigía un vocabulario especial.\nAún hoy, muchas sociedades desaprueban la idea de que el amor sea el centro del matrimonio.\nEs el caso de los fulbes africanos, del norte de Camerún. “Muchas de sus mujeres niegan\nvehementemente cualquier apego hacia el marido”, asegura Helen A. Regis, del Departamento de\nGeografía y Antropología de la Universidad Estatal de Luisiana. Otras, en cambio, aprueban el amor\nentre esposos, pero nunca antes de que el matrimonio haya cumplido su objetivo primordial.\nTomado y adaptado de: Sabadell, Miguel Ángel (2013). “Líos de familias”. En: Muy Interesante, No. 384, pp. 72-76.\n\n────────────────────\n\nLa palabra “dote” utilizada en el segundo párrafo del texto, puede remplazarse, sin que se modifique el sentido de lo dicho por:",
+      "opciones": [
+        "Ahorros de la futura esposa",
+        "Dinero de los familiares",
+        "Aporte patrimonial",
+        "Ceremonia matrimonial"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El matrimonio: más allá del amor»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Ahorros de la futura esposa — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Dinero de los familiares — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Aporte patrimonial — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Ceremonia matrimonial — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "55789a90-bf9b-5675-bec2-622c4a566efa",
+      "numero": 37,
+      "tema": "Inferencia",
+      "dificultad": "hard",
+      "enunciado": "El matrimonio: más allá del amor\nEn nuestra sociedad, se tiende a pensar que el matrimonio, la base de la familia, se sostiene si hay\nconfianza mutua y buena comunicación, así como si ambos miembros de la pareja trabajan unidos\npara resolver los conflictos y pasan tiempo juntos. En resumen, su piedra angular es un amor maduro\ny sincero. No obstante, la idea de que este deba ser la razón última del enlace es bastante reciente:\naparece en el siglo XVIII y se afianza en el XIX, con el movimiento romántico. Hasta entonces, el\nmatrimonio era ante todo una institución económica y política demasiado trascendente como para\ndejarla en manos de los dos individuos implicados. En general, resultaba inconcebible que semejante\nacuerdo se basara en algo tan irracional como el enamoramiento. De hecho, no se inventó ni para\nque los hombres protegieran a las mujeres ni para que las explotaran. Se trataba de una alianza entre\ngrupos que iba más allá de los familiares más cercanos o incluso los pequeños grupos.\nPara las élites, era una manera excelente de consolidar la riqueza, fusionar recursos y forjar uniones\npolíticas. Desde la Edad Media, la dote de boda de la mujer constituía el mayor ingreso de dinero,\nbienes o tierras que un hombre iba a recibir en toda su vida. Para los más pobres, también suponía\nuna transacción económica que debía ser beneficiosa para la familia. Así, se solía casar al hijo con la\nhija de quien tenía un campo colindante. El matrimonio se convirtió en la estructura que garantizaba\nla supervivencia de la familia extendida, que incluye abuelos, hermanos, sobrinos… Al contrario de\nlo que solemos creer, la imagen del marido trabajando fuera de la casa y la mujer haciéndose cargo\nde la misma es un producto reciente, de los años 50. Hasta entonces, la familia no se sostenía con un\núnico proveedor, sino que todos sus integrantes contribuían al único negocio de la que esta dependía.\nQue el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran.\nSin embargo, en algunas culturas se trata de algo incompatible con el matrimonio. En la China\ntradicional, por ejemplo, una atracción excesiva entre los esposos era tenida como una amenaza al\nrespeto y solidaridad debida a la familia. Es más, en tal ambiente, la palabra amor solo se aplicaba\npara describir las relaciones ilícitas. Fue en la década de 1920 cuando se inventó un término para\ndesignar el cariño entre cónyuges. Una idea tan radicalmente nueva exigía un vocabulario especial.\nAún hoy, muchas sociedades desaprueban la idea de que el amor sea el centro del matrimonio.\nEs el caso de los fulbes africanos, del norte de Camerún. “Muchas de sus mujeres niegan\nvehementemente cualquier apego hacia el marido”, asegura Helen A. Regis, del Departamento de\nGeografía y Antropología de la Universidad Estatal de Luisiana. Otras, en cambio, aprueban el amor\nentre esposos, pero nunca antes de que el matrimonio haya cumplido su objetivo primordial.\nTomado y adaptado de: Sabadell, Miguel Ángel (2013). “Líos de familias”. En: Muy Interesante, No. 384, pp. 72-76.\n\n────────────────────\n\nEn el texto, ¿qué función cumple el tercer párrafo?",
+      "opciones": [
+        "Presentar un paralelo entre las concepciones del amor y el matrimonio en la China tradicional y en Occidente.",
+        "Demuestrar que en China el enamoramiento entre esposos era una amenaza al respeto y la solidaridad de la familia.",
+        "Sintetizar las razones por las cuales en algunas culturas el enamoramiento y el matrimonio se consideran incompatibles.",
+        "Proveer un ejemplo de como la asociación entre el amor y el matrimonio no es algo propio de todos los tiempos y culturas."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El matrimonio: más allá del amor»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Presentar un paralelo entre las concepciones del amor y el matrimonio en la China tradicional y en Occidente. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Demuestrar que en China el enamoramiento entre esposos era una amenaza al respeto y la solidaridad de la familia. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Sintetizar las razones por las cuales en algunas culturas el enamoramiento y el matrimonio se consideran incompatibles. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Proveer un ejemplo de como la asociación entre el amor y el matrimonio no es algo propio de todos los tiempos y culturas. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "25313283-4b3d-5f2d-b9b8-34b310bf7329",
+      "numero": 38,
+      "tema": "Inferencia",
+      "dificultad": "hard",
+      "enunciado": "El matrimonio: más allá del amor\nEn nuestra sociedad, se tiende a pensar que el matrimonio, la base de la familia, se sostiene si hay\nconfianza mutua y buena comunicación, así como si ambos miembros de la pareja trabajan unidos\npara resolver los conflictos y pasan tiempo juntos. En resumen, su piedra angular es un amor maduro\ny sincero. No obstante, la idea de que este deba ser la razón última del enlace es bastante reciente:\naparece en el siglo XVIII y se afianza en el XIX, con el movimiento romántico. Hasta entonces, el\nmatrimonio era ante todo una institución económica y política demasiado trascendente como para\ndejarla en manos de los dos individuos implicados. En general, resultaba inconcebible que semejante\nacuerdo se basara en algo tan irracional como el enamoramiento. De hecho, no se inventó ni para\nque los hombres protegieran a las mujeres ni para que las explotaran. Se trataba de una alianza entre\ngrupos que iba más allá de los familiares más cercanos o incluso los pequeños grupos.\nPara las élites, era una manera excelente de consolidar la riqueza, fusionar recursos y forjar uniones\npolíticas. Desde la Edad Media, la dote de boda de la mujer constituía el mayor ingreso de dinero,\nbienes o tierras que un hombre iba a recibir en toda su vida. Para los más pobres, también suponía\nuna transacción económica que debía ser beneficiosa para la familia. Así, se solía casar al hijo con la\nhija de quien tenía un campo colindante. El matrimonio se convirtió en la estructura que garantizaba\nla supervivencia de la familia extendida, que incluye abuelos, hermanos, sobrinos… Al contrario de\nlo que solemos creer, la imagen del marido trabajando fuera de la casa y la mujer haciéndose cargo\nde la misma es un producto reciente, de los años 50. Hasta entonces, la familia no se sostenía con un\núnico proveedor, sino que todos sus integrantes contribuían al único negocio de la que esta dependía.\nQue el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran.\nSin embargo, en algunas culturas se trata de algo incompatible con el matrimonio. En la China\ntradicional, por ejemplo, una atracción excesiva entre los esposos era tenida como una amenaza al\nrespeto y solidaridad debida a la familia. Es más, en tal ambiente, la palabra amor solo se aplicaba\npara describir las relaciones ilícitas. Fue en la década de 1920 cuando se inventó un término para\ndesignar el cariño entre cónyuges. Una idea tan radicalmente nueva exigía un vocabulario especial.\nAún hoy, muchas sociedades desaprueban la idea de que el amor sea el centro del matrimonio.\nEs el caso de los fulbes africanos, del norte de Camerún. “Muchas de sus mujeres niegan\nvehementemente cualquier apego hacia el marido”, asegura Helen A. Regis, del Departamento de\nGeografía y Antropología de la Universidad Estatal de Luisiana. Otras, en cambio, aprueban el amor\nentre esposos, pero nunca antes de que el matrimonio haya cumplido su objetivo primordial.\nTomado y adaptado de: Sabadell, Miguel Ángel (2013). “Líos de familias”. En: Muy Interesante, No. 384, pp. 72-76.\n\n────────────────────\n\nDe acuerdo con el texto, ¿cuál de los siguientes enunciados apoya la idea de que el amor maduro y sincero no siempre ha sido considerado como la base de la familia?",
+      "opciones": [
+        "En los años 50 se produjo una marcada distinción entre los roles masculino y femenino en la familia.",
+        "La idea del amor como la razón que ha de llevar al matrimonio surgió con el movimiento romántico en el siglo XVIII.",
+        "Ambos miembros de la pareja deben poner mucho empeño para que el matrimonio se sostenga.",
+        "El matrimonio se consolidó en el siglo XIX como la principal forma de institucionalización del amor conyugal."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El matrimonio: más allá del amor»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). En los años 50 se produjo una marcada distinción entre los roles masculino y femenino en la familia. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). La idea del amor como la razón que ha de llevar al matrimonio surgió con el movimiento romántico en el siglo XVIII. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Ambos miembros de la pareja deben poner mucho empeño para que el matrimonio se sostenga. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). El matrimonio se consolidó en el siglo XIX como la principal forma de institucionalización del amor conyugal. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "ac252f1e-cb83-5bed-b845-089f4fee2cb6",
+      "numero": 39,
+      "tema": "Inferencia",
+      "dificultad": "hard",
+      "enunciado": "El matrimonio: más allá del amor\nEn nuestra sociedad, se tiende a pensar que el matrimonio, la base de la familia, se sostiene si hay\nconfianza mutua y buena comunicación, así como si ambos miembros de la pareja trabajan unidos\npara resolver los conflictos y pasan tiempo juntos. En resumen, su piedra angular es un amor maduro\ny sincero. No obstante, la idea de que este deba ser la razón última del enlace es bastante reciente:\naparece en el siglo XVIII y se afianza en el XIX, con el movimiento romántico. Hasta entonces, el\nmatrimonio era ante todo una institución económica y política demasiado trascendente como para\ndejarla en manos de los dos individuos implicados. En general, resultaba inconcebible que semejante\nacuerdo se basara en algo tan irracional como el enamoramiento. De hecho, no se inventó ni para\nque los hombres protegieran a las mujeres ni para que las explotaran. Se trataba de una alianza entre\ngrupos que iba más allá de los familiares más cercanos o incluso los pequeños grupos.\nPara las élites, era una manera excelente de consolidar la riqueza, fusionar recursos y forjar uniones\npolíticas. Desde la Edad Media, la dote de boda de la mujer constituía el mayor ingreso de dinero,\nbienes o tierras que un hombre iba a recibir en toda su vida. Para los más pobres, también suponía\nuna transacción económica que debía ser beneficiosa para la familia. Así, se solía casar al hijo con la\nhija de quien tenía un campo colindante. El matrimonio se convirtió en la estructura que garantizaba\nla supervivencia de la familia extendida, que incluye abuelos, hermanos, sobrinos… Al contrario de\nlo que solemos creer, la imagen del marido trabajando fuera de la casa y la mujer haciéndose cargo\nde la misma es un producto reciente, de los años 50. Hasta entonces, la familia no se sostenía con un\núnico proveedor, sino que todos sus integrantes contribuían al único negocio de la que esta dependía.\nQue el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran.\nSin embargo, en algunas culturas se trata de algo incompatible con el matrimonio. En la China\ntradicional, por ejemplo, una atracción excesiva entre los esposos era tenida como una amenaza al\nrespeto y solidaridad debida a la familia. Es más, en tal ambiente, la palabra amor solo se aplicaba\npara describir las relaciones ilícitas. Fue en la década de 1920 cuando se inventó un término para\ndesignar el cariño entre cónyuges. Una idea tan radicalmente nueva exigía un vocabulario especial.\nAún hoy, muchas sociedades desaprueban la idea de que el amor sea el centro del matrimonio.\nEs el caso de los fulbes africanos, del norte de Camerún. “Muchas de sus mujeres niegan\nvehementemente cualquier apego hacia el marido”, asegura Helen A. Regis, del Departamento de\nGeografía y Antropología de la Universidad Estatal de Luisiana. Otras, en cambio, aprueban el amor\nentre esposos, pero nunca antes de que el matrimonio haya cumplido su objetivo primordial.\nTomado y adaptado de: Sabadell, Miguel Ángel (2013). “Líos de familias”. En: Muy Interesante, No. 384, pp. 72-76.\n\n────────────────────\n\nDe acuerdo con el texto, ¿cuál de los siguientes ejemplos ilustra la idea de la familia como una institución política y económica?",
+      "opciones": [
+        "En la Edad Media la mujer aportaba una dote en el momento de casarse.",
+        "Entre los fulbes africanos es común que las mujeres nieguen amar a sus maridos.",
+        "En los siglos XVIII y XIX cambió la idea sobre cuál es la base que sostiene la familia.",
+        "En la sociedad china solo hasta la década de 1920 se acuñó un término para designar el cariño entre esposos."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El matrimonio: más allá del amor»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). En la Edad Media la mujer aportaba una dote en el momento de casarse. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Entre los fulbes africanos es común que las mujeres nieguen amar a sus maridos. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). En los siglos XVIII y XIX cambió la idea sobre cuál es la base que sostiene la familia. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). En la sociedad china solo hasta la década de 1920 se acuñó un término para designar el cariño entre esposos. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "1783394a-5d4c-5e88-ab51-14889c57d555",
+      "numero": 40,
+      "tema": "Inferencia",
+      "dificultad": "hard",
+      "enunciado": "El matrimonio: más allá del amor\nEn nuestra sociedad, se tiende a pensar que el matrimonio, la base de la familia, se sostiene si hay\nconfianza mutua y buena comunicación, así como si ambos miembros de la pareja trabajan unidos\npara resolver los conflictos y pasan tiempo juntos. En resumen, su piedra angular es un amor maduro\ny sincero. No obstante, la idea de que este deba ser la razón última del enlace es bastante reciente:\naparece en el siglo XVIII y se afianza en el XIX, con el movimiento romántico. Hasta entonces, el\nmatrimonio era ante todo una institución económica y política demasiado trascendente como para\ndejarla en manos de los dos individuos implicados. En general, resultaba inconcebible que semejante\nacuerdo se basara en algo tan irracional como el enamoramiento. De hecho, no se inventó ni para\nque los hombres protegieran a las mujeres ni para que las explotaran. Se trataba de una alianza entre\ngrupos que iba más allá de los familiares más cercanos o incluso los pequeños grupos.\nPara las élites, era una manera excelente de consolidar la riqueza, fusionar recursos y forjar uniones\npolíticas. Desde la Edad Media, la dote de boda de la mujer constituía el mayor ingreso de dinero,\nbienes o tierras que un hombre iba a recibir en toda su vida. Para los más pobres, también suponía\nuna transacción económica que debía ser beneficiosa para la familia. Así, se solía casar al hijo con la\nhija de quien tenía un campo colindante. El matrimonio se convirtió en la estructura que garantizaba\nla supervivencia de la familia extendida, que incluye abuelos, hermanos, sobrinos… Al contrario de\nlo que solemos creer, la imagen del marido trabajando fuera de la casa y la mujer haciéndose cargo\nde la misma es un producto reciente, de los años 50. Hasta entonces, la familia no se sostenía con un\núnico proveedor, sino que todos sus integrantes contribuían al único negocio de la que esta dependía.\nQue el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran.\nSin embargo, en algunas culturas se trata de algo incompatible con el matrimonio. En la China\ntradicional, por ejemplo, una atracción excesiva entre los esposos era tenida como una amenaza al\nrespeto y solidaridad debida a la familia. Es más, en tal ambiente, la palabra amor solo se aplicaba\npara describir las relaciones ilícitas. Fue en la década de 1920 cuando se inventó un término para\ndesignar el cariño entre cónyuges. Una idea tan radicalmente nueva exigía un vocabulario especial.\nAún hoy, muchas sociedades desaprueban la idea de que el amor sea el centro del matrimonio.\nEs el caso de los fulbes africanos, del norte de Camerún. “Muchas de sus mujeres niegan\nvehementemente cualquier apego hacia el marido”, asegura Helen A. Regis, del Departamento de\nGeografía y Antropología de la Universidad Estatal de Luisiana. Otras, en cambio, aprueban el amor\nentre esposos, pero nunca antes de que el matrimonio haya cumplido su objetivo primordial.\nTomado y adaptado de: Sabadell, Miguel Ángel (2013). “Líos de familias”. En: Muy Interesante, No. 384, pp. 72-76.\n\n────────────────────\n\nDe acuerdo con el texto, ¿qué implicación sobre el matrimonio entre los fulbes africanos puede derivarse a partir de lo dicho por el autor?",
+      "opciones": [
+        "Que en esa comunidad no sucede que haya amor entre esposos.",
+        "Que en esa comunidad el amor no es una condición necesaria para el matrimonio.",
+        "Que las mujeres de esa comunidad sienten temor a enamorarse de sus esposos.",
+        "Que las mujeres de esa comunidad no ven su amor correspondido por sus esposos."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El matrimonio: más allá del amor»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Que en esa comunidad no sucede que haya amor entre esposos. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Que en esa comunidad el amor no es una condición necesaria para el matrimonio. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Que las mujeres de esa comunidad sienten temor a enamorarse de sus esposos. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Que las mujeres de esa comunidad no ven su amor correspondido por sus esposos. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "edfaa386-5fb2-5f73-9b47-bda0c6e0f806",
+      "numero": 41,
+      "tema": "Inferencia",
+      "dificultad": "hard",
+      "enunciado": "El matrimonio: más allá del amor\nEn nuestra sociedad, se tiende a pensar que el matrimonio, la base de la familia, se sostiene si hay\nconfianza mutua y buena comunicación, así como si ambos miembros de la pareja trabajan unidos\npara resolver los conflictos y pasan tiempo juntos. En resumen, su piedra angular es un amor maduro\ny sincero. No obstante, la idea de que este deba ser la razón última del enlace es bastante reciente:\naparece en el siglo XVIII y se afianza en el XIX, con el movimiento romántico. Hasta entonces, el\nmatrimonio era ante todo una institución económica y política demasiado trascendente como para\ndejarla en manos de los dos individuos implicados. En general, resultaba inconcebible que semejante\nacuerdo se basara en algo tan irracional como el enamoramiento. De hecho, no se inventó ni para\nque los hombres protegieran a las mujeres ni para que las explotaran. Se trataba de una alianza entre\ngrupos que iba más allá de los familiares más cercanos o incluso los pequeños grupos.\nPara las élites, era una manera excelente de consolidar la riqueza, fusionar recursos y forjar uniones\npolíticas. Desde la Edad Media, la dote de boda de la mujer constituía el mayor ingreso de dinero,\nbienes o tierras que un hombre iba a recibir en toda su vida. Para los más pobres, también suponía\nuna transacción económica que debía ser beneficiosa para la familia. Así, se solía casar al hijo con la\nhija de quien tenía un campo colindante. El matrimonio se convirtió en la estructura que garantizaba\nla supervivencia de la familia extendida, que incluye abuelos, hermanos, sobrinos… Al contrario de\nlo que solemos creer, la imagen del marido trabajando fuera de la casa y la mujer haciéndose cargo\nde la misma es un producto reciente, de los años 50. Hasta entonces, la familia no se sostenía con un\núnico proveedor, sino que todos sus integrantes contribuían al único negocio de la que esta dependía.\nQue el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran.\nSin embargo, en algunas culturas se trata de algo incompatible con el matrimonio. En la China\ntradicional, por ejemplo, una atracción excesiva entre los esposos era tenida como una amenaza al\nrespeto y solidaridad debida a la familia. Es más, en tal ambiente, la palabra amor solo se aplicaba\npara describir las relaciones ilícitas. Fue en la década de 1920 cuando se inventó un término para\ndesignar el cariño entre cónyuges. Una idea tan radicalmente nueva exigía un vocabulario especial.\nAún hoy, muchas sociedades desaprueban la idea de que el amor sea el centro del matrimonio.\nEs el caso de los fulbes africanos, del norte de Camerún. “Muchas de sus mujeres niegan\nvehementemente cualquier apego hacia el marido”, asegura Helen A. Regis, del Departamento de\nGeografía y Antropología de la Universidad Estatal de Luisiana. Otras, en cambio, aprueban el amor\nentre esposos, pero nunca antes de que el matrimonio haya cumplido su objetivo primordial.\nTomado y adaptado de: Sabadell, Miguel Ángel (2013). “Líos de familias”. En: Muy Interesante, No. 384, pp. 72-76.\n\n────────────────────\n\nDe acuerdo con el texto, ¿qué se puede concluir acerca del matrimonio?",
+      "opciones": [
+        "Que es una institución que tiene únicamente propósitos económicos y políticos.",
+        "Que es la base de la familia en culturas tan diversas y complejas como las nuestras.",
+        "Que es una institución que varía dependiendo del contexto histórico y social.",
+        "Que es un pacto entre dos individuos que debe basarse en el amor y la confianza."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («El matrimonio: más allá del amor»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Que es una institución que tiene únicamente propósitos económicos y políticos. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Que es la base de la familia en culturas tan diversas y complejas como las nuestras. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Que es una institución que varía dependiendo del contexto histórico y social. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Que es un pacto entre dos individuos que debe basarse en el amor y la confianza. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "c98d0265-4c44-56ca-aedb-199420339571",
+      "numero": 42,
+      "tema": "Comprensión lectora",
+      "dificultad": "hard",
+      "enunciado": "CON LA SIGUIENTE INFORMACIÓN\n\n────────────────────\n\nSegún la infografía, “los países de ingresos medios solo tienen la mitad de los vehículos existentes en el mundo y, a pesar de eso, sufren el 80 % de las muertes por accidente de tránsito”. En este enunciado, ¿qué función cumple la conjunción ‘a pesar de’?",
+      "opciones": [
+        "Resaltar que el índice de muertes por accidente de tránsito en países de ingresos medios es bastante elevado dadas sus condiciones particulares.",
+        "Oponer el alto número de vehículos en países de ingresos medios frente al bajo porcentaje de muertes por accidente de tránsito.",
+        "Aclarar que el alto índice de muertes por accidente de tránsito en países de ingresos medios está estrechamente relacionado con el número de autos.",
+        "Señalar que el índice de muertes por accidente de tránsito en países de ingresos medios puede ser aún más alto de lo dicen las cifras oficiales."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («CON LA SIGUIENTE INFORMACIÓN»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Resaltar que el índice de muertes por accidente de tránsito en países de ingresos medios es bastante elevado dadas sus condiciones particulares. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Oponer el alto número de vehículos en países de ingresos medios frente al bajo porcentaje de muertes por accidente de tránsito. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Aclarar que el alto índice de muertes por accidente de tránsito en países de ingresos medios está estrechamente relacionado con el número de… — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Señalar que el índice de muertes por accidente de tránsito en países de ingresos medios puede ser aún más alto de lo dicen las cifras oficia… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "d291eec1-f903-5be2-976a-9e6198ef91a8",
+      "numero": 43,
+      "tema": "Comprensión lectora",
+      "dificultad": "hard",
+      "enunciado": "CON LA SIGUIENTE INFORMACIÓN\n\n────────────────────\n\nSi alguien lee la infografía y hace la siguiente descripción:\n«La infografía muestra datos sobre la frecuencia de los accidentes de tránsito en el mundo, y ejemplos relacionados. Además, informa sobre la mortalidad por género, por ingresos, por número de vehículos, por tipo de vehículo y por ubicación regional.»\nUsted diría que la descripción es insatisfactoria porque:",
+      "opciones": [
+        "Pasa por alto información esencial contenida en la infografía.",
+        "El orden de su contenido no corresponde con el de la infografía.",
+        "Expone información que no está presente en la infografía.",
+        "Omite evidencias que sustentan la información de la infografía."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («CON LA SIGUIENTE INFORMACIÓN»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Pasa por alto información esencial contenida en la infografía. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). El orden de su contenido no corresponde con el de la infografía. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Expone información que no está presente en la infografía. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Omite evidencias que sustentan la información de la infografía. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "3e1d0a16-ac4f-5308-b8cd-68be3a7cfe4e",
+      "numero": 44,
+      "tema": "Comprensión lectora",
+      "dificultad": "hard",
+      "enunciado": "CON LA SIGUIENTE INFORMACIÓN\n\n────────────────────\n\nDe acuerdo con la información presentada sobre el porcentaje de muertes por tipo de vehículo, se puede afirmar que es más probable que alguien que haya muerto por accidente de tránsito hubiera estado desplazándose",
+      "opciones": [
+        "a pie.",
+        "en moto.",
+        "en bicicleta.",
+        "en otro tipo de vehículo."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («CON LA SIGUIENTE INFORMACIÓN»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). a pie. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). en moto. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). en bicicleta. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). en otro tipo de vehículo. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "ea55e93b-4595-5cc0-8006-895d9c3aa0f1",
+      "numero": 45,
+      "tema": "Inferencia",
+      "dificultad": "hard",
+      "enunciado": "CON LA SIGUIENTE INFORMACIÓN\n\n────────────────────\n\n¿Qué se puede inferir de la información que presenta la infografía en el cuadro inferior izquierdo, sobre la cantidad relativa de muertes por accidentes de tránsito en función de la región?",
+      "opciones": [
+        "Cuáles son los países donde menos se utilizan vehículos motorizados.",
+        "Cuáles zonas tienen el mismo número de muertes por accidente.",
+        "Cuál es el riesgo de morir en un accidente de tránsito según la zona geográfica.",
+        "Cuáles son las zonas geográficas en donde se requiere un mejoramiento de las vías."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («CON LA SIGUIENTE INFORMACIÓN»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Cuáles son los países donde menos se utilizan vehículos motorizados. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Cuáles zonas tienen el mismo número de muertes por accidente. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Cuál es el riesgo de morir en un accidente de tránsito según la zona geográfica. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Cuáles son las zonas geográficas en donde se requiere un mejoramiento de las vías. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "51220b91-a27c-5b71-b29c-518b863d7a01",
+      "numero": 46,
+      "tema": "Inferencia",
+      "dificultad": "hard",
+      "enunciado": "CON LA SIGUIENTE INFORMACIÓN\n\n────────────────────\n\nA partir de las gráficas sobre la relación entre el número de vehículos y el número de muertes en accidentes de tránsito se puede inferir que, comparada con la población de los países de ingresos medios, la de los países de ingresos altos",
+      "opciones": [
+        "tiene más vehículos por persona.",
+        "usa menos el vehículo particular.",
+        "es más educada en materia vial.",
+        "está más expuesta a multas de tránsito."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («CON LA SIGUIENTE INFORMACIÓN»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). tiene más vehículos por persona. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). usa menos el vehículo particular. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). es más educada en materia vial. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). está más expuesta a multas de tránsito. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "d1198fce-eaf7-55e6-9896-0f1e197527ad",
+      "numero": 47,
+      "tema": "Propósito del autor",
+      "dificultad": "hard",
+      "enunciado": "CON LA SIGUIENTE INFORMACIÓN\n\n────────────────────\n\nA propósito del cuadro que presenta la información según la cual 3 de 4 de los fallecidos en accidentes de tránsito son del sexo masculino, se puede afirmar que las figuras que acompañan el texto",
+      "opciones": [
+        "ilustran la información presentada.",
+        "profundizan la información dada.",
+        "proporcionan información adicional.",
+        "ejemplifican la información descrita."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («CON LA SIGUIENTE INFORMACIÓN»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). ilustran la información presentada. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). profundizan la información dada. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). proporcionan información adicional. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). ejemplifican la información descrita. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "6f9bf37b-dd41-56a5-be90-7b869bd430e5",
+      "numero": 48,
+      "tema": "Propósito del autor",
+      "dificultad": "hard",
+      "enunciado": "CON LA SIGUIENTE INFORMACIÓN\n\n────────────────────\n\nA partir de la información presentada, se puede afirmar que el autor de la infografía tiene como propósito",
+      "opciones": [
+        "sensibilizar al espectador sobre los riesgos de morir en un accidente de tránsito.",
+        "incentivar al espectador a que use formas de movilidad alternas al automóvil.",
+        "conmover al espectador presentando datos sobre el número de accidentes de tránsito.",
+        "sensibilizar al espectador acerca de la necesidad de manejar sobrio y despacio."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («CON LA SIGUIENTE INFORMACIÓN»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). sensibilizar al espectador sobre los riesgos de morir en un accidente de tránsito. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). incentivar al espectador a que use formas de movilidad alternas al automóvil. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). conmover al espectador presentando datos sobre el número de accidentes de tránsito. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). sensibilizar al espectador acerca de la necesidad de manejar sobrio y despacio. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "57f5d949-4de1-56c2-b50e-3f8363d7427c",
+      "numero": 49,
+      "tema": "Comprensión lectora",
+      "dificultad": "hard",
+      "enunciado": "CON LA SIGUIENTE INFORMACIÓN\n\n────────────────────\n\nDe acuerdo con el contenido de la información presentada, ¿a cuál de los siguientes contextos se adecuaría mejor la infografía?",
+      "opciones": [
+        "Una protesta ecológica en contra del uso de vehículos motorizados.",
+        "Una exposición sobre el transporte público como alternativa de movilidad.",
+        "Una campaña diseñada para promover la adquisición de seguros de vida.",
+        "Un estudio sobre asesinatos según el género y la condición socioeconómica."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Lectura Crítica se te pide cerrar el razonamiento a partir del enunciado («CON LA SIGUIENTE INFORMACIÓN»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Una protesta ecológica en contra del uso de vehículos motorizados. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Una exposición sobre el transporte público como alternativa de movilidad. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Una campaña diseñada para promover la adquisición de seguros de vida. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Un estudio sobre asesinatos según el género y la condición socioeconómica. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    }
+  ]
+}

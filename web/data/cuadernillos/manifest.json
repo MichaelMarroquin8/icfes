@@ -1,0 +1,39 @@
+{
+  "format": "cuadernillos_manifest_v1",
+  "descripcion": "Lista de JSON por cuadernillo; la app los fusiona sin leer PDF.",
+  "exportedAt": 1778964621507,
+  "archivos": [
+    {
+      "slug": "09-marzo-cuadernillo-de-preguntas-matematicas-saber-11-2026",
+      "url": "./data/cuadernillos/09-marzo-cuadernillo-de-preguntas-matematicas-saber-11-2026.json",
+      "archivoPdf": "09-Marzo_Cuadernillo-de-Preguntas-Matematicas-Saber-11-2026.pdf",
+      "moduloNombre": "Matemáticas",
+      "moduleId": "9818ba5b-e2ea-5a97-b12e-abada9cf2092",
+      "totalPreguntas": 50
+    },
+    {
+      "slug": "16-feb-cuadernillo-de-preguntas-lectura-critica-saber-11-2026",
+      "url": "./data/cuadernillos/16-feb-cuadernillo-de-preguntas-lectura-critica-saber-11-2026.json",
+      "archivoPdf": "16-feb-cuadernillo-de-preguntas-lectura-critica-saber-11-2026.pdf",
+      "moduloNombre": "Lectura Crítica",
+      "moduleId": "f7460987-4c0b-5864-9ca0-7c88acf97742",
+      "totalPreguntas": 49
+    },
+    {
+      "slug": "16-octubre-cuadernillo-ingles-saber-11-2024",
+      "url": "./data/cuadernillos/16-octubre-cuadernillo-ingles-saber-11-2024.json",
+      "archivoPdf": "16-octubre-cuadernillo-ingles-saber-11-2024.pdf",
+      "moduloNombre": "Inglés",
+      "moduleId": "c7d164c8-935b-5aaa-b58e-7fab6ebba679",
+      "totalPreguntas": 49
+    },
+    {
+      "slug": "24-feb-cuadernillo-preguntas-ciencias-naturales-saber-11-2026",
+      "url": "./data/cuadernillos/24-feb-cuadernillo-preguntas-ciencias-naturales-saber-11-2026.json",
+      "archivoPdf": "24-feb-cuadernillo-preguntas-ciencias-naturales-saber-11-2026.pdf",
+      "moduloNombre": "Ciencias Naturales",
+      "moduleId": "5a66330b-1996-544d-b8b5-baffd64e9a25",
+      "totalPreguntas": 47
+    }
+  ]
+}

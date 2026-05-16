@@ -1,0 +1,1052 @@
+{
+  "format": "cuadernillo_json_v1",
+  "archivoPdf": "24-feb-cuadernillo-preguntas-ciencias-naturales-saber-11-2026.pdf",
+  "moduloNombre": "Ciencias Naturales",
+  "moduleId": "5a66330b-1996-544d-b8b5-baffd64e9a25",
+  "exportedAt": 1778964621507,
+  "totalPreguntas": 47,
+  "preguntas": [
+    {
+      "id": "a50e768c-7457-575d-9472-05bea3ba1524",
+      "numero": 2,
+      "tema": "Química",
+      "dificultad": "easy",
+      "enunciado": "La siguiente ecuación representa la reacción química de la formación de agua (H2O).\n¿Cuál de las siguientes opciones muestra correctamente los reactivos de la anterior reacción?",
+      "opciones": [
+        "H4 y O2.",
+        "H4 y O4.",
+        "H2 y O2.",
+        "H2 y O4. Líquido Gas Líquido Gas Líquido Gas Líquido Gas",
+        "B. C. D. 2H2 O2 2H2O + + +"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («La siguiente ecuación representa la reacción química de la formación de agua (H2O).»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). H4 y O2. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). H4 y O4. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). H2 y O2. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). H2 y O4. Líquido Gas Líquido Gas Líquido Gas Líquido Gas — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C).",
+        "No (E). B. C. D. 2H2 O2 2H2O + + + — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "2ffb07dc-ddef-514a-ac63-eac5e1926b10",
+      "numero": 3,
+      "tema": "Ciencias integradas",
+      "dificultad": "easy",
+      "enunciado": "Un estudiante analiza cómo cambia la solubilidad de una sal de sodio; para esto, disuelve distintas cantidades de la sal en 20 gramos de agua destilada y registra la temperatura exacta a la cual se logra disolver completamente.\nLos resultados se muestran a continuación.\nMasa de la sal de sodio (g)\nMasa de agua destilada (g)\nTemperatura a la cual se logra disolver completamente la sal (°C)\nTeniendo en cuenta lo observado con 20 gramos de agua destilada, el estudiante cree que si a\n83 °C se agregan 50 gramos de la sal de sodio en 40 gramos de agua destilada no se solubilizará completamente esta cantidad de sal. ¿La suposición del estudiante es correcta?",
+      "opciones": [
+        "Sí, porque para disolver esta cantidad de la sal de sodio en 40 gramos de agua también se necesitaría el doble de temperatura, es decir, 166 °C.",
+        "No, porque al tener el doble de agua, es más probable que la sal de sodio solo necesite la mitad de la temperatura para disolverse, es decir, 42 °C.",
+        "No, porque a partir de 65 °C se pueden disolver completamente 50 g de la sal de sodio en 40 gramos de agua, por lo que a 83 °C la sal estará completamente disuelta.",
+        "Sí, porque con masas mayores a 35 gramos de la sal de sodio, se necesitarían temperaturas mayores que 83 °C para disolverla en esa cantidad de agua."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Un estudiante analiza cómo cambia la solubilidad de una sal de sodio; para esto, disuelve distintas cantidades de la sal en 20 gramos de agua destilada y registra la temperatura exacta a la cual se l…»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Sí, porque para disolver esta cantidad de la sal de sodio en 40 gramos de agua también se necesitaría el doble de temperatura, es decir, 166… — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). No, porque al tener el doble de agua, es más probable que la sal de sodio solo necesite la mitad de la temperatura para disolverse, es decir… — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). No, porque a partir de 65 °C se pueden disolver completamente 50 g de la sal de sodio en 40 gramos de agua, por lo que a 83 °C la sal estará completamente disuelta. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Sí, porque con masas mayores a 35 gramos de la sal de sodio, se necesitarían temperaturas mayores que 83 °C para disolverla en esa cantidad … — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "279512ed-46a8-514c-b7c0-2e874d3ea112",
+      "numero": 4,
+      "tema": "Ciencias integradas",
+      "dificultad": "easy",
+      "enunciado": "Un bloque de hielo seco, CO2 sólido, cambia del estado sólido al gaseoso en condiciones ambientales. Este cambio de estado determina un cambio en la densidad del CO2. Teniendo en cuenta la información anterior, tras el cambio de estado, ¿por qué disminuye la densidad del CO2?",
+      "opciones": [
+        "Porque la masa de CO2 disminuye.",
+        "Porque la distancia entre partículas y el volumen aumentan.",
+        "Porque la distancia entre partículas disminuye.",
+        "Porque la distancia entre partículas aumenta y su masa disminuye."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Un bloque de hielo seco, CO2 sólido, cambia del estado sólido al gaseoso en condiciones ambientales. Este cambio de estado determina un cambio en la densidad del CO2. Teniendo en cuenta la informació…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Porque la masa de CO2 disminuye. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Porque la distancia entre partículas y el volumen aumentan. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Porque la distancia entre partículas disminuye. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Porque la distancia entre partículas aumenta y su masa disminuye. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "0fba7f3d-ed43-5183-ae77-0177a2865cb6",
+      "numero": 5,
+      "tema": "Biología",
+      "dificultad": "easy",
+      "enunciado": "En el modelo se presenta el proceso de síntesis de proteínas en una célula.\nDe acuerdo con el modelo, si no se copia correctamente la información del ADN al ARNm en el proceso de transcripción, ¿qué puede sucederle al proceso de síntesis de proteínas?",
+      "opciones": [
+        "Se produciría una cadena de ARNm doble, como la molécula de ADN.",
+        "El ribosoma no podría entrar al núcleo a leer la información del ADN.",
+        "Los aminoácidos no podrían unirse al ARNt en el citoplasma.",
+        "Se unirían aminoácidos que no corresponden con la secuencia de ADN."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («En el modelo se presenta el proceso de síntesis de proteínas en una célula.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Se produciría una cadena de ARNm doble, como la molécula de ADN. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). El ribosoma no podría entrar al núcleo a leer la información del ADN. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Los aminoácidos no podrían unirse al ARNt en el citoplasma. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Se unirían aminoácidos que no corresponden con la secuencia de ADN. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "c10b770c-a17e-5bbb-8a4d-d02610caf01a",
+      "numero": 6,
+      "tema": "Física",
+      "dificultad": "easy",
+      "enunciado": "Juan calienta una gran cantidad de agua en una olla. Al retirarla del fuego, él mide la temperatura del agua, encontrando que es de 100 °C. También mide la temperatura del entorno, que es de 20 °C.\nLa ley de enfriamiento de Newton establece que cuanto mayor es la diferencia de temperatura entre un objeto y el entorno, mayor es el flujo de calor y, por lo tanto, más rápido se enfría el objeto. Teniendo en cuenta lo anterior, ¿cuál de las siguientes gráficas describe mejor el proceso de enfriamiento del agua en la olla?\nTiempo\nTemperatura (°C)\nTiempo\nTemperatura (°C)\nTiempo\nTemperatura (°C)\nTiempo\nTemperatura (°C)",
+      "opciones": [
+        "",
+        "",
+        "",
+        "Núcleo ADN Transcripción ARNm Citoplasma Ribosoma Aminoácido Proteína ARNt Traducción"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Juan calienta una gran cantidad de agua en una olla. Al retirarla del fuego, él mide la temperatura del agua, encontrando que es de 100 °C. También mide la temperatura del entorno, que es de 20 °C.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Núcleo ADN Transcripción ARNm Citoplasma Ribosoma Aminoácido Proteína ARNt Traducción — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "0ceaa762-985c-592c-b9d7-191016cad87e",
+      "numero": 7,
+      "tema": "Química",
+      "dificultad": "easy",
+      "enunciado": "Unos investigadores quieren saber si el agua de la llave está contaminada con dos tipos de contaminantes (X y W). Los investigadores únicamente disponen de un método que permite medir la cantidad de contaminante X, pero saben que existe una reacción química mediante la cual pueden convertir todo el contaminante W en el contaminante X. Teniendo en cuenta esta información, si se quiere saber cuál es el contenido de los contaminantes X y W, por separado, en una muestra de agua de la llave, ¿cuál sería el procedimiento adecuado?",
+      "opciones": [
+        "",
+        "",
+        "",
+        "Llevar a cabo la reacción que convierte todo el contaminante X en el contaminante W. Medir el contenido de contaminante X con el método disponible y separarlo de la muestra. Medir el contenido de contaminante W con el método disponible y separarlo de la muestra. Llevar a cabo la reacción que convierte todo el contaminante W en el contaminante X. Medir el contenido de contaminante W con el método disponible, ya que esta medición corresponde a la medición del contenido de ambos contaminantes. Llevar a cabo la reacción que convierte todo el contaminante W en el contaminante X. Llevar a cabo la reacción que convierte todo el contaminante X en el contaminante W. Medir el contenido de contaminante X con el método disponible, ya que esta medición corresponde a la medición del contenido de ambos contaminantes. Volver a medir el contenido de contaminante X, ya que esta última medición corresponderá a la medición del contenido de contaminante W. Volver a medir el contenido de contaminante W, ya que esta última medición corresponderá a la medición del contenido de contaminante X."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Unos investigadores quieren saber si el agua de la llave está contaminada con dos tipos de contaminantes (X y W). Los investigadores únicamente disponen de un método que permite medir la cantidad de…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Llevar a cabo la reacción que convierte todo el contaminante X en el contaminante W. Medir el contenido de contaminante X con el método disp… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "62e40dfc-01ef-5671-8278-3400a6e405a5",
+      "numero": 8,
+      "tema": "Ciencias integradas",
+      "dificultad": "easy",
+      "enunciado": "Una estudiante quiere clasificar dos sustancias de acuerdo con el tipo de mezclas que son. Al buscar, encuentra que las mezclas homogéneas son uniformes en todas sus partes, pero las mezclas heterogéneas no lo son. La estudiante realiza los procedimientos que se muestran en la tabla con las sustancias 1 y 2.\nFase 1\nSólidoblanco\nVapor\nFase 2\nFase 1\nFase 2\nFase 1\nLa sustancia 1 es un líquido de una sola fase, que al ser calentado produce vapor, quedando un sólido blanco en el fondo.\nLa sustancia 2 es un líquido que al ser introducido en un recipiente, se observa la separación de dos fases.\nTeniendo en cuenta lo observado, ¿qué tipos de mezclas son las sustancias 1 y 2?",
+      "opciones": [
+        "La sustancia 1 es una mezcla homogénea y la sustancia 2 es una mezcla heterogénea.",
+        "La sustancia 1 es una mezcla heterogénea y la sustancia 2 es una mezcla homogénea.",
+        "Ambas sustancias son mezclas homogéneas.",
+        "Ambas sustancias son mezclas heterogéneas."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Una estudiante quiere clasificar dos sustancias de acuerdo con el tipo de mezclas que son. Al buscar, encuentra que las mezclas homogéneas son uniformes en todas sus partes, pero las mezclas heterogé…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). La sustancia 1 es una mezcla homogénea y la sustancia 2 es una mezcla heterogénea. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). La sustancia 1 es una mezcla heterogénea y la sustancia 2 es una mezcla homogénea. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Ambas sustancias son mezclas homogéneas. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Ambas sustancias son mezclas heterogéneas. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "856e1f7f-1329-58d6-9382-631123e8a14a",
+      "numero": 9,
+      "tema": "Física",
+      "dificultad": "easy",
+      "enunciado": "Un investigador sumerge un detector de sonido en agua para grabar los sonidos emitidos por los animales. El detector muestra la longitud de onda, la frecuencia, la velocidad de propagación y la distancia a la que se produce el sonido emitido por los animales. El investigador saca el detector del agua y registra un sonido.\n¿Cuál cambio de las variables mencionadas le permite asegurar al investigador que el sonido se trasmite por el aire y no por el agua?",
+      "opciones": [
+        "La longitud de onda.",
+        "La frecuencia de la onda.",
+        "La forma de la onda.",
+        "La velocidad de la onda."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Un investigador sumerge un detector de sonido en agua para grabar los sonidos emitidos por los animales. El detector muestra la longitud de onda, la frecuencia, la velocidad de propagación y la dista…»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). La longitud de onda. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). La frecuencia de la onda. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). La forma de la onda. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). La velocidad de la onda. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "4542b1cc-8799-5e72-a8d1-0bb0d56a5471",
+      "numero": 10,
+      "tema": "Ciencias integradas",
+      "dificultad": "easy",
+      "enunciado": "Los habitantes de un municipio quieren que todas las personas conozcan que el uso de insecticidas no garantiza la protección contra el dengue. ¿Cuál de las siguientes carteleras comunica apropiadamente resultados que soportan este descubrimiento?",
+      "opciones": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Los habitantes de un municipio quieren que todas las personas conozcan que el uso de insecticidas no garantiza la protección contra el dengue. ¿Cuál de las siguientes carteleras comunica apropiadamen…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D).  — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "8fc5ecd3-9857-5662-9d5e-c79807374845",
+      "numero": 11,
+      "tema": "Ciencias integradas",
+      "dificultad": "easy",
+      "enunciado": "Al observar la manera como se transmite el dengue, un estudiante afirma que para garantizarse una protección del 100 % frente al dengue con el uso de insecticidas, debe aumentarse la frecuencia con la que estos se aplican. De acuerdo con la información del contexto, ¿la hipótesis del estudiante debería mantenerse o cambiarse?",
+      "opciones": [
+        "Debe mantenerse, porque los mosquitos resistentes pueden dejar de serlo si se disminuye la concentración de insecticida reduciendo la frecuencia de aplicación.",
+        "Debe mantenerse, porque aunque haya algunos mosquitos resistentes, la cantidad de individuos resistentes es tan pequeña que la cantidad de picaduras será insignificante.",
+        "Debe cambiarse, porque aunque al aumentar la frecuencia de aplicación se pueden eliminar todos los huevos de mosquitos, aún existirán larvas de otros insectos que probablemente trasmitan la enfermedad.",
+        "Debe cambiarse, porque al ser resistentes a los insecticidas, sin importar su concentración, aunque se apliquen más dosis, estas probablemente no tendrán efecto sobre los mosquitos resistentes."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Al observar la manera como se transmite el dengue, un estudiante afirma que para garantizarse una protección del 100 % frente al dengue con el uso de insecticidas, debe aumentarse la frecuencia con l…»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Debe mantenerse, porque los mosquitos resistentes pueden dejar de serlo si se disminuye la concentración de insecticida reduciendo la frecue… — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Debe mantenerse, porque aunque haya algunos mosquitos resistentes, la cantidad de individuos resistentes es tan pequeña que la cantidad de p… — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Debe cambiarse, porque aunque al aumentar la frecuencia de aplicación se pueden eliminar todos los huevos de mosquitos, aún existirán larvas… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Debe cambiarse, porque al ser resistentes a los insecticidas, sin importar su concentración, aunque se apliquen más dosis, estas probablemente no tendrán efecto sobre los mosquitos resistentes. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "0d500b1e-9ed7-5090-b6db-cf413a623406",
+      "numero": 12,
+      "tema": "Ciencias integradas",
+      "dificultad": "easy",
+      "enunciado": "Teniendo en cuenta lo anterior, ¿por qué reducir el número de lugares donde el agua se estanca es un buen método de prevención contra el dengue?",
+      "opciones": [
+        "Porque al reducir el número de lugares donde el agua se estanca, disminuirán los casos de personas infectadas por beber este tipo de agua.",
+        "Porque al reducir el número de lugares donde el agua se estanca, disminuirán los hábitats del mosquito y, por tanto, no habrá tantas picaduras de mosquito que transmitan el virus a las personas.",
+        "Porque al reducir el número de lugares donde el agua se estanca, el agua no producirá mal olor y se favorecerá el crecimiento y reproducción de los mosquitos.",
+        "Porque al reducir el número de lugares donde el agua se estanca, disminuirán los hábitats del virus y, por tanto, estos empezarán a infectar a las personas directamente sin necesitar de los mosquitos."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Teniendo en cuenta lo anterior, ¿por qué reducir el número de lugares donde el agua se estanca es un buen método de prevención contra el dengue?»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Porque al reducir el número de lugares donde el agua se estanca, disminuirán los casos de personas infectadas por beber este tipo de agua. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Porque al reducir el número de lugares donde el agua se estanca, disminuirán los hábitats del mosquito y, por tanto, no habrá tantas picaduras de mosquito que transmitan el virus a las personas. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Porque al reducir el número de lugares donde el agua se estanca, el agua no producirá mal olor y se favorecerá el crecimiento y reproducción… — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Porque al reducir el número de lugares donde el agua se estanca, disminuirán los hábitats del virus y, por tanto, estos empezarán a infectar… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "9380c104-4f95-5a48-87fa-2a8982a185ec",
+      "numero": 13,
+      "tema": "Ciencias integradas",
+      "dificultad": "easy",
+      "enunciado": "El profesor de Juan le entrega tres objetos de igual volumen y forma, pero de diferente material, y le pide que los deje caer desde la altura de sus hombros y observe el tiempo de caída al suelo, de cada uno de ellos. Juan observa que los tres tardan tiempos diferentes para llegar al suelo, a pesar de que los tres están sometidos a la misma aceleración gravitacional. Teniendo en cuenta la información anterior, ¿cuál de las siguientes preguntas se puede contestar a partir de las observaciones que realizó Juan?",
+      "opciones": [
+        "¿El tiempo de caída de los objetos depende de la altura de lanzamiento?",
+        "¿La fuerza gravitacional es proporcional a la masa de los objetos?",
+        "¿La fuerza neta que actúa sobre cada uno de los objetos es diferente?",
+        "¿La forma de los objetos está relacionada con diferencias en la fuerza de fricción?"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («El profesor de Juan le entrega tres objetos de igual volumen y forma, pero de diferente material, y le pide que los deje caer desde la altura de sus hombros y observe el tiempo de caída al suelo, de…»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). ¿El tiempo de caída de los objetos depende de la altura de lanzamiento? — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). ¿La fuerza gravitacional es proporcional a la masa de los objetos? — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). ¿La fuerza neta que actúa sobre cada uno de los objetos es diferente? — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). ¿La forma de los objetos está relacionada con diferencias en la fuerza de fricción? — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "7e79df4e-19f1-5664-ad7b-90ba027c7f08",
+      "numero": 15,
+      "tema": "Química",
+      "dificultad": "easy",
+      "enunciado": "En la extracción minera de oro se emplean cianuro de sodio, zinc y ácidos fuertes durante el proceso de purificación. Los ácidos fuertes que pueden emplearse son ácido sulfúrico (H2SO4) de una concentración volumen-volumen del 78 % o ácido nítrico (HNO3) que contenga 112 mL de ácido por cada 200 mL de solución.\nSi en la extracción del oro se requiere usar el ácido de mayor concentración, ¿cuál ácido debería emplearse?",
+      "opciones": [
+        "HNO3, porque como su volumen es mayor que el de la solución de H2SO4 tiene una mayor concentración.",
+        "H2SO4, porque la concentración volumen-volumen del HNO3 es del 56 %.",
+        "HNO3, porque su concentración volumen-volumen es del 112 %.",
+        "H2SO4, porque como su volumen es menor que el de la solución de HNO3 se encuentra más concentrado."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («En la extracción minera de oro se emplean cianuro de sodio, zinc y ácidos fuertes durante el proceso de purificación. Los ácidos fuertes que pueden emplearse son ácido sulfúrico (H2SO4) de una concen…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). HNO3, porque como su volumen es mayor que el de la solución de H2SO4 tiene una mayor concentración. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). H2SO4, porque la concentración volumen-volumen del HNO3 es del 56 %. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). HNO3, porque su concentración volumen-volumen es del 112 %. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). H2SO4, porque como su volumen es menor que el de la solución de HNO3 se encuentra más concentrado. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "b5f1b579-1864-5b50-bd89-a0e5cf68fb4e",
+      "numero": 16,
+      "tema": "Química",
+      "dificultad": "easy",
+      "enunciado": "A partir de las cadenas de ARN mensajero se forman las proteínas. En este proceso, por cada tres nucleótidos consecutivos de ARN mensajero se codifica un aminoácido. A continuación, se muestra una secuencia de ARN mensajero.\nLos nucleótidos AUG codifican únicamente para indicar el inicio de la formación de la proteína y los nucleótidos UAG codifican únicamente para indicar su terminación. Con base en esta información,\n¿cuántos aminoácidos conformarán la proteína?",
+      "opciones": [
+        "",
+        "",
+        "",
+        "AUGGCAAGAAACGACCACAUCUAGGUAUGC"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («A partir de las cadenas de ARN mensajero se forman las proteínas. En este proceso, por cada tres nucleótidos consecutivos de ARN mensajero se codifica un aminoácido. A continuación, se muestra una se…»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). AUGGCAAGAAACGACCACAUCUAGGUAUGC — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "946ed763-5a00-531f-9d24-e35aa1686efd",
+      "numero": 17,
+      "tema": "Biología",
+      "dificultad": "medium",
+      "enunciado": "El salto bungee es un deporte que se practica generalmente en puentes, como se muestra a continuación.\nEn uno de estos saltos, el deportista se lanzará desde un puente de 65 metros de altura, utilizando una banda elástica que tiene una longitud sin estirar de 30 metros y que puede estirarse 30 metros más. Cuando el deportista ha descendido apenas 20 metros de altura, ¿cuál de las siguientes transformaciones de energía se habrá dado?",
+      "opciones": [
+        "De energía cinética a potencial elástica.",
+        "De energía cinética a potencial gravitacional.",
+        "De energía potencial gravitacional a potencial elástica.",
+        "De energía potencial gravitacional a cinética."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («El salto bungee es un deporte que se practica generalmente en puentes, como se muestra a continuación.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). De energía cinética a potencial elástica. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). De energía cinética a potencial gravitacional. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). De energía potencial gravitacional a potencial elástica. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). De energía potencial gravitacional a cinética. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "7ac14bd5-c2de-55f7-953b-5bacc8788c94",
+      "numero": 18,
+      "tema": "Química",
+      "dificultad": "medium",
+      "enunciado": "Considere la siguiente reacción y las masas molares de reactivos y productos:\nDe acuerdo con la información anterior, si reaccionan 124 g de P4 con 210 g de Cl2, ¿cuál es el reactivo límite?",
+      "opciones": [
+        "El Cl2, porque reaccionan en su totalidad 210 gramos de Cl2 y queda la mitad de P4 sin reaccionar.",
+        "El P4, porque su masa en gramos es menor que la del Cl2.",
+        "El Cl2, porque según la relación estequiométrica siempre se necesitan 6 moles de Cl2, sin importar la cantidad de P4.",
+        "El P4, porque su masa molar es casi el doble que la del Cl2. Compuesto P4 Cl2 PCl3 Masa molar (g/mol) P4 + 6 Cl2 4 PCl3"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Considere la siguiente reacción y las masas molares de reactivos y productos:»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). El Cl2, porque reaccionan en su totalidad 210 gramos de Cl2 y queda la mitad de P4 sin reaccionar. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). El P4, porque su masa en gramos es menor que la del Cl2. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). El Cl2, porque según la relación estequiométrica siempre se necesitan 6 moles de Cl2, sin importar la cantidad de P4. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). El P4, porque su masa molar es casi el doble que la del Cl2. Compuesto P4 Cl2 PCl3 Masa molar (g/mol) P4 + 6 Cl2 4 PCl3 — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "8e2bd8ba-cc1d-5e00-b6da-4e9d84c45d5b",
+      "numero": 19,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "En un metal que pierde electrones, la cantidad de protones es mayor que la de electrones y, por tanto, la carga total es positiva y se representa con signos +.\nSe tienen dos esferas metálicas idénticas: una esfera (1) inicialmente con carga + Q y otra esfera\n(2) inicialmente neutra. Al ponerlas en contacto y luego separarlas, se observa que las dos esferas quedan con cargas iguales + Q/2, como muestra la figura.\nCon base en la información anterior, ¿qué sucedió al poner las esferas en contacto?",
+      "opciones": [
+        "De la esfera 2 pasaron electrones hacia la esfera 1.",
+        "De la esfera 2 pasaron protones hacia la esfera 1.",
+        "De la esfera 1 pasaron electrones hacia la esfera 2.",
+        "De la esfera 1 pasaron protones hacia la esfera 2. Antes del contacto + + + + + + + + + Q Después del contacto + + + + + + + + + Q/2 + Q/2"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («En un metal que pierde electrones, la cantidad de protones es mayor que la de electrones y, por tanto, la carga total es positiva y se representa con signos +.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). De la esfera 2 pasaron electrones hacia la esfera 1. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). De la esfera 2 pasaron protones hacia la esfera 1. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). De la esfera 1 pasaron electrones hacia la esfera 2. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). De la esfera 1 pasaron protones hacia la esfera 2. Antes del contacto + + + + + + + + + Q Después del contacto + + + + + + + + + Q/2 + Q/2 — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "6e42ad69-90fc-5bec-83cf-dcfbf80103dd",
+      "numero": 20,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "Un grupo de científicos aisló cepas de la bacteria Streptococcus pneumoniae obtenidas en pacientes enfermos de neumonía, las cultivaron con diferentes antibióticos de prueba y midieron el porcentaje de supervivencia de las cepas. La tabla muestra los resultados.\nAntibiótico\nPorcentaje (%) de supervivencia de las cepas\nNinguno\nDe acuerdo con la información anterior, ¿cuál de las siguientes hipótesis se relaciona con los resultados del experimento?",
+      "opciones": [
+        "A los enfermos de neumonía no deberían recetarles antibióticos, porque la supervivencia de las bacterias es mínima.",
+        "El Streptococcus pneumoniae es más sensible al antibiótico 4 que a los otros tres antibióticos.",
+        "Los pacientes enfermos de neumonía pueden sufrir de alergia a los antibióticos y empeorar.",
+        "El Streptococcus pneumoniae es una bacteria que habita libremente por el aire y puede contaminar a cualquier ser vivo."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Un grupo de científicos aisló cepas de la bacteria Streptococcus pneumoniae obtenidas en pacientes enfermos de neumonía, las cultivaron con diferentes antibióticos de prueba y midieron el porcentaje…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). A los enfermos de neumonía no deberían recetarles antibióticos, porque la supervivencia de las bacterias es mínima. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). El Streptococcus pneumoniae es más sensible al antibiótico 4 que a los otros tres antibióticos. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Los pacientes enfermos de neumonía pueden sufrir de alergia a los antibióticos y empeorar. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). El Streptococcus pneumoniae es una bacteria que habita libremente por el aire y puede contaminar a cualquier ser vivo. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "d6be2b36-3893-5184-b7d0-716b9a45179b",
+      "numero": 21,
+      "tema": "Biología",
+      "dificultad": "medium",
+      "enunciado": "El modelo muestra una red trófica marina.\nLa pesca indiscriminada de varias especies de atún ha llevado a las organizaciones ambientales a implementar estrategias para impedir su extinción. Con base en la información anterior, ¿qué le sucedería al ecosistema marino, a mediano plazo, si se extingue el atún?",
+      "opciones": [
+        "Disminuirían las poblaciones de pez loro debido al aumento de su principal depredador.",
+        "Aumentarían las poblaciones de tiburones, porque podrán alimentarse de todos los otros niveles tróficos.",
+        "Aumentaría la cantidad de zooplancton, porque disminuiría la presión de sus depredadores.",
+        "Disminuiría la abundancia de productores, porque aumentarían los consumidores primarios."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («El modelo muestra una red trófica marina.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Disminuirían las poblaciones de pez loro debido al aumento de su principal depredador. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Aumentarían las poblaciones de tiburones, porque podrán alimentarse de todos los otros niveles tróficos. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Aumentaría la cantidad de zooplancton, porque disminuiría la presión de sus depredadores. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Disminuiría la abundancia de productores, porque aumentarían los consumidores primarios. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "e3f7a010-33af-577d-a838-24c43b127b42",
+      "numero": 22,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "Una estudiante calentó en una estufa, durante 1 minuto, un litro de agua que inicialmente estaba a\n15 °C. La temperatura final del agua fue 17 °C.\nSi ahora calienta 2 litros de agua que inicialmente están a 15 °C, en la misma estufa durante un minuto, ¿cuál será la temperatura final de los 2 litros de agua?",
+      "opciones": [
+        "19 ºC.",
+        "17 ºC.",
+        "16 ºC.",
+        "15 ºC."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Una estudiante calentó en una estufa, durante 1 minuto, un litro de agua que inicialmente estaba a»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). 19 ºC. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). 17 ºC. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). 16 ºC. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). 15 ºC. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "e41220d6-c0ac-575a-86db-946f36c6e839",
+      "numero": 23,
+      "tema": "Química",
+      "dificultad": "medium",
+      "enunciado": "En la tabla se muestra la configuración electrónica de un átomo neutro y de un ion de aluminio.\nAluminio neutro\nIon de aluminio\nConfiguración electrónica\n1s22s22p63s23p1\n1s22s22p6\nTeniendo en cuenta que el estado de oxidación de un átomo se determina conociendo los cambios en el número de electrones de la configuración electrónica respecto al átomo neutro, ¿por qué es correcto afirmar que el estado de oxidación del ion de aluminio es 3+?",
+      "opciones": [
+        "Porque el último nivel de energía de su configuración electrónica es 3.",
+        "Porque tiene 3 electrones menos en su configuración electrónica que el aluminio neutro.",
+        "Porque tiene 3 electrones más en su configuración electrónica que el aluminio neutro.",
+        "Porque el número total de electrones en su configuración electrónica es 3."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («En la tabla se muestra la configuración electrónica de un átomo neutro y de un ion de aluminio.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Porque el último nivel de energía de su configuración electrónica es 3. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Porque tiene 3 electrones menos en su configuración electrónica que el aluminio neutro. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Porque tiene 3 electrones más en su configuración electrónica que el aluminio neutro. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Porque el número total de electrones en su configuración electrónica es 3. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "9f391329-51c8-59a6-b0cd-1eb88f7258b5",
+      "numero": 24,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "En un experimento, se midió el peso de dos grupos de una misma especie de planta que creció en condiciones normales de luz, temperatura y nutrientes. Uno de los grupos creció en presencia de una bacteria y el otro grupo creció en ausencia de esta. Al respecto, un estudiante tiene la hipótesis de que la presencia de la bacteria beneficiaría el crecimiento de la planta. ¿Cuál gráfica representa la hipótesis del estudiante?",
+      "opciones": [
+        "",
+        "",
+        "",
+        "Peso de la planta Tiempo Peso de la planta Tiempo Peso de la planta Tiempo Peso de la planta Tiempo Con bacteria Sin bacteria"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («En un experimento, se midió el peso de dos grupos de una misma especie de planta que creció en condiciones normales de luz, temperatura y nutrientes. Uno de los grupos creció en presencia de una bact…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Peso de la planta Tiempo Peso de la planta Tiempo Peso de la planta Tiempo Peso de la planta Tiempo Con bacteria Sin bacteria — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "76ed065d-4aed-5431-bb23-89b94e7c7567",
+      "numero": 25,
+      "tema": "Biología",
+      "dificultad": "medium",
+      "enunciado": "En tres instantes diferentes, un estudiante dibuja el diagrama de cuerpo libre para una piedra que cae en un estanque de agua, como se muestra en la siguiente figura.\nSi el estudiante mide la aceleración de la piedra después del tercer instante, ¿cómo será su magnitud, respecto a los otros instantes?",
+      "opciones": [
+        "Mayor que la del primer instante, porque el peso hace que la piedra se acelere hacia abajo.",
+        "Mayor que la del primer instante, porque el peso de la piedra disminuye cuando la fuerza de resistencia comienza a aumentar.",
+        "Constante, porque la aceleración de la piedra siempre es igual que la aceleración de la gravedad.",
+        "Nula, porque después del tercer instante, el peso de la piedra y la fuerza de resistencia se cancelan."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («En tres instantes diferentes, un estudiante dibuja el diagrama de cuerpo libre para una piedra que cae en un estanque de agua, como se muestra en la siguiente figura.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Mayor que la del primer instante, porque el peso hace que la piedra se acelere hacia abajo. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Mayor que la del primer instante, porque el peso de la piedra disminuye cuando la fuerza de resistencia comienza a aumentar. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Constante, porque la aceleración de la piedra siempre es igual que la aceleración de la gravedad. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Nula, porque después del tercer instante, el peso de la piedra y la fuerza de resistencia se cancelan. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "ecac3bed-df14-52a7-be98-26ed1d562b49",
+      "numero": 26,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "Un estudiante sopla una pelota por un tubo vertical y esta sube aceleradamente por el tubo, como se muestra en la siguiente figura:\nTeniendo en cuenta lo anterior, ¿por qué ocurre esto?",
+      "opciones": [
+        "Porque el peso de la pelota cambia cuando el estudiante sopla aire por el tubo.",
+        "Porque la fuerza que ejerce el aire que sopla el estudiante es igual que el peso de la pelota.",
+        "Porque el peso de la pelota es mayor que la fuerza del aire que sopla el estudiante.",
+        "Porque la fuerza que ejerce el aire que sopla el estudiante es mayor que el peso de la pelota."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Un estudiante sopla una pelota por un tubo vertical y esta sube aceleradamente por el tubo, como se muestra en la siguiente figura:»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Porque el peso de la pelota cambia cuando el estudiante sopla aire por el tubo. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Porque la fuerza que ejerce el aire que sopla el estudiante es igual que el peso de la pelota. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Porque el peso de la pelota es mayor que la fuerza del aire que sopla el estudiante. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Porque la fuerza que ejerce el aire que sopla el estudiante es mayor que el peso de la pelota. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "13aaf706-1307-5ca4-8470-5a352f052e61",
+      "numero": 27,
+      "tema": "Física",
+      "dificultad": "medium",
+      "enunciado": "El siguiente modelo representa la relación entre la altura y la cantidad de partículas de aire.\nUna olla con agua hierve a una temperatura de 100 °C, cuando la altura es de 0 km. Teniendo en cuenta que el punto de ebullición corresponde a la temperatura a la cual la presión de vapor del líquido iguala a la presión atmosférica, si se pone a calentar la misma cantidad de agua a una altura de 25 km, ¿qué le sucede al agua?",
+      "opciones": [
+        "Hierve a una temperatura menor que 100 °C, porque la presión es menor en esta altura.",
+        "Hierve a una temperatura mayor que 100 °C, porque la presión es menor en esta altura.",
+        "Nunca hierve, porque en esta altura hay muy poca cantidad de aire.",
+        "Se congela, porque al no haber aire el agua pasará a estado sólido."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («El siguiente modelo representa la relación entre la altura y la cantidad de partículas de aire.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Hierve a una temperatura menor que 100 °C, porque la presión es menor en esta altura. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Hierve a una temperatura mayor que 100 °C, porque la presión es menor en esta altura. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Nunca hierve, porque en esta altura hay muy poca cantidad de aire. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Se congela, porque al no haber aire el agua pasará a estado sólido. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "f7172187-8601-53fe-b1e7-b3ffbb611aa3",
+      "numero": 28,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "La materia puede clasificarse analizando su composición como se muestra en el diagrama.\nEl acero es un material que contiene los elementos hierro y carbono. Dos muestras distintas de acero tienen diferentes cantidades de estos elementos, pero ambas muestras tienen composición uniforme. Usando el diagrama anterior, ¿cómo clasificaría al acero?",
+      "opciones": [
+        "Como una mezcla homogénea, porque está formado por diferentes elementos y es uniforme.",
+        "Como una sustancia pura, porque tiene composición uniforme y es un solo compuesto.",
+        "Como una mezcla heterogénea, porque está formado por diferentes elementos.",
+        "Como una sustancia pura, porque muestras distintas tienen composición diferente. Mezcla variable? Mezcla"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («La materia puede clasificarse analizando su composición como se muestra en el diagrama.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Como una mezcla homogénea, porque está formado por diferentes elementos y es uniforme. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Como una sustancia pura, porque tiene composición uniforme y es un solo compuesto. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Como una mezcla heterogénea, porque está formado por diferentes elementos. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Como una sustancia pura, porque muestras distintas tienen composición diferente. Mezcla variable? Mezcla — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "e82e8eb0-3695-5e00-8d79-ad723bb058f0",
+      "numero": 29,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "Un grupo de estudiantes realizó un experimento que consistía en sumergir una esponja en líquidos de diferente densidad, para luego medir su volumen y masa. En la gráfica se presentan los resultados de este experimento marcados con puntos, y una línea de tendencia.\nUn estudiante afirma que, si se usa un líquido con una densidad extremadamente baja, la masa registrada será diferente de cero. ¿Esta afirmación puede considerarse una predicción basada en los datos experimentales?",
+      "opciones": [
+        "Sí, porque la línea de tendencia cruza en un punto diferente de cero.",
+        "No, porque no se observa ningún patrón entre la densidad y la masa.",
+        "No, porque no existen datos que usen líquidos con muy baja densidad.",
+        "Sí, porque todos los datos presentan masas diferentes de cero."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Un grupo de estudiantes realizó un experimento que consistía en sumergir una esponja en líquidos de diferente densidad, para luego medir su volumen y masa. En la gráfica se presentan los resultados d…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Sí, porque la línea de tendencia cruza en un punto diferente de cero. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). No, porque no se observa ningún patrón entre la densidad y la masa. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). No, porque no existen datos que usen líquidos con muy baja densidad. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Sí, porque todos los datos presentan masas diferentes de cero. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "603000e1-16c8-534b-83f7-aa59ae0d8a97",
+      "numero": 30,
+      "tema": "Química",
+      "dificultad": "medium",
+      "enunciado": "La conductividad de una disolución es la capacidad que tiene esta para conducir la corriente eléctrica. Un estudiante realiza una serie de experimentos para estudiar la conductividad del sulfato de magnesio (MgSO4) disuelto en agua, y obtiene los siguientes resultados:\nCon base en la información anterior, ¿qué se buscaba estudiar con este experimento?",
+      "opciones": [
+        "La influencia de la temperatura sobre la conductividad.",
+        "El efecto de la conductividad de la disolución sobre la concentración de la sal.",
+        "La influencia de la carga de los iones sobre la conductividad.",
+        "El efecto de la concentración de la sal sobre la conductividad de la disolución."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («La conductividad de una disolución es la capacidad que tiene esta para conducir la corriente eléctrica. Un estudiante realiza una serie de experimentos para estudiar la conductividad del sulfato de m…»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). La influencia de la temperatura sobre la conductividad. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). El efecto de la conductividad de la disolución sobre la concentración de la sal. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). La influencia de la carga de los iones sobre la conductividad. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). El efecto de la concentración de la sal sobre la conductividad de la disolución. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "b2f2fec4-9fe7-580c-bacb-51b88dea9c54",
+      "numero": 31,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "La siguiente gráfica muestra la relación entre la resistencia eléctrica y la temperatura para cuatro resistencias eléctricas (R1, R2, R3 y R4).\nUn estudiante realiza actividades experimentales y encuentra que la corriente eléctrica en un circuito es inversamente proporcional a la resistencia eléctrica. Se le solicita al estudiante construir un circuito usando una de estas resistencias, de forma que pase la menor cantidad de corriente eléctrica a 90 °C. Si las tendencias de resistencia como función de la temperatura se mantienen,\n¿cuál resistencia se debe utilizar?",
+      "opciones": [
+        "R1, porque tiene la mayor resistencia eléctrica desde los 40 °C hasta los 80 °C.",
+        "R2, porque su resistencia eléctrica será la mayor a 90 °C.",
+        "R3, porque tiene la menor resistencia desde los 40 °C hasta los 80 °C.",
+        "R4, porque su resistencia eléctrica no depende de la temperatura."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («La siguiente gráfica muestra la relación entre la resistencia eléctrica y la temperatura para cuatro resistencias eléctricas (R1, R2, R3 y R4).»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). R1, porque tiene la mayor resistencia eléctrica desde los 40 °C hasta los 80 °C. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). R2, porque su resistencia eléctrica será la mayor a 90 °C. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). R3, porque tiene la menor resistencia desde los 40 °C hasta los 80 °C. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). R4, porque su resistencia eléctrica no depende de la temperatura. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "d9e9e419-b4c5-5478-8ddb-aa149803ee93",
+      "numero": 32,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "Los rayos de luz emitidos por objetos luminosos viajan en línea recta dentro de un mismo medio, como se muestra en la Figura 1. Si un rayo de luz pasa de aire a agua cambia su dirección, como se muestra en la Figura 2.\nCuando una piscina está vacía, un nadador observa el farol que está en el borde, como se observa en la figura 1; luego, cuando se llena la piscina como se muestra en la figura 2, ¿cómo verá el nadador el farol?",
+      "opciones": [
+        "Más bajo.",
+        "De la misma altura.",
+        "Más alto.",
+        "Invertido. llena de agua"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Los rayos de luz emitidos por objetos luminosos viajan en línea recta dentro de un mismo medio, como se muestra en la Figura 1. Si un rayo de luz pasa de aire a agua cambia su dirección, como se mues…»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Más bajo. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). De la misma altura. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Más alto. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Invertido. llena de agua — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "4f10cba4-65ca-5b6a-b2d0-110b394b0a04",
+      "numero": 33,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "Un estudiante desea comparar los valores de las densidades de tres líquidos (agua, etanol y aceite) y para ello hace tres mediciones de una misma masa de líquido (100 g) a tres temperaturas. Los resultados obtenidos se muestran en la tabla.\nAgua\nEtanol\nAceite\nTemperatura\n(°C)\nDensidad\n(g/cm3)\nTemperatura\n(°C)\nDensidad\n(g/cm3)\nTemperatura\n(°C)\nDensidad\n(g/cm3)\n0,99999\n0,80374\n0,92252\n0,99886\n0,79956\n0,91553\n0,99786\n0,77756\n0,90852\nCon base en la información anterior, ¿por qué el experimento está mal planteado?",
+      "opciones": [
+        "Porque las temperaturas empleadas no son las mismas, por lo que no se pueden hacer comparaciones entre las densidades de los tres líquidos.",
+        "Porque no se pueden hacer comparaciones sin medir diferentes volúmenes de los tres líquidos en las temperaturas indicadas.",
+        "Porque es necesario realizar otras mediciones a temperaturas más altas, para saber si el valor de la densidad sigue cambiando.",
+        "Porque el aceite posee propiedades físicas y químicas muy diferentes del agua y del etanol y esto hace que no se puedan comparar."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Un estudiante desea comparar los valores de las densidades de tres líquidos (agua, etanol y aceite) y para ello hace tres mediciones de una misma masa de líquido (100 g) a tres temperaturas. Los resu…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Porque las temperaturas empleadas no son las mismas, por lo que no se pueden hacer comparaciones entre las densidades de los tres líquidos. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Porque no se pueden hacer comparaciones sin medir diferentes volúmenes de los tres líquidos en las temperaturas indicadas. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Porque es necesario realizar otras mediciones a temperaturas más altas, para saber si el valor de la densidad sigue cambiando. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Porque el aceite posee propiedades físicas y químicas muy diferentes del agua y del etanol y esto hace que no se puedan comparar. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "fe8e8bb7-9395-5c9c-9887-ed421a4ffaaf",
+      "numero": 34,
+      "tema": "Química",
+      "dificultad": "medium",
+      "enunciado": "El objetivo de una práctica de laboratorio es la detección de almidón en la papa, utilizando lugol como colorante. Se realizan cuatro experimentos con las condiciones que se muestran en la tabla.\nExperimento\nAgua (mL)\nLugol (mL)\nPapa (g)\nSolución de almidón 10 % (mL)\nEn esta práctica, ¿por qué es importante el experimento 4?",
+      "opciones": [
+        "Porque permite que el almidón se encuentre soluble.",
+        "Porque contiene el colorante con el cual se logra la detección de almidón.",
+        "Porque contiene más almidón que el que contiene la papa.",
+        "Porque permite establecer el color esperado para la detección de almidón."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («El objetivo de una práctica de laboratorio es la detección de almidón en la papa, utilizando lugol como colorante. Se realizan cuatro experimentos con las condiciones que se muestran en la tabla.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Porque permite que el almidón se encuentre soluble. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Porque contiene el colorante con el cual se logra la detección de almidón. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Porque contiene más almidón que el que contiene la papa. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Porque permite establecer el color esperado para la detección de almidón. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "b457faed-387f-58fd-9369-45ee097b09a3",
+      "numero": 35,
+      "tema": "Ciencias integradas",
+      "dificultad": "medium",
+      "enunciado": "En un experimento, un sólido de identidad desconocida se calienta y se mide su temperatura hasta que se evapora, obteniendo la siguiente gráfica.\nPara identificar el sólido se cuenta con los datos de la tabla.\nSustancia\nTemperatura de fusión (ºC)\nTemperatura de ebullición (ºC)\nBenceno\nAgua\nAcetonitrilo\n-45\n2-butanol\n-115\nTeniendo en cuenta la información anterior, ¿a qué sustancia corresponde el sólido inicial?",
+      "opciones": [
+        "Benceno.",
+        "Agua.",
+        "Acetonitrilo.",
+        "2-butanol."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («En un experimento, un sólido de identidad desconocida se calienta y se mide su temperatura hasta que se evapora, obteniendo la siguiente gráfica.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Benceno. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Agua. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Acetonitrilo. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). 2-butanol. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "b73f5964-212f-5958-a419-24eb751dd928",
+      "numero": 36,
+      "tema": "Biología",
+      "dificultad": "medium",
+      "enunciado": "En las células animales, los lisosomas son los organelos encargados de digerir con enzimas los nutrientes que la célula consume. Si todos los lisosomas de una célula se rompieran, ¿qué le sucedería inicialmente a la célula?",
+      "opciones": [
+        "Se degradarían moléculas en su interior.",
+        "Perdería toda el agua del citoplasma.",
+        "No habría respiración celular.",
+        "No se formarían proteínas."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («En las células animales, los lisosomas son los organelos encargados de digerir con enzimas los nutrientes que la célula consume. Si todos los lisosomas de una célula se rompieran, ¿qué le sucedería i…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Se degradarían moléculas en su interior. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Perdería toda el agua del citoplasma. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). No habría respiración celular. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). No se formarían proteínas. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "14cb1600-23da-57ef-ad7b-98983ba4e187",
+      "numero": 37,
+      "tema": "Física",
+      "dificultad": "medium",
+      "enunciado": "Una estudiante realiza diferentes ensayos con el objetivo de determinar el efecto de la concentración de los reactivos sobre la velocidad de formación de Z en la reacción X + Y → Z. En cada ensayo mide la velocidad de formación de Z manteniendo constante la concentración de uno de los reactivos y variando la del otro, como se muestra en las siguientes gráficas:\nTeniendo en cuenta la información anterior, ¿qué se puede concluir del cambio en la velocidad de formación de Z?",
+      "opciones": [
+        "El cambio de la velocidad de formación de Z no depende de la concentración de los reactivos.",
+        "El cambio de la velocidad de formación de Z depende de la concentración de ambos reactivos.",
+        "El cambio de la velocidad de formación de Z depende solamente de la concentración de X.",
+        "El cambio de la velocidad de formación de Z depende solamente de la concentración de Y."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Una estudiante realiza diferentes ensayos con el objetivo de determinar el efecto de la concentración de los reactivos sobre la velocidad de formación de Z en la reacción X + Y → Z. En cada ensayo mi…»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). El cambio de la velocidad de formación de Z no depende de la concentración de los reactivos. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). El cambio de la velocidad de formación de Z depende de la concentración de ambos reactivos. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). El cambio de la velocidad de formación de Z depende solamente de la concentración de X. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). El cambio de la velocidad de formación de Z depende solamente de la concentración de Y. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "20c87b8d-8fe2-595c-948a-6e85ac0d98b5",
+      "numero": 38,
+      "tema": "Biología",
+      "dificultad": "hard",
+      "enunciado": "En una especie de pato se pueden encontrar individuos con cuello corto e individuos con cuello largo. En esta especie hay una mayor cantidad de patos con cuello largo. En un experimento se aparearon una hembra y un macho de cuello largo; de sus hijos 3/4 son de cuello largo y 1/4 son de cuello corto.\nTeniendo en cuenta lo anterior, ¿cuál afirmación es correcta sobre el genotipo de los padres?",
+      "opciones": [
+        "Ambos padres eran heterocigotos.",
+        "El macho era heterocigoto y la hembra era homocigoto recesivo.",
+        "El macho era heterocigoto y la hembra era homocigoto dominante.",
+        "Ambos padres eran homocigotos dominantes. Z Z"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («En una especie de pato se pueden encontrar individuos con cuello corto e individuos con cuello largo. En esta especie hay una mayor cantidad de patos con cuello largo. En un experimento se aparearon…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Ambos padres eran heterocigotos. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). El macho era heterocigoto y la hembra era homocigoto recesivo. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). El macho era heterocigoto y la hembra era homocigoto dominante. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Ambos padres eran homocigotos dominantes. Z Z — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "b69ca29b-a073-5473-ad00-3309cae0961a",
+      "numero": 39,
+      "tema": "Química",
+      "dificultad": "hard",
+      "enunciado": "Una estudiante desea conocer las proteínas presentes en la sangre. Para ello, emplea una técnica que las separa de acuerdo con su peso molecular y produce una respuesta en diferentes instantes de tiempo cada vez que una proteína es detectada.\nElla obtiene los resultados mostrados en la siguiente gráfica, en donde cada pico representa una proteína diferente.\n¿En qué tiempo podrá separar una proteína de 120 kDa?",
+      "opciones": [
+        "Entre 25 y 35 minutos.",
+        "Entre 5 y 25 minutos.",
+        "Entre 35 y 45 minutos.",
+        "Después de 45 minutos."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Una estudiante desea conocer las proteínas presentes en la sangre. Para ello, emplea una técnica que las separa de acuerdo con su peso molecular y produce una respuesta en diferentes instantes de tie…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Entre 25 y 35 minutos. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Entre 5 y 25 minutos. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Entre 35 y 45 minutos. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Después de 45 minutos. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "890dbfb8-19ae-5af6-ac3b-c8b012b23000",
+      "numero": 40,
+      "tema": "Biología",
+      "dificultad": "hard",
+      "enunciado": "La polilla grande de la cera es un patógeno que mata las larvas de las abejas y causa grandes pérdidas económicas a los apicultores de todo el mundo, por la gran cantidad de panales que destruye.\nSegún la información anterior, ¿cuál de las siguientes preguntas está relacionada con la problemática descrita y puede resolverse mediante una investigación en el campo de las Ciencias Naturales?",
+      "opciones": [
+        "¿En qué etapa del ciclo biológico la polilla afecta los panales de las abejas?",
+        "¿Cómo se afecta la economía de los apicultores por causa de la polilla?",
+        "¿Cuáles son las características morfológicas de las abejas usadas en la apicultura?",
+        "¿Cuánto invierten al año los apicultores para el control de la polilla en la región?",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («La polilla grande de la cera es un patógeno que mata las larvas de las abejas y causa grandes pérdidas económicas a los apicultores de todo el mundo, por la gran cantidad de panales que destruye.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). ¿En qué etapa del ciclo biológico la polilla afecta los panales de las abejas? — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). ¿Cómo se afecta la economía de los apicultores por causa de la polilla? — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). ¿Cuáles son las características morfológicas de las abejas usadas en la apicultura? — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). ¿Cuánto invierten al año los apicultores para el control de la polilla en la región? — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A).",
+        "No (E). A — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (A).",
+        "No (F). B — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (G). C — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (H). D — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "7a030fd5-4ccf-545d-a053-4a591d7ec61d",
+      "numero": 42,
+      "tema": "Física",
+      "dificultad": "hard",
+      "enunciado": "De la ley de Coulomb se sabe que la fuerza eléctrica debido a la interacción entre cargas de signos iguales es repulsiva y entre cargas de signos opuestos es atractiva. La siguiente figura muestra un sistema conformado por tres cargas eléctricas.\n¿Cuál de las siguientes figuras muestra la fuerza eléctrica que ejercen la carga 2 y la carga 3 sobre la carga 1?",
+      "opciones": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («De la ley de Coulomb se sabe que la fuerza eléctrica debido a la interacción entre cargas de signos iguales es repulsiva y entre cargas de signos opuestos es atractiva. La siguiente figura muestra un…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D).  — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "94ffdbfd-b107-5057-bfc1-8636ee3fe428",
+      "numero": 43,
+      "tema": "Física",
+      "dificultad": "hard",
+      "enunciado": "Un estudiante calculó la energía potencial de un vagón en una montaña rusa. La gráfica representa los datos obtenidos por el estudiante.\nDe los siguientes modelos de montaña rusa, ¿cuál explica la gráfica obtenida por el estudiante?",
+      "opciones": [
+        "",
+        "",
+        "D."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Un estudiante calculó la energía potencial de un vagón en una montaña rusa. La gráfica representa los datos obtenidos por el estudiante.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (C). D. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D)."
+      ]
+    },
+    {
+      "id": "ffb124ad-a365-571c-92e4-31e1afcff508",
+      "numero": 44,
+      "tema": "Biología",
+      "dificultad": "hard",
+      "enunciado": "Los ecosistemas se consideran sistemas abiertos porque en su mantenimiento es fundamental el flujo de materia y energía que intercambian de manera constante con su medio externo. De acuerdo con la información anterior, ¿cuál de los siguientes modelos representa precisamente un ecosistema abierto?",
+      "opciones": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Los ecosistemas se consideran sistemas abiertos porque en su mantenimiento es fundamental el flujo de materia y energía que intercambian de manera constante con su medio externo. De acuerdo con la in…»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D).  — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "44b163c3-18cd-5e7d-8346-7749727675eb",
+      "numero": 45,
+      "tema": "Biología",
+      "dificultad": "hard",
+      "enunciado": "Al agitar una cuerda extendida horizontalmente, cada sección de la cuerda se mueve de arriba abajo en dirección perpendicular a la dirección de propagación de la onda generada; este es un ejemplo de una onda transversal. En contraste, en una onda longitudinal, las partículas del medio vibran en la misma dirección de propagación de la onda.\nUn grupo de personas quiere representar una onda longitudinal; para esto, se ubican como muestra la figura. La fila representa el medio de propagación y las personas representan las partículas del medio.\nPara lograr la representación, ¿cuál es el movimiento que debe hacer la primera persona y que las demás deben repetir sucesivamente?",
+      "opciones": [
+        "Alzar y bajar lateralmente los brazos.",
+        "Sentarse y ponerse de pie.",
+        "Balancearse de izquierda a derecha.",
+        "Moverse hacia adelante y atrás."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Al agitar una cuerda extendida horizontalmente, cada sección de la cuerda se mueve de arriba abajo en dirección perpendicular a la dirección de propagación de la onda generada; este es un ejemplo de…»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Alzar y bajar lateralmente los brazos. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Sentarse y ponerse de pie. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Balancearse de izquierda a derecha. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Moverse hacia adelante y atrás. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "6bf4dcc4-6932-53ff-8bfc-989f19f525c5",
+      "numero": 46,
+      "tema": "Biología",
+      "dificultad": "hard",
+      "enunciado": "Unos estudiantes analizaron el agua de un río y encontraron que contenía altos niveles de cadmio y plomo, que son metales tóxicos. Al estudiar el origen de la contaminación, descubrieron que los metales provenían de filtraciones de la descomposición de pilas en un botadero de basura cercano.\nLos estudiantes proponen que, a futuro, se deberían separar las pilas del resto de los desechos en contenedores completamente aislados. Con base en la información anterior, ¿se puede afirmar que la propuesta de los estudiantes es apropiada o inapropiada?",
+      "opciones": [
+        "Inapropiada, porque es mejor desarmar las pilas y luego desecharlas.",
+        "Apropiada, porque se evitaría la presencia de metales pesados en el agua.",
+        "Apropiada, porque luego se podrían reutilizar las pilas desechadas.",
+        "Inapropiada, porque es mejor quemarlas ya que no entrarían en contacto con el agua."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Unos estudiantes analizaron el agua de un río y encontraron que contenía altos niveles de cadmio y plomo, que son metales tóxicos. Al estudiar el origen de la contaminación, descubrieron que los meta…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Inapropiada, porque es mejor desarmar las pilas y luego desecharlas. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Apropiada, porque se evitaría la presencia de metales pesados en el agua. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Apropiada, porque luego se podrían reutilizar las pilas desechadas. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Inapropiada, porque es mejor quemarlas ya que no entrarían en contacto con el agua. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "3f820b4c-ef4d-5773-8cd4-0b999db67d65",
+      "numero": 47,
+      "tema": "Ciencias integradas",
+      "dificultad": "hard",
+      "enunciado": "Un investigador somete dos grupos de ratones a las siguientes condiciones.\nGrupo con ejercicio antes del experimento.\nGrupo sin ejercicio antes del experimento.\nÉl quiere evaluar la capacidad que tienen estos dos grupos de ratones de recordar un lugar, guiados por objetos ubicados en el espacio. Para esto mete los ratones de cada grupo en un tanque con agua durante un minuto por 7 días consecutivos, para que encuentren un recipiente transparente que flota en el tanque y que está señalizado con un triángulo en la pared.\nEl último día registra la trayectoria que recorre cada ratón, como se muestra en la figura.\nDe acuerdo con el experimento, ¿por qué los ratones del grupo con ejercicio ubicaron tan fácilmente el recipiente?",
+      "opciones": [
+        "Porque el triángulo los guio hasta el recipiente.",
+        "Porque nadaron más rápido que los ratones del grupo sin ejercicio.",
+        "Porque permanecieron más tiempo en el tanque que los ratones del grupo sin ejercicio.",
+        "Porque el ejercicio mejoró su capacidad de memorizar. Grupo con ejercicio Grupo sin ejercicio"
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Un investigador somete dos grupos de ratones a las siguientes condiciones.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Porque el triángulo los guio hasta el recipiente. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Porque nadaron más rápido que los ratones del grupo sin ejercicio. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Porque permanecieron más tiempo en el tanque que los ratones del grupo sin ejercicio. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Porque el ejercicio mejoró su capacidad de memorizar. Grupo con ejercicio Grupo sin ejercicio — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "25fab3c6-3c08-56ba-b43c-2783c210ad5f",
+      "numero": 48,
+      "tema": "Física",
+      "dificultad": "hard",
+      "enunciado": "Una estudiante realizó un experimento para medir la velocidad de propagación del sonido en el aire a diferentes temperaturas. Los resultados que obtuvo se muestran en la siguiente tabla.\nTemperatura (°C)\nVelocidad del sonido (m/s)\n331,7\n332,3\n332,9\n333,5\n¿Cuál de las siguientes gráficas muestra los resultados del experimento?",
+      "opciones": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («Una estudiante realizó un experimento para medir la velocidad de propagación del sonido en el aire a diferentes temperaturas. Los resultados que obtuvo se muestran en la siguiente tabla.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D).  — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "41d92237-48e8-5d7f-a63e-eca7f3b4b88c",
+      "numero": 49,
+      "tema": "Biología",
+      "dificultad": "hard",
+      "enunciado": "El anabolismo es una forma de metabolismo que requiere energía y da como resultado la elaboración de moléculas complejas a partir de moléculas simples. Por el contrario, el catabolismo transforma moléculas complejas en moléculas simples y produce energía. El siguiente esquema muestra los procesos de fotosíntesis y respiración en plantas.\nCon base en la información anterior, ¿qué se puede afirmar?",
+      "opciones": [
+        "Que la fotosíntesis es un proceso anabólico porque produce glucosa como molécula compleja.",
+        "Que la fotosíntesis es un proceso catabólico porque requiere energía en forma de luz solar.",
+        "Que la respiración es un proceso anabólico porque produce energía en forma de ATP.",
+        "Que la respiración es un proceso catabólico porque produce moléculas complejas como CO2 y agua."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («El anabolismo es una forma de metabolismo que requiere energía y da como resultado la elaboración de moléculas complejas a partir de moléculas simples. Por el contrario, el catabolismo transforma mol…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Que la fotosíntesis es un proceso anabólico porque produce glucosa como molécula compleja. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Que la fotosíntesis es un proceso catabólico porque requiere energía en forma de luz solar. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Que la respiración es un proceso anabólico porque produce energía en forma de ATP. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Que la respiración es un proceso catabólico porque produce moléculas complejas como CO2 y agua. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "7e13911e-e9c2-53d4-be74-9ef9cc9d2661",
+      "numero": 50,
+      "tema": "Ciencias integradas",
+      "dificultad": "hard",
+      "enunciado": "En clase, el profesor explica que la acidez de un alcohol está relacionada con su estructura y muestra la siguiente tabla con la estructura de los alcoholes de mayor a menor acidez:\nLuego le pide a sus estudiantes que revisen la siguiente tabla con la estructura de cuatro alcoholes:\nDe acuerdo con lo anterior, ¿cuál es el alcohol que presenta la menor acidez?",
+      "opciones": [
+        "2-butanol.",
+        "Etanol.",
+        "2-metil-2-propanol.",
+        "2-propanol. Tabla 1 Secundario R C R’ H OH Primario R C H H OH Terciario R C R’ R’’ OH Alcohol Estructura general Aumenta la acidez Tabla 2 2 - propanol 2 - metil -2 - propanol etanol 2 - butanol Nombre Estructura H C C C OH CH3 H H H H H C OH H H C OH C OH H CH3 CH3 CH3 CH3 CH3 CH3 Etanol"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Ciencias Naturales se te pide cerrar el razonamiento a partir del enunciado («En clase, el profesor explica que la acidez de un alcohol está relacionada con su estructura y muestra la siguiente tabla con la estructura de los alcoholes de mayor a menor acidez:»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). 2-butanol. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Etanol. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). 2-metil-2-propanol. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). 2-propanol. Tabla 1 Secundario R C R’ H OH Primario R C H H OH Terciario R C R’ R’’ OH Alcohol Estructura general Aumenta la acidez Tabla 2 … — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    }
+  ]
+}

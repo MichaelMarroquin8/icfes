@@ -1,0 +1,1100 @@
+{
+  "format": "cuadernillo_json_v1",
+  "archivoPdf": "09-Marzo_Cuadernillo-de-Preguntas-Matematicas-Saber-11-2026.pdf",
+  "moduloNombre": "Matemáticas",
+  "moduleId": "9818ba5b-e2ea-5a97-b12e-abada9cf2092",
+  "exportedAt": 1778964621507,
+  "totalPreguntas": 50,
+  "preguntas": [
+    {
+      "id": "4696598d-2a61-5eac-a3a2-277975b94868",
+      "numero": 1,
+      "tema": "Porcentaje",
+      "dificultad": "easy",
+      "enunciado": "Cuatro cursos, cada uno con igual número de estudiantes, presentan anualmente una prueba de matemáticas. La tabla muestra el puntaje promedio obtenido por cada curso.\nPromedios de los puntajes en el examen por cursos\nCurso: I, II, III, IV\nPromedio año anterior\nPromedio año actual\nAl revisar los puntajes de la tabla, una persona afirma que hubo un aumento en el puntaje respecto al año anterior. Esta afirmación es correcta?",
+      "opciones": [
+        "Correcta, ya que el promedio de la mayoría de los cursos aumentó respecto al año anterior.",
+        "Incorrecta, ya que el promedio total en el año anterior es superior al promedio total en el año actual.",
+        "Correcta, ya que al observar todos los promedios, el mayor corresponde al curso I en el año actual.",
+        "Incorrecta, ya que se necesita el puntaje de cada estudiante para realizar la comparación."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Cuatro cursos, cada uno con igual número de estudiantes, presentan anualmente una prueba de matemáticas. La tabla muestra el puntaje promedio obtenido por cada curso.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Correcta, ya que el promedio de la mayoría de los cursos aumentó respecto al año anterior. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Incorrecta, ya que el promedio total en el año anterior es superior al promedio total en el año actual. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Correcta, ya que al observar todos los promedios, el mayor corresponde al curso I en el año actual. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Incorrecta, ya que se necesita el puntaje de cada estudiante para realizar la comparación. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "d2f6e3c7-97cb-5d92-99ef-ab3e820d70f5",
+      "numero": 2,
+      "tema": "Porcentaje",
+      "dificultad": "easy",
+      "enunciado": "Una persona que vive en Colombia tiene inversiones en dólares en Estados Unidos, y sabe que la tasa de cambio del dólar respecto al peso colombiano se mantendrá constante este mes, siendo 1 dólar equivalente a 4.000 pesos colombianos y que su inversión, en dólares, le dará ganancias del 3 % en el mismo periodo. Un amigo le asegura que en pesos sus ganancias también serán del 3 %.\n¿La afirmación de su amigo es correcta?",
+      "opciones": [
+        "Sí, porque, sin importar las variaciones en la tasa de cambio, la proporción en que aumenta la inversión en dólares es la misma que en pesos.",
+        "No, porque debería conocerse el valor exacto de la inversión para poder calcular la cantidad de dinero que ganará.",
+        "Sí, porque el 3 % representa una proporción fija en cualquiera de las dos monedas, puesto que la tasa de cambio permanecerá constante.",
+        "No, porque el 3 % representa un incremento, que será mayor en pesos colombianos, pues en esta moneda cada dólar representa un valor 4.000 veces mayor."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Una persona que vive en Colombia tiene inversiones en dólares en Estados Unidos, y sabe que la tasa de cambio del dólar respecto al peso colombiano se mantendrá constante este mes, siendo 1 dólar equ…»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Sí, porque, sin importar las variaciones en la tasa de cambio, la proporción en que aumenta la inversión en dólares es la misma que en pesos… — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). No, porque debería conocerse el valor exacto de la inversión para poder calcular la cantidad de dinero que ganará. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Sí, porque el 3 % representa una proporción fija en cualquiera de las dos monedas, puesto que la tasa de cambio permanecerá constante. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). No, porque el 3 % representa un incremento, que será mayor en pesos colombianos, pues en esta moneda cada dólar representa un valor 4.000 ve… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "9013ac31-16e0-57b3-b931-225655a40c00",
+      "numero": 3,
+      "tema": "Estadística",
+      "dificultad": "easy",
+      "enunciado": "Las directivas de un colegio tienen que organizar un viaje a un museo con 140 estudiantes, quienes deben dividirse en 3 grupos. Cada grupo irá en una franja diferente, pero el costo total de las entradas se asumirá equitativamente por los estudiantes. En la tabla se muestran los horarios disponibles, la máxima cantidad de estudiantes y los precios respectivos de cada horario.\nFranja\nHorario\nCantidad máxima de estudiantes\nPrecio entrada por estudiante\n8:00 - 10:00\n$ 35.000\n10:00 - 12:00\n$ 40.000\n12:00 - 14:00\n$ 50.000\n14:00 - 16:00\n$ 45.000\nCon el fin de que todos los estudiantes asistan y paguen el menor precio, las directivas eligieron las franjas 1, 3 y 4. ¿Esta elección garantiza que asistan todos los estudiantes al menor precio posible?",
+      "opciones": [
+        "Sí, porque esas franjas suman exactamente 140 estudiantes.",
+        "No, porque es posible obtener un precio menor eligiendo la franja 2 en lugar de la franja 3.",
+        "Sí, porque se incluyó la franja 1 que es la de menor precio por estudiante.",
+        "No, porque en la franja 3 la cantidad máxima de estudiantes es 30."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Las directivas de un colegio tienen que organizar un viaje a un museo con 140 estudiantes, quienes deben dividirse en 3 grupos. Cada grupo irá en una franja diferente, pero el costo total de las entr…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Sí, porque esas franjas suman exactamente 140 estudiantes. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). No, porque es posible obtener un precio menor eligiendo la franja 2 en lugar de la franja 3. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Sí, porque se incluyó la franja 1 que es la de menor precio por estudiante. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). No, porque en la franja 3 la cantidad máxima de estudiantes es 30. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "c45ccee1-f688-50e7-a321-35c328c38fe9",
+      "numero": 4,
+      "tema": null,
+      "dificultad": "easy",
+      "enunciado": "La empresa pagará $4.200.000 por capacitar a los trabajadores de la dependencia “Insumos” en el módulo I, ¿cuántos empleados tiene esta dependencia?",
+      "opciones": [
+        "Entre 20 y 30 trabajadores.",
+        "Entre 41 y 60 trabajadores.",
+        "Entre 61 y 90 trabajadores.",
+        "Entre 80 y 120 trabajadores."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («La empresa pagará $4.200.000 por capacitar a los trabajadores de la dependencia “Insumos” en el módulo I, ¿cuántos empleados tiene esta dependencia?»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Entre 20 y 30 trabajadores. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Entre 41 y 60 trabajadores. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Entre 61 y 90 trabajadores. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Entre 80 y 120 trabajadores. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "c82dbf9b-5c91-5698-bea7-c6f2ab544596",
+      "numero": 5,
+      "tema": null,
+      "dificultad": "easy",
+      "enunciado": "Si se les cobrara a los 50 trabajadores de la dependencia “Recursos Humanos” la capacitación del módulo II, y todos pagaran el mismo valor, ¿cuánto debería pagar cada uno por esa capacitación?",
+      "opciones": [
+        "$ 18.000",
+        "$ 36.000",
+        "$ 450.000",
+        "$ 900.000"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Si se les cobrara a los 50 trabajadores de la dependencia “Recursos Humanos” la capacitación del módulo II, y todos pagaran el mismo valor, ¿cuánto debería pagar cada uno por esa capacitación?»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). $ 18.000 — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). $ 36.000 — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). $ 450.000 — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). $ 900.000 — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "441319c5-9c2c-5c0d-8439-28c51cd6ccb7",
+      "numero": 6,
+      "tema": null,
+      "dificultad": "easy",
+      "enunciado": "La empresa paga $ 900.000 por la capacitación de los 40 funcionarios de la dependencia\n“Importaciones”. De acuerdo con el valor pagado, ¿cuál de los siguientes módulos corresponde al tomado por la dependencia \"Importaciones\"?",
+      "opciones": [
+        "I.",
+        "II.",
+        "III.",
+        "IV."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («La empresa paga $ 900.000 por la capacitación de los 40 funcionarios de la dependencia»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). I. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). II. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). III. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). IV. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "7c0488b6-2532-5222-a9c3-36d01dd39bd8",
+      "numero": 7,
+      "tema": "Probabilidad",
+      "dificultad": "easy",
+      "enunciado": "La figura muestra el portalápices de Eliécer. Él sabe que es posible colocar un caucho de 18 cm de perímetro alrededor de la base sin estirarlo, pero a medida que sube el caucho por el portalápices, este se estira hasta que, en la boca del portalápices, su perímetro es 24 cm.\nEl portalápices tiene base y boca cuadrada, por lo cual Eliécer afirma: “Como los perímetros de la base y la boca del portalápices están en relación = , el área de la base debe ser también tres cuartas partes del área de la boca del portalápices”. ¿Es verdadera esta afirmación?",
+      "opciones": [
+        "No, porque la medición se realiza con el mismo caucho y, por tanto, las áreas de la base y la boca deben ser iguales.",
+        "Sí, porque el caucho se estira dependiendo del área que encierre, por lo que las relaciones de las áreas y los perímetros son iguales.",
+        "No, porque la relación obtenida se cumple para las longitudes de los lados, pero al calcular las áreas, la razón obtenida se eleva al cuadrado.",
+        "Sí, porque como las figuras son semejantes, todas sus medidas deben tener la misma razón que los perímetros."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («La figura muestra el portalápices de Eliécer. Él sabe que es posible colocar un caucho de 18 cm de perímetro alrededor de la base sin estirarlo, pero a medida que sube el caucho por el portalápices,…»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). No, porque la medición se realiza con el mismo caucho y, por tanto, las áreas de la base y la boca deben ser iguales. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Sí, porque el caucho se estira dependiendo del área que encierre, por lo que las relaciones de las áreas y los perímetros son iguales. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). No, porque la relación obtenida se cumple para las longitudes de los lados, pero al calcular las áreas, la razón obtenida se eleva al cuadrado. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Sí, porque como las figuras son semejantes, todas sus medidas deben tener la misma razón que los perímetros. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "ba0f4338-47bb-5422-8096-8692dc45ef54",
+      "numero": 8,
+      "tema": null,
+      "dificultad": "easy",
+      "enunciado": "Un grupo de montañistas sabe que cada vez que aumenta la altitud en 100 m, la temperatura disminuye en 1 °C. Si el grupo se encuentra a una altitud de 1.000 m, donde la temperatura es de\n20 °C, ¿cuál de las siguientes expresiones les permite determinar la temperatura que habrá cuando se encuentren a 4.000 m de altitud?",
+      "opciones": [
+        "Temperatura = + 10",
+        "Temperatura = − Altitud × 100 + 30",
+        "Temperatura = − + 30",
+        "Temperatura = Altitud × 100 + 10 Caucho estirado, en la boca del portalápices. Caucho sin estirar, en la base del portalápices. Altitud Altitud"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Un grupo de montañistas sabe que cada vez que aumenta la altitud en 100 m, la temperatura disminuye en 1 °C. Si el grupo se encuentra a una altitud de 1.000 m, donde la temperatura es de»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Temperatura = + 10 — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Temperatura = − Altitud × 100 + 30 — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Temperatura = − + 30 — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Temperatura = Altitud × 100 + 10 Caucho estirado, en la boca del portalápices. Caucho sin estirar, en la base del portalápices. Altitud Alti… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "33dd8ff8-f32b-501a-a533-d5a67007c9fd",
+      "numero": 9,
+      "tema": "Geometría",
+      "dificultad": "easy",
+      "enunciado": "Una persona afirma que para el comerciante es más rentable vender 6 toneladas de mango en la ciudad Z que en la ciudad W.\n¿Por qué la afirmación de esta persona es correcta?",
+      "opciones": [
+        "Porque el dinero recibido en la venta del producto en la ciudad Z es mayor que el recibido en la ciudad W.",
+        "Porque la diferencia entre el precio de venta por tonelada es mayor que la diferencia entre el costo de transporte por camión.",
+        "Porque la diferencia entre las ventas totales en cada ciudad es mayor que la diferencia entre los gastos totales.",
+        "Porque el dinero total gastado en empleados y transporte es mayor en la ciudad W que en la ciudad Z."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Una persona afirma que para el comerciante es más rentable vender 6 toneladas de mango en la ciudad Z que en la ciudad W.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Porque el dinero recibido en la venta del producto en la ciudad Z es mayor que el recibido en la ciudad W. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Porque la diferencia entre el precio de venta por tonelada es mayor que la diferencia entre el costo de transporte por camión. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Porque la diferencia entre las ventas totales en cada ciudad es mayor que la diferencia entre los gastos totales. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Porque el dinero total gastado en empleados y transporte es mayor en la ciudad W que en la ciudad Z. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "6c495fee-bb46-5aba-ab96-de35143e47cd",
+      "numero": 10,
+      "tema": "Aritmética",
+      "dificultad": "easy",
+      "enunciado": "Los tres (3) camiones se cargan con 5 toneladas de banano cada uno para venderse en la ciudad W. El comerciante necesita conocer la ganancia al hacer este negocio, ejecutando el siguiente procedimiento:\nPaso 1. Halla el número de toneladas de banano que hay en los 3 camiones.\nPaso 2. Halla la diferencia entre el precio de venta de una tonelada de banano en la ciudad W y el precio de compra.\nPaso 3. Multiplica los valores hallados en los pasos 1 y 2.\nPaso 4. Encuentra los costos totales de transporte y le suma el pago total de los trabajadores en los tres viajes.\nPaso 5. Halla la diferencia entre el valor obtenido en el paso 3 y el paso 4.\n¿Cuál es la ganancia que obtiene el comerciante?",
+      "opciones": [
+        "$ 5.670.000",
+        "$ 5.970.000",
+        "$ 7.470.000",
+        "$ 8.010.000"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Los tres (3) camiones se cargan con 5 toneladas de banano cada uno para venderse en la ciudad W. El comerciante necesita conocer la ganancia al hacer este negocio, ejecutando el siguiente procedimien…»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). $ 5.670.000 — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). $ 5.970.000 — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). $ 7.470.000 — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). $ 8.010.000 — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "91612971-9fbc-5788-8ee3-be5e620e5c35",
+      "numero": 11,
+      "tema": "Porcentaje",
+      "dificultad": "easy",
+      "enunciado": "Para diciembre, el comerciante decidió que por cada 5 toneladas del producto transportado en camión y vendido en alguna de las ciudades, cada uno de los dos empleados necesarios por camión recibirá un bono de 0,3 % del dinero recibido en la venta de esas 5 toneladas. En ese mes, dos empleados transportaron y vendieron 47 toneladas de mango a la ciudad W. Para hallar el bono recibido por cada uno de ellos, se ejecutó el siguiente procedimiento:\nPaso 1. Se dividió el número de toneladas vendidas entre 5 y se halló su residuo.\nPaso 2. Se restó del número de toneladas vendidas, el valor obtenido en el paso 1.\nPaso 3. Se multiplicó el valor obtenido en el paso 2 por el valor de venta de la tonelada del producto.\nPaso 4. Al valor obtenido en el paso 3, se le sacó el 0,3 %.\n¿De que valor fue, aproximadamente, el bono recibido por cada empleado?",
+      "opciones": [
+        "526.000 pesos.",
+        "175.000 pesos.",
+        "148.000 pesos.",
+        "87.000 pesos."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Para diciembre, el comerciante decidió que por cada 5 toneladas del producto transportado en camión y vendido en alguna de las ciudades, cada uno de los dos empleados necesarios por camión recibirá u…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). 526.000 pesos. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). 175.000 pesos. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). 148.000 pesos. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). 87.000 pesos. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "752e6ebe-adf8-5dd3-8cbd-9d18855bd87e",
+      "numero": 12,
+      "tema": "Geometría",
+      "dificultad": "easy",
+      "enunciado": "Si se transportan 7 toneladas de fruta a la ciudad W y 10 toneladas de fruta a la ciudad Z, ¿cuál es la gráfica que muestra correctamente la relación de costos por ciudad?",
+      "opciones": [
+        "",
+        "",
+        "D."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Si se transportan 7 toneladas de fruta a la ciudad W y 10 toneladas de fruta a la ciudad Z, ¿cuál es la gráfica que muestra correctamente la relación de costos por ciudad?»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). D. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "d0ee5bd3-4428-540e-929c-f0403734d22c",
+      "numero": 13,
+      "tema": null,
+      "dificultad": "easy",
+      "enunciado": "Durante enero, el comerciante vendió 100 toneladas de mango y 50 de banano, y contrató 10 trabajadores. ¿Qué se puede determinar con esta información?",
+      "opciones": [
+        "La ganancia de los productores.",
+        "El pago que recibirá cada trabajador en enero.",
+        "Los costos totales del comerciante.",
+        "El número mínimo de viajes que se realizaron desde el pueblo."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Durante enero, el comerciante vendió 100 toneladas de mango y 50 de banano, y contrató 10 trabajadores. ¿Qué se puede determinar con esta información?»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). La ganancia de los productores. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). El pago que recibirá cada trabajador en enero. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Los costos totales del comerciante. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). El número mínimo de viajes que se realizaron desde el pueblo. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "a4749774-7640-5532-94df-b3ecbce8fc81",
+      "numero": 14,
+      "tema": "Porcentaje",
+      "dificultad": "easy",
+      "enunciado": "Si en un rectángulo se aumenta la longitud de uno de sus lados en 100 %, ¿Qué se puede concluir de su área?",
+      "opciones": [
+        "Aumenta en un 50 %.",
+        "Se duplica.",
+        "No cambia.",
+        "Aumenta en 100 unidades."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Si en un rectángulo se aumenta la longitud de uno de sus lados en 100 %, ¿Qué se puede concluir de su área?»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Aumenta en un 50 %. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Se duplica. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). No cambia. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Aumenta en 100 unidades. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "441b0613-e5a5-50e8-b20a-b06dc25dfe7f",
+      "numero": 15,
+      "tema": "Geometría",
+      "dificultad": "easy",
+      "enunciado": "Las sombras proyectadas por dos postes paralelos de 10 metros y 5 metros se muestran en la figura.\nEl ángulo entre la acera horizontal y la sombra del poste 1 es α = 30º.\nDe acuerdo con esto, se puede afirmar que el ángulo entre la acera horizontal y la sombra del poste\n2 es",
+      "opciones": [
+        "β = 5°.",
+        "β = 15°.",
+        "β = 30°.",
+        "β = 60°. Figura 10 metros 5 metros Poste 1 Poste 2 = 30¼ °"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Las sombras proyectadas por dos postes paralelos de 10 metros y 5 metros se muestran en la figura.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). β = 5°. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). β = 15°. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). β = 30°. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). β = 60°. Figura 10 metros 5 metros Poste 1 Poste 2 = 30¼ ° — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "af202749-8f7f-553c-980a-c6bd51c09937",
+      "numero": 16,
+      "tema": "Estadística",
+      "dificultad": "easy",
+      "enunciado": "Una escuela de natación cuenta con un total de 16 estudiantes. Para las clases se usan 2 piscinas con distinta profundidad. Por seguridad, las personas con una estatura inferior a 1,80 m se envían a la piscina menos profunda, y las demás, a la más profunda.\nUn día, el director de la escuela escucha que el promedio de estatura de las 16 personas es 1,70 m e insiste en aumentar la cantidad de alumnos para que el promedio sea 1,80 m, afirmando que de esta manera se logrará igualar la cantidad de personas en las dos piscinas. ¿Por qué es errónea la afirmación del director?",
+      "opciones": [
+        "Porque las 16 personas se encuentran actualmente en la piscina menos profunda. El director de la escuela debe aceptar otros 16 alumnos con una estatura superior a 1,80 m.",
+        "Porque con el promedio es imposible determinar la cantidad de personas en las piscinas. Es necesario utilizar otras medidas, como la estatura máxima o mínima de las personas, en lugar de esta.",
+        "Porque incrementar el promedio a 1,80 m es insuficiente. El director de la escuela debe aceptar más estudiantes con una altura de 1,80 m hasta que la cantidad de alumnos sea igual en ambas piscinas.",
+        "Porque aunque el promedio de estatura de las 16 personas sea inferior a 1,80 m, no significa que la cantidad de personas en las piscinas sea diferente."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Una escuela de natación cuenta con un total de 16 estudiantes. Para las clases se usan 2 piscinas con distinta profundidad. Por seguridad, las personas con una estatura inferior a 1,80 m se envían a…»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Porque las 16 personas se encuentran actualmente en la piscina menos profunda. El director de la escuela debe aceptar otros 16 alumnos con u… — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Porque con el promedio es imposible determinar la cantidad de personas en las piscinas. Es necesario utilizar otras medidas, como la estatur… — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Porque incrementar el promedio a 1,80 m es insuficiente. El director de la escuela debe aceptar más estudiantes con una altura de 1,80 m has… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Porque aunque el promedio de estatura de las 16 personas sea inferior a 1,80 m, no significa que la cantidad de personas en las piscinas sea diferente. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "89a63f2d-075d-5faf-beb4-d70aad39d407",
+      "numero": 17,
+      "tema": null,
+      "dificultad": "medium",
+      "enunciado": "La longitud de las aristas de la caja de la figura son l, a y h.\n¿Cuál de las siguientes expresiones determina la longitud total de las aristas de la caja?",
+      "opciones": [
+        "lah",
+        "4lah",
+        "l + a + h",
+        "4l + 4a + 4h Figura l a h"
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («La longitud de las aristas de la caja de la figura son l, a y h.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). lah — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). 4lah — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). l + a + h — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). 4l + 4a + 4h Figura l a h — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "5ce72e16-f33d-5b91-8e97-0f2f3025e425",
+      "numero": 18,
+      "tema": "Geometría",
+      "dificultad": "medium",
+      "enunciado": "Un barco navega entre dos faros, ubicados en la parte inferior de la figura.\nEn el instante en que el ángulo formado entre el barco, el faro superior y cualquiera de los otros faros es de 45°, ¿cuál es la distancia x entre el faro superior y el barco?",
+      "opciones": [
+        "x =",
+        "x =",
+        "x =",
+        "x ="
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Un barco navega entre dos faros, ubicados en la parte inferior de la figura.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). x = — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). x = — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). x = — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). x = — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "9563f9e0-83b2-57d3-82db-6132cf1bc17a",
+      "numero": 19,
+      "tema": null,
+      "dificultad": "medium",
+      "enunciado": "En una feria robótica, el robot P y el robot Q disputan un juego de tenis de mesa. En el momento que el marcador se encuentra 7 a 2 a favor del robot P, estos se reprograman de tal forma que por cada 2 puntos que anota el robot P, el robot Q anota 3. ¿Cuál de las siguientes ecuaciones permite determinar cuándo igualará en puntos el robot Q al robot P?",
+      "opciones": [
+        "x = 0. Donde x es la cantidad de puntos que anotará P.",
+        "7 + x = x + 2. Donde x es la cantidad de puntos que anotará P.",
+        "7 + 3x = 2 + 2y. Donde x es la cantidad de puntos que anotará P, y y es la cantidad de puntos que anotará Q.",
+        "x + y = 7 + 2. Donde x es la cantidad de puntos que anotará P, y y es la cantidad de puntos que anotará Q. x Faro superior 45º 75º 60º 30º 45º 2 sen(30º) sen(45º) 2 sen(60º) sen(45º) sen(60º) sen(75º) sen(30º) sen(60º)"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En una feria robótica, el robot P y el robot Q disputan un juego de tenis de mesa. En el momento que el marcador se encuentra 7 a 2 a favor del robot P, estos se reprograman de tal forma que por cada…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). x = 0. Donde x es la cantidad de puntos que anotará P. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). 7 + x = x + 2. Donde x es la cantidad de puntos que anotará P. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). 7 + 3x = 2 + 2y. Donde x es la cantidad de puntos que anotará P, y y es la cantidad de puntos que anotará Q. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). x + y = 7 + 2. Donde x es la cantidad de puntos que anotará P, y y es la cantidad de puntos que anotará Q. x Faro superior 45º 75º 60º 30º 4… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "bdcfb5d1-d8cd-589c-9610-67d1fbb09919",
+      "numero": 20,
+      "tema": "Estadística",
+      "dificultad": "medium",
+      "enunciado": "La tabla presenta la información sobre el gasto en publicidad y las ganancias de una empresa durante los años 2020 a 2022.\nAño\nGasto en publicidad*\nGanancia obtenida*\n8.000\n10.400\n9.500\n*Datos en millones de pesos.\n¿Cuál es la función que representa la ganancia obtenida G, en millones de pesos, en función del gasto en publicidad p?",
+      "opciones": [
+        "G(p) = 30p + 2.000",
+        "G(p) = 10p",
+        "G(p) = 40p",
+        "G(p) = 40p − 800"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («La tabla presenta la información sobre el gasto en publicidad y las ganancias de una empresa durante los años 2020 a 2022.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). G(p) = 30p + 2.000 — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). G(p) = 10p — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). G(p) = 40p — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). G(p) = 40p − 800 — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "2e491ccd-42f9-5e8f-bebb-cdda2ff9c4b8",
+      "numero": 21,
+      "tema": "Geometría",
+      "dificultad": "medium",
+      "enunciado": "En una tienda se venden mesas a $ 40.000 y sillas a $ 20.000. El dueño de la tienda olvidó registrar la cantidad total de mesas y sillas que se vendieron, pero sabe que los ingresos por ventas del mes fueron de $ 1.400.000 y que se vendieron 3 veces más sillas que mesas. Para determinar la cantidad vendida de cada artículo, siendo M la cantidad de mesas y S la de sillas vendidas, representó la información con las siguientes ecuaciones:\nEcuación 1. 40.000M + 20.000S = 1.400.000\nEcuación 2. M = 3S\n¿Las ecuaciones representan correctamente la situación?",
+      "opciones": [
+        "No, porque aunque la ecuación 1 relaciona cada precio con la variable adecuada de forma correcta, la ecuación 2 significa que se venden 3 veces más mesas que sillas.",
+        "Sí, porque la ecuación 1 relaciona cada precio con la variable adecuada y la ecuación 2 tiene en cuenta que la cantidad de sillas es 3 veces mayor que la de mesas.",
+        "No, porque aunque la ecuación 2 tiene en cuenta que la cantidad de sillas es 3 veces mayor que la de mesas, en la ecuación 1 los precios deberían estar dividiendo y no multiplicando.",
+        "Sí, porque al solucionar las dos ecuaciones se obtiene un número entero, lo cual es consistente con las condiciones iniciales del problema."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En una tienda se venden mesas a $ 40.000 y sillas a $ 20.000. El dueño de la tienda olvidó registrar la cantidad total de mesas y sillas que se vendieron, pero sabe que los ingresos por ventas del me…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). No, porque aunque la ecuación 1 relaciona cada precio con la variable adecuada de forma correcta, la ecuación 2 significa que se venden 3 veces más mesas que sillas. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Sí, porque la ecuación 1 relaciona cada precio con la variable adecuada y la ecuación 2 tiene en cuenta que la cantidad de sillas es 3 veces… — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). No, porque aunque la ecuación 2 tiene en cuenta que la cantidad de sillas es 3 veces mayor que la de mesas, en la ecuación 1 los precios deb… — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). Sí, porque al solucionar las dos ecuaciones se obtiene un número entero, lo cual es consistente con las condiciones iniciales del problema. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "07fc97bc-fa9f-5093-8192-f6e361fa1633",
+      "numero": 22,
+      "tema": "Geometría",
+      "dificultad": "medium",
+      "enunciado": "La línea punteada en la figura muestra un corte realizado a un triángulo. El corte es paralelo a la base y corta por la mitad a la altura, h, que es perpendicular a la base.\nPara realizar el corte, se determinó la altura del triángulo usando la fórmula sen(45°) = ; luego se dividió h entre dos. Realizando este procedimiento, y teniendo en cuenta que sen(45°) = ≈ 0,71, ¿cuál fue, aproximadamente, la distancia a la que se cortó la altura del triángulo?",
+      "opciones": [
+        "85 cm.",
+        "60 cm.",
+        "42 cm.",
+        "30 cm."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («La línea punteada en la figura muestra un corte realizado a un triángulo. El corte es paralelo a la base y corta por la mitad a la altura, h, que es perpendicular a la base.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). 85 cm. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). 60 cm. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). 42 cm. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). 30 cm. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "812376fc-9ae3-5c99-917d-b13639e7cd38",
+      "numero": 23,
+      "tema": "Geometría",
+      "dificultad": "medium",
+      "enunciado": "Un cartabón es una plantilla que se utiliza en dibujo técnico y que tiene forma de triángulo rectángulo escaleno, de modo que su hipotenusa mide el doble del cateto de menor longitud.\nSi el cateto más largo de un cartabón mide 32 centímetros, como muestra la figura, ¿cuál de las siguientes medidas corresponde a su cateto menor?",
+      "opciones": [
+        "16 cm.",
+        "cm.",
+        "27 cm.",
+        "cm. h √2 √3 √3"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Un cartabón es una plantilla que se utiliza en dibujo técnico y que tiene forma de triángulo rectángulo escaleno, de modo que su hipotenusa mide el doble del cateto de menor longitud.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). 16 cm. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). cm. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). 27 cm. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). cm. h √2 √3 √3 — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "9f9b5152-d9b2-543e-aea5-c51decfe6804",
+      "numero": 24,
+      "tema": "Probabilidad",
+      "dificultad": "medium",
+      "enunciado": "Una profesora de Matemáticas le entrega a sus estudiantes un cuadrado cuya área es 1 dm2. En el cuadrado se encuentra la construcción de la Figura 1.\nP, Q, R y S son los puntos medios de cada lado.\nLa profesora le pide a sus estudiantes que calculen el área del paralelogramo sombreado, para lo cual Eloísa razona de la siguiente manera: “Si se mueven los triángulos de las esquinas es posible obtener una figura con cuatro paralelogramos congruentes al sombreado”. En la Figura 2 se muestra la construcción hecha por Eloísa.\nEloísa concluye: “Como el área de esta figura es igual al área del cuadrado inicial, cada paralelogramo tiene un área de dm2”.\nAl ver la solución de Eloísa, la profesora le dice: “Excelente idea; usa una estrategia similar para hallar fácilmente el área del cuadrado sombreado en la Figura 3. Recuerda que el cuadrado grande tiene 1 dm2 de área”.\n¿Cuál es el área del cuadrado sombreado en la Figura 3?\nFigura 1\nQ\nS\nR\nP\nFigura 2\nS\nR\nP\nQ\nFigura 3\nS\nR\nP\nQ",
+      "opciones": [
+        "",
+        "",
+        "",
+        "dm2 dm2 dm2 dm2"
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Una profesora de Matemáticas le entrega a sus estudiantes un cuadrado cuya área es 1 dm2. En el cuadrado se encuentra la construcción de la Figura 1.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C).  — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). dm2 dm2 dm2 dm2 — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "7d5922f3-956f-5c67-aeb7-a6bb0f1b1271",
+      "numero": 25,
+      "tema": "Álgebra",
+      "dificultad": "medium",
+      "enunciado": "El sistema de comunicaciones de un hotel utiliza los dígitos 2, 3, 4 y 5 para asignar un número de extensión telefónica de 4 dígitos diferentes a cada habitación. ¿Cuántas habitaciones del hotel pueden tener extensión telefónica?",
+      "opciones": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («El sistema de comunicaciones de un hotel utiliza los dígitos 2, 3, 4 y 5 para asignar un número de extensión telefónica de 4 dígitos diferentes a cada habitación. ¿Cuántas habitaciones del hotel pued…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D).  — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "e888ad02-575b-5bf7-90ae-bb81a1005dac",
+      "numero": 26,
+      "tema": null,
+      "dificultad": "medium",
+      "enunciado": "A continuación, se muestran los resultados de una encuesta que indagó sobre el parque automotor del transporte intermunicipal en Colombia.\nSegún la información anterior, ¿cuál de las siguientes afirmaciones es verdadera?",
+      "opciones": [
+        "La mayor parte del parque automotor son automóviles, camionetas y camperos.",
+        "La mitad del parque automotor corresponde a automóviles, camionetas y camperos.",
+        "La mayor parte del parque automotor son buses, microbuses y busetas.",
+        "La mitad del parque automotor corresponde a buses, microbuses y busetas."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («A continuación, se muestran los resultados de una encuesta que indagó sobre el parque automotor del transporte intermunicipal en Colombia.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). La mayor parte del parque automotor son automóviles, camionetas y camperos. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). La mitad del parque automotor corresponde a automóviles, camionetas y camperos. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). La mayor parte del parque automotor son buses, microbuses y busetas. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). La mitad del parque automotor corresponde a buses, microbuses y busetas. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "facc9475-2c40-5bf0-8cd0-9f132c19dc28",
+      "numero": 27,
+      "tema": "Probabilidad",
+      "dificultad": "medium",
+      "enunciado": "Una prueba atlética tiene un récord mundial de 10,49 segundos y un récord olímpico de 10,50 segundos. ¿Es posible que un atleta registre un tiempo, en el mismo tipo de prueba, que rompa el récord olímpico pero no el mundial?",
+      "opciones": [
+        "Sí, porque puede registrar, por ejemplo, un tiempo de 10,497 segundos, que está entre los dos tiempos récord.",
+        "Sí, porque puede registrar un tiempo menor que 10,4 y marcaría un nuevo récord.",
+        "No, porque no existe un registro posible entre los dos tiempos récord.",
+        "No, porque cualquier registro menor que el récord olímpico va a ser menor que el récord mundial."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Una prueba atlética tiene un récord mundial de 10,49 segundos y un récord olímpico de 10,50 segundos. ¿Es posible que un atleta registre un tiempo, en el mismo tipo de prueba, que rompa el récord olí…»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). Sí, porque puede registrar, por ejemplo, un tiempo de 10,497 segundos, que está entre los dos tiempos récord. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Sí, porque puede registrar un tiempo menor que 10,4 y marcaría un nuevo récord. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). No, porque no existe un registro posible entre los dos tiempos récord. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). No, porque cualquier registro menor que el récord olímpico va a ser menor que el récord mundial. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "fbf93137-2e60-5134-a98e-1a3d049e92e1",
+      "numero": 28,
+      "tema": "Razones y proporciones",
+      "dificultad": "medium",
+      "enunciado": "En una institución educativa hay dos cursos en grado undécimo. El número de hombres y mujeres de cada curso se relaciona en la tabla:\nCurso 11A\nCurso 11B\nTotal\nNúmero de mujeres\nNúmero de hombres\nTotal\nLa probabilidad de escoger un estudiante de grado undécimo, de esta institución, que sea mujer es de . Si se sabe que uno de los valores de esta razón es el número total de mujeres, ¿Cuál es el otro valor?",
+      "opciones": [
+        "El número total de estudiantes de grado undécimo.",
+        "El número total de hombres de grado undécimo.",
+        "El número total de mujeres del curso 11 B.",
+        "El número total de hombres del curso 11 A."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En una institución educativa hay dos cursos en grado undécimo. El número de hombres y mujeres de cada curso se relaciona en la tabla:»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). El número total de estudiantes de grado undécimo. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). El número total de hombres de grado undécimo. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). El número total de mujeres del curso 11 B. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). El número total de hombres del curso 11 A. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "a526b5d0-29b9-532f-8ea5-15fbcf00669d",
+      "numero": 30,
+      "tema": "Estadística",
+      "dificultad": "medium",
+      "enunciado": "En la tabla se presentan las cartas que conforman una baraja de póquer.\nSi la probabilidad de escoger una carta que cumpla dos características determinadas es cero,\n¿cuáles características podrían ser?",
+      "opciones": [
+        "Ser una carta negra y ser un número par.",
+        "Ser una carta roja y ser de picas.",
+        "Ser una carta de corazones y ser un número impar.",
+        "Ser una carta roja K y ser de diamantes."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En la tabla se presentan las cartas que conforman una baraja de póquer.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Ser una carta negra y ser un número par. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Ser una carta roja y ser de picas. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Ser una carta de corazones y ser un número impar. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Ser una carta roja K y ser de diamantes. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "92055ae6-2587-5b87-8073-b9d0c800d6f8",
+      "numero": 29,
+      "tema": "Geometría",
+      "dificultad": "medium",
+      "enunciado": "Para fijar un aviso publicitario se coloca sobre un muro una escalera a 12 metros del suelo como se muestra en las siguientes figuras. Observa.\n¿Cuál es el coseno del ángulo θ que forman el suelo y la escalera?",
+      "opciones": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Para fijar un aviso publicitario se coloca sobre un muro una escalera a 12 metros del suelo como se muestra en las siguientes figuras. Observa.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C).  — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D).  — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "9435a382-7746-5aea-9451-f293b3cd1d70",
+      "numero": 31,
+      "tema": "Álgebra",
+      "dificultad": "medium",
+      "enunciado": "Un profesor de Matemáticas les pide a sus estudiantes solucionar la siguiente ecuación:\n(x + 2)(x + 3) = 5(x + 3).\nMaría, Nelson y Óscar realizan, cada uno, los siguientes procedimientos:\nMaría x2 + 5x + 6 = 5x + 15 x2 + 6 = 15 x2 = 15 − 6 x2 = 9 x = ±3\nNelson\n(x + 2)(x + 3) − 5(x + 3) = 0\n(x + 3)[(x + 2) − 5] = 0\n(x + 3)(x − 3) = 0 x2 − 9 = 0 x2 = 9 x = ±3\nÓscar x + 2 + x + 3 = 5 + x + 3\n2x + 5 = x + 8\n2x − x = 8 − 5 x = 3\n¿Cuál(es) estudiante(s) desarrolló(aron) un procedimiento correcto para solucionar la ecuación?",
+      "opciones": [
+        "Solo Nelson y Óscar.",
+        "Solo María y Nelson.",
+        "Solamente Óscar.",
+        "Solamente María."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Un profesor de Matemáticas les pide a sus estudiantes solucionar la siguiente ecuación:»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Solo Nelson y Óscar. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Solo María y Nelson. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Solamente Óscar. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Solamente María. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "47d4eaf3-3a30-52ca-b049-298bd14c3370",
+      "numero": 32,
+      "tema": "Geometría",
+      "dificultad": "medium",
+      "enunciado": "Un trapecio isósceles es un trapecio cuyos lados no paralelos son congruentes.\nEn un plano cartesiano se dibuja un trapecio isósceles de modo que el eje y divide al trapecio en dos figuras iguales.\nSi las coordenadas de dos de los vértices del trapecio son (−4, 2) y (−2, 8), ¿cuáles son las coordenadas de los otros dos vértices?",
+      "opciones": [
+        "(8, 2) y (2, 4).",
+        "(2, 8) y (4, 2).",
+        "(−2, –4) y (−8, −2).",
+        "(−4, −2) y (−2, −8)."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Un trapecio isósceles es un trapecio cuyos lados no paralelos son congruentes.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). (8, 2) y (2, 4). — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). (2, 8) y (4, 2). — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). (−2, –4) y (−8, −2). — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). (−4, −2) y (−2, −8). — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "88f690c4-360e-5a85-80e5-adc3ddd5b20f",
+      "numero": 33,
+      "tema": "Porcentaje",
+      "dificultad": "medium",
+      "enunciado": "En una fábrica se aplica una encuesta a los empleados para saber el medio de transporte que usan para llegar al trabajo, y luego decidir si se implementa un servicio de ruta. Los resultados mostraron, entre otras, estas tres conclusiones sobre un grupo de 100 empleados que viven cerca de la fábrica y que se desplazan únicamente en bus o a pie:\n»\nEl 60 % del grupo son mujeres.\n»\nEl 20 % de las mujeres se desplazan en bus.\n»\nEl 40 % de los hombres se desplazan caminando.\n¿Cuál de las siguientes tablas representa correctamente la información obtenida de ese grupo?",
+      "opciones": [
+        "",
+        "",
+        "",
+        "."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En una fábrica se aplica una encuesta a los empleados para saber el medio de transporte que usan para llegar al trabajo, y luego decidir si se implementa un servicio de ruta. Los resultados mostraron…»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C).  — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). . — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "de2678f8-1cc8-5657-8b33-1fb60164a038",
+      "numero": 34,
+      "tema": "Probabilidad",
+      "dificultad": "medium",
+      "enunciado": "Una regla usada en física indica que, para aumentar el nivel de intensidad del sonido en 10 dB\n(dB es decibelios, la unidad de medida del nivel de intensidad del sonido), es necesario que la intensidad medida se multiplique por 10. Ramiro es el encargado de aumentar en 20 dB la medida del nivel de intensidad del sistema de sonido de un evento y, según su interpretación de la regla, multiplica por 20 la intensidad actual del sistema. ¿Es correcta su interpretación?",
+      "opciones": [
+        "No, porque la regla no considera aumentos de 20 dB, solamente de 10 dB; no hay consideraciones para aumentos mayores.",
+        "Sí, porque la regla presentada indica que para aumentar en x unidades el nivel de la medida de intensidad se agrega x a la intensidad.",
+        "No, porque aumentar 20 dB equivale a aumentar 10 dB dos veces, es decir, multiplicar por 10 la intensidad dos veces; en total, multiplicar por 100.",
+        "Sí, porque el resultado de multiplicar dos veces por 10 la intensidad es multiplicarla por 20; así, se ahorra un paso y obtiene el resultado correcto."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Una regla usada en física indica que, para aumentar el nivel de intensidad del sonido en 10 dB»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). No, porque la regla no considera aumentos de 20 dB, solamente de 10 dB; no hay consideraciones para aumentos mayores. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Sí, porque la regla presentada indica que para aumentar en x unidades el nivel de la medida de intensidad se agrega x a la intensidad. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). No, porque aumentar 20 dB equivale a aumentar 10 dB dos veces, es decir, multiplicar por 10 la intensidad dos veces; en total, multiplicar por 100. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Sí, porque el resultado de multiplicar dos veces por 10 la intensidad es multiplicarla por 20; así, se ahorra un paso y obtiene el resultado… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "69c038c3-c36e-564c-8c4d-7dcb85a45bdc",
+      "numero": 35,
+      "tema": "Porcentaje",
+      "dificultad": "medium",
+      "enunciado": "En una librería se ofrece un descuento del 10 % sobre el precio original de todos los libros impresos.\nJuan tiene un cupón de descuento adicional del 10 % sobre el precio de venta, el cual incluye el descuento inicial. Para saber cuánto debe pagar por un libro cuyo precio original es de $ 50, Juan efectúa el siguiente procedimiento:\nPaso 1. Multiplica el precio original del libro por 9.\nPaso 2. Divide el resultado del paso 1 entre 10.\nPaso 3. Multiplica el resultado del paso 2 por 10.\nPaso 4. Divide el resultado del paso 3 entre 100.\n¿En cuál paso del procedimiento hay un error?",
+      "opciones": [
+        "En el paso 1, porque el precio de venta es el 90 % del precio original, por tanto, debe multiplicarse por 90 y no por 9.",
+        "En el paso 3, porque el precio final es el 90 % del precio de venta, por tanto, debe multiplicarse por 90 y no por 10.",
+        "En el paso 2, porque para calcular el precio al aplicar un porcentaje de descuento es necesario dividir entre 100 y no entre 10.",
+        "En el paso 4, porque solo es necesario dividir una vez para calcular el precio final; es suficiente con la división del paso 2."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En una librería se ofrece un descuento del 10 % sobre el precio original de todos los libros impresos.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). En el paso 1, porque el precio de venta es el 90 % del precio original, por tanto, debe multiplicarse por 90 y no por 9. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). En el paso 3, porque el precio final es el 90 % del precio de venta, por tanto, debe multiplicarse por 90 y no por 10. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). En el paso 2, porque para calcular el precio al aplicar un porcentaje de descuento es necesario dividir entre 100 y no entre 10. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). En el paso 4, porque solo es necesario dividir una vez para calcular el precio final; es suficiente con la división del paso 2. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "ec740949-0eb7-505a-820a-a78a9ab64472",
+      "numero": 36,
+      "tema": "Probabilidad",
+      "dificultad": "medium",
+      "enunciado": "En una bolsa hay 3 bolas rojas, 3 negras y 12 blancas. Una persona afirma que al sacar una bola al azar, los tres colores tienen la misma probabilidad de salir. ¿Es verdadera esta afirmación?",
+      "opciones": [
+        "Sí, pues el número de bolas de cada color no importa.",
+        "No, pues no se sabe el número total de bolas en la bolsa.",
+        "No, pues hay más bolas de un color que de los otros dos.",
+        "Sí, pues las bolas están repartidas de igual manera."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En una bolsa hay 3 bolas rojas, 3 negras y 12 blancas. Una persona afirma que al sacar una bola al azar, los tres colores tienen la misma probabilidad de salir. ¿Es verdadera esta afirmación?»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Sí, pues el número de bolas de cada color no importa. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). No, pues no se sabe el número total de bolas en la bolsa. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). No, pues hay más bolas de un color que de los otros dos. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). Sí, pues las bolas están repartidas de igual manera. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "f6a92b44-fe21-5e72-a43e-b79e908e207b",
+      "numero": 37,
+      "tema": null,
+      "dificultad": "medium",
+      "enunciado": "Sobre una circunferencia de centro O se localizan dos puntos P y P’ diferentes.\nDe las siguientes, ¿cuál figura NO puede resultar al unir entre sí los tres puntos P, P’ y O?",
+      "opciones": [
+        "Un triángulo isósceles.",
+        "Un radio de la circunferencia.",
+        "Un triángulo equilátero.",
+        "Un diámetro de la circunferencia."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Sobre una circunferencia de centro O se localizan dos puntos P y P’ diferentes.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Un triángulo isósceles. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Un radio de la circunferencia. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Un triángulo equilátero. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Un diámetro de la circunferencia. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "c832a194-1b2a-5680-bc5c-1e3f68a12add",
+      "numero": 38,
+      "tema": "Estadística",
+      "dificultad": "hard",
+      "enunciado": "Carolina administra una pizzería y, registró en una tabla la información correspondiente a los pedidos realizados por los 110 clientes que entraron a la pizzería el domingo.\nClientes que eligieron bebida caliente\nClientes que eligieron bebida fría\nClientes que eligieron pizza\nClientes que eligieron bebida caliente y bebida fría\nCon la información de la tabla, ¿cuáles de los siguientes datos se pueden calcular?",
+      "opciones": [
+        "El total de clientes que eligieron pizza y también bebida caliente.",
+        "El total de clientes que eligieron pizza o bebida caliente.",
+        "El total de clientes que solo eligieron pizza.",
+        "El total de clientes que solo eligieron bebida fría."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Carolina administra una pizzería y, registró en una tabla la información correspondiente a los pedidos realizados por los 110 clientes que entraron a la pizzería el domingo.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). El total de clientes que eligieron pizza y también bebida caliente. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). El total de clientes que eligieron pizza o bebida caliente. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). El total de clientes que solo eligieron pizza. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). El total de clientes que solo eligieron bebida fría. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "cddd08f2-6283-5fa2-ae83-0bab46841956",
+      "numero": 39,
+      "tema": "Probabilidad",
+      "dificultad": "hard",
+      "enunciado": "Un sistema de información requiere que los usuarios ingresen una contraseña de solo tres caracteres de entre las 26 letras posibles, en minúscula o mayúscula y los 10 dígitos del 0 al 9. Un ingeniero propone las siguientes posibles restricciones para la contraseña:\nRestricción R1: utilizar tres dígitos cualesquiera.\nRestricción R2: utilizar tres dígitos distintos.\nRestricción R3: utilizar una letra mayúscula, luego una minúscula y al final un dígito.\nRestricción R4: utilizar una letra cualquiera, mayúscula o minúscula, y luego dos dígitos.\nSi se calcula el número de posibles contraseñas de acuerdo con cada una de las restricciones, ¿cuál es el orden de las restricciones, de menor a mayor, según el número de posibles contraseñas?",
+      "opciones": [
+        "R1, R2, R4 y R3.",
+        "R1, R2, R3 y R4.",
+        "R2, R1, R4 y R3.",
+        "R2, R3, R1 y R4."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Un sistema de información requiere que los usuarios ingresen una contraseña de solo tres caracteres de entre las 26 letras posibles, en minúscula o mayúscula y los 10 dígitos del 0 al 9. Un ingeniero…»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). R1, R2, R4 y R3. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). R1, R2, R3 y R4. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). R2, R1, R4 y R3. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). R2, R3, R1 y R4. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "db74a115-1813-5a16-9d81-391893839430",
+      "numero": 40,
+      "tema": "Aritmética",
+      "dificultad": "hard",
+      "enunciado": "Se puede encontrar números racionales mayores que un número entero k, de manera que sean cada vez más cercanos a él, calculando k + (con j entero positivo). Cuanto más grande sea j, más cercano a k será el racional construido. ¿Cuántos números racionales se pueden construir cercanos a k y menores que k + ?",
+      "opciones": [
+        "10, que es la cantidad de racionales menores que 11.",
+        "Una cantidad infinita, pues existen infinitos números enteros mayores que 11.",
+        "11, que es el número que equivale en este caso a j.",
+        "Uno, pues el racional más cercano a k se halla con j = 10, es decir, con k + 0,1. j"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Se puede encontrar números racionales mayores que un número entero k, de manera que sean cada vez más cercanos a él, calculando k + (con j entero positivo). Cuanto más grande sea j, más cercano a k s…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). 10, que es la cantidad de racionales menores que 11. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Una cantidad infinita, pues existen infinitos números enteros mayores que 11. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). 11, que es el número que equivale en este caso a j. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Uno, pues el racional más cercano a k se halla con j = 10, es decir, con k + 0,1. j — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "6111c61e-dcdb-5edc-946d-69ee53bcd349",
+      "numero": 41,
+      "tema": "Probabilidad",
+      "dificultad": "hard",
+      "enunciado": "Un terreno con forma triangular se debe encerrar, cumpliendo con los siguientes requerimientos:\nRequerimiento 1. Uno de sus ángulos interiores debe ser de 90°.\nRequerimiento 2. Dos lados deben medir 7 metros y el otro debe medir 18 metros.\nRequerimiento 3. Uno de sus ángulos interiores debe ser menor que 45°.\nRequerimiento 4. La suma de sus ángulos interiores debe ser de 180°.\n¿Cuál de los requerimientos es imposible de cumplir?",
+      "opciones": [
+        "Requerimiento 1.",
+        "Requerimiento 2.",
+        "Requerimiento 3.",
+        "Requerimiento 4."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Un terreno con forma triangular se debe encerrar, cumpliendo con los siguientes requerimientos:»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Requerimiento 1. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Requerimiento 2. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Requerimiento 3. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Requerimiento 4. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "b09a4953-ea15-5ce9-9e77-64da847388e6",
+      "numero": 42,
+      "tema": "Geometría",
+      "dificultad": "hard",
+      "enunciado": "En la figura se representa una cancha de fútbol con las medidas de sus lados.\nUn arquitecto realiza una maqueta del diseño de la cancha, con medida de los lados cien veces menor que las medidas originales. ¿Cuál de los siguientes diseños representa correctamente las medidas de la maqueta?\nFigura\n60 metros\n100 metros\n6 x 10-2 metros\n1 x 10-2 metros\n6 x 10-2 centímetros\n1 x 10-2 centímetros\n6 x 101 metros\n1 x 102 metros\n6 x 101 centímetros\n1 x 102 centímetros",
+      "opciones": [
+        "B.",
+        "D."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En la figura se representa una cancha de fútbol con las medidas de sus lados.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). B. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). D. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D)."
+      ]
+    },
+    {
+      "id": "aecff92b-2473-52cf-86ec-d08930e3a145",
+      "numero": 43,
+      "tema": "Geometría",
+      "dificultad": "hard",
+      "enunciado": "El área de los rectángulos que se pueden construir a partir del origen, los ejes y un punto que pertenece a la gráfica de la función f(x) = , donde x > 0, se describe con la expresión Ax = xf(x).\n¿Cuál de las siguientes gráficas corresponde a Ax?\nx\n10 11 12 13 f x y\n-2\n-2 x y\n2 4 6 8 10 12 14 16\n-1\n-1 x y\n1 2 3 4 5 6 7 8 9\n-2\n-2 x y\n2 4 6 8 10 12 14 16 18\n-1\n-1 x y\n1 2 3 4 5 6 7",
+      "opciones": [
+        "B.",
+        "D."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («El área de los rectángulos que se pueden construir a partir del origen, los ejes y un punto que pertenece a la gráfica de la función f(x) = , donde x > 0, se describe con la expresión Ax = xf(x).»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). B. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). D. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "f2493edd-296f-5446-b4ca-2b8906759990",
+      "numero": 44,
+      "tema": "Geometría",
+      "dificultad": "hard",
+      "enunciado": "En un parque hay una rueda giratoria de 3 m de radio. La rueda está diseñada para 10 personas, cada una en un sector circular de igual área, como muestra la figura.\nPara determinar el área que le corresponde a cada persona, se divide 2π entre 10 lo que determina el ángulo θ de cada sector y se usa la fórmula del área de un sector circular S:\nS = r2 donde r es el radio de la circunferencia.\nUtilizando una aproximación de π = 3, ¿cuál es el área aproximada que le corresponde a cada persona?",
+      "opciones": [
+        "3,6 m2",
+        "2,7 m2",
+        "9,0 m2",
+        "1,8 m2"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En un parque hay una rueda giratoria de 3 m de radio. La rueda está diseñada para 10 personas, cada una en un sector circular de igual área, como muestra la figura.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). 3,6 m2 — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). 2,7 m2 — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). 9,0 m2 — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). 1,8 m2 — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "7fad5cc1-5352-5bad-8306-6d2235c3a870",
+      "numero": 45,
+      "tema": null,
+      "dificultad": "hard",
+      "enunciado": "Un colegio necesita enviar 5 estudiantes como representantes a un foro sobre la contaminación del medio ambiente. Se decidió que 2 estudiantes sean de grado décimo y 3 de grado undécimo. En décimo hay 5 estudiantes preparados para el foro y en undécimo hay 4. ¿Cuántos grupos diferentes pueden formarse para enviar al foro?",
+      "opciones": [
+        "",
+        "",
+        "",
+        "θ"
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Un colegio necesita enviar 5 estudiantes como representantes a un foro sobre la contaminación del medio ambiente. Se decidió que 2 estudiantes sean de grado décimo y 3 de grado undécimo. En décimo ha…»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A).  — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B).  — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C).  — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). θ — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "34f8ee8e-619b-5411-a8b9-0532b57affe0",
+      "numero": 46,
+      "tema": "Probabilidad",
+      "dificultad": "hard",
+      "enunciado": "En una feria, un niño recibe como premio una consola de videojuegos si gana en cada uno de los siguientes juegos:\nJuego 1. Gana si al lanzar un dado obtiene un número par (la probabilidad de ganar es de ).\nJuego 2. Gana si logra sacar la única pelota amarilla que hay en una bolsa que contiene 6 pelotas en total (la probabilidad de ganar es de ).\nPara hallar la probabilidad de ganar la consola de videojuegos se proponen los siguientes procedimientos:\nProcedimiento 1. Sumar las probabilidades de ganar en los dos juegos.\nProcedimiento 2. Multiplicar las probabilidades de ganar en los dos juegos.\nProcedimiento 3. Restarle a 1 la probabilidad de perder en al menos uno de los dos juegos.\nProcedimiento 4. Restarle a 1 la probabilidad de perder exactamente en un juego.\n¿Cuáles de los anteriores procedimientos permiten hallar la probabilidad de ganar la consola de videojuegos?",
+      "opciones": [
+        "1 y 3.",
+        "1 y 4.",
+        "2 y 3.",
+        "2 y 4."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En una feria, un niño recibe como premio una consola de videojuegos si gana en cada uno de los siguientes juegos:»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). 1 y 3. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). 1 y 4. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). 2 y 3. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). 2 y 4. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "c3ab1f80-71eb-5a54-9e68-a3786b1b1cb4",
+      "numero": 47,
+      "tema": "Álgebra",
+      "dificultad": "hard",
+      "enunciado": "La expresión 103 = relaciona la sonoridad de un sonido de 30 decibeles con su intensidad (I) y la menor intensidad (IO) que percibe el oído humano. ¿Cuántas veces es el valor de I respecto a IO?",
+      "opciones": [
+        "Una milésima.",
+        "Un tercio.",
+        "Tres veces.",
+        "Mil veces. I IO"
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («La expresión 103 = relaciona la sonoridad de un sonido de 30 decibeles con su intensidad (I) y la menor intensidad (IO) que percibe el oído humano. ¿Cuántas veces es el valor de I respecto a IO?»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Una milésima. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). Un tercio. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). Tres veces. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). Mil veces. I IO — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "be8c8c02-7052-59f4-abc7-aa2ffc619efe",
+      "numero": 48,
+      "tema": "Aritmética",
+      "dificultad": "hard",
+      "enunciado": "Entre los 16 estudiantes de un salón de clases se va a rifar una boleta para ingresar a un parque de diversiones. Cada estudiante debe escoger un número del 3 al 18. El sorteo se efectúa de la siguiente manera: se depositan 6 balotas en una urna, cada una numerada del 1 al 6; se extrae una balota, se mira el número y se vuelve a depositar en la urna. El experimento se repite dos veces más. La suma de los tres puntajes obtenidos determina el número ganador de la rifa. Si en la primera extracción del sorteo se obtuvo 2, ¿por qué es más probable que el estudiante que escogió el número 10 gane la rifa a que la gane el estudiante con el número 7?",
+      "opciones": [
+        "Porque al ser mayor el número escogido, es mayor la probabilidad de ganar.",
+        "Porque el primer estudiante tiene una posibilidad más de ganar que el segundo.",
+        "Porque es más probable seguir obteniendo números pares.",
+        "Porque es mayor la diferencia entre 10 y 18 que entre 2 y 7."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Entre los 16 estudiantes de un salón de clases se va a rifar una boleta para ingresar a un parque de diversiones. Cada estudiante debe escoger un número del 3 al 18. El sorteo se efectúa de la siguie…»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Porque al ser mayor el número escogido, es mayor la probabilidad de ganar. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Porque el primer estudiante tiene una posibilidad más de ganar que el segundo. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). Porque es más probable seguir obteniendo números pares. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). Porque es mayor la diferencia entre 10 y 18 que entre 2 y 7. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "8c693218-9c16-5e3d-a54d-f0bdc4755a27",
+      "numero": 49,
+      "tema": "Porcentaje",
+      "dificultad": "hard",
+      "enunciado": "En determinada zona de una ciudad se construyen edificios de apartamentos en los que cada metro cuadrado tiene un costo de $ 800.000, y se asegura a los compradores que en esta zona anualmente, el metro cuadrado se valoriza un 5 % respecto al costo del año anterior. ¿Con cuál de las siguientes expresiones se representa el costo de un metro cuadrado en esa zona, transcurridos n años?",
+      "opciones": [
+        "800.000 + 5n",
+        "800.000 (5n)",
+        "800.000",
+        "800.000 1 + n n"
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («En determinada zona de una ciudad se construyen edificios de apartamentos en los que cada metro cuadrado tiene un costo de $ 800.000, y se asegura a los compradores que en esta zona anualmente, el me…»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). 800.000 + 5n — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). 800.000 (5n) — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). 800.000 — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). 800.000 1 + n n — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "00d597c9-4091-579e-bdcc-ebce2294f2d9",
+      "numero": 50,
+      "tema": "Geometría",
+      "dificultad": "hard",
+      "enunciado": "Alfonso tiene tres empaques para almacenar dulces. Los empaques y las medidas de estos se muestran en la figura.\n¿Cuál de las siguientes afirmaciones es verdadera respecto al volumen de los tres empaques?",
+      "opciones": [
+        "El volumen del cilindro es mayor que el volumen de la caja; además, el volumen de la esfera es igual que el volumen del cilindro.",
+        "El volumen del cilindro es igual que el volumen de la caja; además, el volumen de la esfera es mayor que el volumen del cilindro.",
+        "El volumen del cilindro es menor que el volumen de la caja; además, el volumen de la esfera es igual que el volumen del cilindro.",
+        "El volumen del cilindro es mayor que el volumen de la caja; además, el volumen de la esfera es mayor que el volumen del cilindro. 1. Un cilindro cuya altura es h = 2, y el radio de la base mide r = . 3. Una esfera con radio r = . 2. Una caja de base cuadrada, cuya altura es h = 2 y el lado de la base mide L = . h h r L L r"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Matemáticas se te pide cerrar el razonamiento a partir del enunciado («Alfonso tiene tres empaques para almacenar dulces. Los empaques y las medidas de estos se muestran en la figura.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). El volumen del cilindro es mayor que el volumen de la caja; además, el volumen de la esfera es igual que el volumen del cilindro. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). El volumen del cilindro es igual que el volumen de la caja; además, el volumen de la esfera es mayor que el volumen del cilindro. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). El volumen del cilindro es menor que el volumen de la caja; además, el volumen de la esfera es igual que el volumen del cilindro. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). El volumen del cilindro es mayor que el volumen de la caja; además, el volumen de la esfera es mayor que el volumen del cilindro. 1. Un cili… — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    }
+  ]
+}

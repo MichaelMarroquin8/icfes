@@ -1,0 +1,1264 @@
+{
+  "format": "cuadernillo_json_v1",
+  "archivoPdf": "16-octubre-cuadernillo-ingles-saber-11-2024.pdf",
+  "moduloNombre": "Inglés",
+  "moduleId": "c7d164c8-935b-5aaa-b58e-7fab6ebba679",
+  "exportedAt": 1778964621507,
+  "totalPreguntas": 49,
+  "preguntas": [
+    {
+      "id": "2043585d-9827-55a8-9531-f9064436df13",
+      "numero": 1,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la\nderecha (A - G) concuerda con cada descripción?\nLa opción H se usa para el ejemplo. Sobran dos palabras más.\nEn las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas.\nClothes and accesories\nEjemplo:\n\n────────────────────\n\nA person can carry things in one of these.",
+      "opciones": [
+        "glasses",
+        "handbags",
+        "hat",
+        "pajamas",
+        "scarf",
+        "skirt",
+        "socks",
+        "watch",
+        "in a school",
+        "in a clothes shop",
+        "in a toy store",
+        "on a rug",
+        "on a test",
+        "on a bookcase",
+        "Sure, go ahead!",
+        "Take a left turn here.",
+        "Think about it.",
+        "I’m not afraid!",
+        "Where are you?",
+        "That’s fine.",
+        "Anything else?",
+        "50 dollars.",
+        "Cash only!"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). glasses — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). handbags — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). hat — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). pajamas — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B).",
+        "No (E). scarf — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (B).",
+        "No (F). skirt — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "No (G). socks — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (H). watch — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B).",
+        "No (I). in a school — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (B).",
+        "No (J). in a clothes shop — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "No (K). in a toy store — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (L). on a rug — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B).",
+        "No (M). on a test — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (B).",
+        "No (N). on a bookcase — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "No (O). Sure, go ahead! — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (P). Take a left turn here. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B).",
+        "No (Q). Think about it. — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (B).",
+        "No (R). I’m not afraid! — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "No (S). Where are you? — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (T). That’s fine. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B).",
+        "No (U). Anything else? — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (B).",
+        "No (V). 50 dollars. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "No (W). Cash only! — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "d11e4b50-1ed2-50ee-8bd1-2dbea9df421b",
+      "numero": 2,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la\nderecha (A - G) concuerda con cada descripción?\nLa opción H se usa para el ejemplo. Sobran dos palabras más.\nEn las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas.\nClothes and accesories\nEjemplo:\n\n────────────────────\n\nYou wear this when you go to bed.",
+      "opciones": [
+        "glasses",
+        "handbags",
+        "hat",
+        "pajamas",
+        "scarf",
+        "skirt",
+        "socks",
+        "watch",
+        "in a school",
+        "in a clothes shop",
+        "in a toy store",
+        "on a rug",
+        "on a test",
+        "on a bookcase",
+        "Sure, go ahead!",
+        "Take a left turn here.",
+        "Think about it.",
+        "I’m not afraid!",
+        "Where are you?",
+        "That’s fine.",
+        "Anything else?",
+        "50 dollars.",
+        "Cash only!"
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). glasses — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). handbags — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). hat — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). pajamas — es coherente con la pregunta y con la evidencia disponible.",
+        "No (E). scarf — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (D).",
+        "No (F). skirt — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (G). socks — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (H). watch — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "No (I). in a school — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (D).",
+        "No (J). in a clothes shop — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (K). in a toy store — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (L). on a rug — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "No (M). on a test — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (D).",
+        "No (N). on a bookcase — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (O). Sure, go ahead! — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (P). Take a left turn here. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "No (Q). Think about it. — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (D).",
+        "No (R). I’m not afraid! — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (S). Where are you? — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (T). That’s fine. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "No (U). Anything else? — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (D).",
+        "No (V). 50 dollars. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (W). Cash only! — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D)."
+      ]
+    },
+    {
+      "id": "02ab2b5e-c1b4-5205-ace7-7d5d782b6553",
+      "numero": 3,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la\nderecha (A - G) concuerda con cada descripción?\nLa opción H se usa para el ejemplo. Sobran dos palabras más.\nEn las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas.\nClothes and accesories\nEjemplo:\n\n────────────────────\n\nYou cover your neck with this.",
+      "opciones": [
+        "glasses",
+        "handbags",
+        "hat",
+        "pajamas",
+        "scarf",
+        "skirt",
+        "socks",
+        "watch",
+        "in a school",
+        "in a clothes shop",
+        "in a toy store",
+        "on a rug",
+        "on a test",
+        "on a bookcase",
+        "Sure, go ahead!",
+        "Take a left turn here.",
+        "Think about it.",
+        "I’m not afraid!",
+        "Where are you?",
+        "That’s fine.",
+        "Anything else?",
+        "50 dollars.",
+        "Cash only!"
+      ],
+      "indiceCorrecto": 4,
+      "respuestaLetra": "E",
+      "explicacionGeneral": "Respuesta correcta: E. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la»). La opción E es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). glasses — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (E).",
+        "No (B). handbags — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (E).",
+        "No (C). hat — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (E).",
+        "No (D). pajamas — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (E).",
+        "Sí (E). scarf — es coherente con la pregunta y con la evidencia disponible.",
+        "No (F). skirt — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (E).",
+        "No (G). socks — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (E).",
+        "No (H). watch — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (E).",
+        "No (I). in a school — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (E).",
+        "No (J). in a clothes shop — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (E).",
+        "No (K). in a toy store — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (E).",
+        "No (L). on a rug — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (E).",
+        "No (M). on a test — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (E).",
+        "No (N). on a bookcase — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (E).",
+        "No (O). Sure, go ahead! — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (E).",
+        "No (P). Take a left turn here. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (E).",
+        "No (Q). Think about it. — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (E).",
+        "No (R). I’m not afraid! — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (E).",
+        "No (S). Where are you? — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (E).",
+        "No (T). That’s fine. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (E).",
+        "No (U). Anything else? — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (E).",
+        "No (V). 50 dollars. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (E).",
+        "No (W). Cash only! — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (E)."
+      ]
+    },
+    {
+      "id": "ee65db56-5c54-5ff5-aa67-10e2d46e643a",
+      "numero": 4,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la\nderecha (A - G) concuerda con cada descripción?\nLa opción H se usa para el ejemplo. Sobran dos palabras más.\nEn las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas.\nClothes and accesories\nEjemplo:\n\n────────────────────\n\nSome people need them to see well.",
+      "opciones": [
+        "glasses",
+        "handbags",
+        "hat",
+        "pajamas",
+        "scarf",
+        "skirt",
+        "socks",
+        "watch",
+        "in a school",
+        "in a clothes shop",
+        "in a toy store",
+        "on a rug",
+        "on a test",
+        "on a bookcase",
+        "Sure, go ahead!",
+        "Take a left turn here.",
+        "Think about it.",
+        "I’m not afraid!",
+        "Where are you?",
+        "That’s fine.",
+        "Anything else?",
+        "50 dollars.",
+        "Cash only!"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). glasses — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). handbags — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). hat — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). pajamas — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A).",
+        "No (E). scarf — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (A).",
+        "No (F). skirt — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (G). socks — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (H). watch — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A).",
+        "No (I). in a school — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (A).",
+        "No (J). in a clothes shop — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (K). in a toy store — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (L). on a rug — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A).",
+        "No (M). on a test — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (A).",
+        "No (N). on a bookcase — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (O). Sure, go ahead! — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (P). Take a left turn here. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A).",
+        "No (Q). Think about it. — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (A).",
+        "No (R). I’m not afraid! — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (S). Where are you? — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (T). That’s fine. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A).",
+        "No (U). Anything else? — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (A).",
+        "No (V). 50 dollars. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (W). Cash only! — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "95354fad-c6be-5495-9d07-8758a5e6a599",
+      "numero": 5,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la\nderecha (A - G) concuerda con cada descripción?\nLa opción H se usa para el ejemplo. Sobran dos palabras más.\nEn las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas.\nClothes and accesories\nEjemplo:\n\n────────────────────\n\nThese are for your feet.",
+      "opciones": [
+        "glasses",
+        "handbags",
+        "hat",
+        "pajamas",
+        "scarf",
+        "skirt",
+        "socks",
+        "watch"
+      ],
+      "indiceCorrecto": 6,
+      "respuestaLetra": "G",
+      "explicacionGeneral": "Respuesta correcta: G. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la»). La opción G es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). glasses — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (G).",
+        "No (B). handbags — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (G).",
+        "No (C). hat — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (G).",
+        "No (D). pajamas — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (G).",
+        "No (E). scarf — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (G).",
+        "No (F). skirt — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (G).",
+        "Sí (G). socks — es coherente con la pregunta y con la evidencia disponible.",
+        "No (H). watch — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (G)."
+      ]
+    },
+    {
+      "id": "fa024878-8e87-54bb-b03d-eb30bdd393a9",
+      "numero": 6,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "¿Dónde puede ver estos avisos?\nEn la pregunta 6, marque A, B o C en su hoja de respuestas.\nEjemplo:\n\n────────────────────\n\nGrandma, shall I hold those bags for you?",
+      "opciones": [
+        "I’m not afraid!",
+        "Where are you?",
+        "That’s fine."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («¿Dónde puede ver estos avisos?»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). I’m not afraid! — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). Where are you? — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). That’s fine. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "f97a18b0-7704-5b43-a8b1-e95c2ad8b213",
+      "numero": 7,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Complete las dos conversaciones.\nEn las preguntas 7 y 8, marque A, B o C en su hoja de respuestas.\nEjemplo:\nCan I use your printer?\nA.\tSure, go ahead!\nB.\tTake a left turn here.\nC.\tThink about it.\nRespuesta:     0.    A      B      C\n\n────────────────────\n\nHow much is that umbrella?",
+      "opciones": [
+        "Anything else?",
+        "50 dollars.",
+        "Cash only!"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Complete las dos conversaciones.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Anything else? — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). 50 dollars. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Cash only! — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "b090dd9c-51fc-5976-be4b-90b909032abd",
+      "numero": 9,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 9 - 16, marque A, B o C en su hoja de respuestas.\nCOFFEE\nCoffee is popular around the world. (0) ________ the past centuries, few\nsubjects have been as carefully studied as coffee. Its (9) ________\nimportant component is caffeine and it has lots of benefits.\nCoffee has been well-known (10) ________ the beginning of the 14th century,\n(11) ________ Sufi Yemenis started using coffee to stay alert during special\nactivities. It became a popular medicine (12) ________ Europeans in the 1600s.\nCaffeine was first (13) ________ in the 1800s by Ferdinand Runge, a doctor that found out some\neffects of coffee on people.\nSome people say (14) ________ coffee isn't good, but doctors say you (15) ________ believe this.\nThanks to caffeine you don't get hungry. Coffee can also reduce headaches and blood problems.\n(16) ________  many people believe coffee is bad, studies show it is good for your heart.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "much",
+        "more",
+        "most"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). much — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). more — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). most — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "5b6e0212-2151-5d37-8916-75ca4d040d73",
+      "numero": 10,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 9 - 16, marque A, B o C en su hoja de respuestas.\nCOFFEE\nCoffee is popular around the world. (0) ________ the past centuries, few\nsubjects have been as carefully studied as coffee. Its (9) ________\nimportant component is caffeine and it has lots of benefits.\nCoffee has been well-known (10) ________ the beginning of the 14th century,\n(11) ________ Sufi Yemenis started using coffee to stay alert during special\nactivities. It became a popular medicine (12) ________ Europeans in the 1600s.\nCaffeine was first (13) ________ in the 1800s by Ferdinand Runge, a doctor that found out some\neffects of coffee on people.\nSome people say (14) ________ coffee isn't good, but doctors say you (15) ________ believe this.\nThanks to caffeine you don't get hungry. Coffee can also reduce headaches and blood problems.\n(16) ________  many people believe coffee is bad, studies show it is good for your heart.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "during",
+        "until",
+        "since"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). during — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). until — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). since — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "8d46da3a-e65e-5ab1-bc62-37f63cd4286f",
+      "numero": 11,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 9 - 16, marque A, B o C en su hoja de respuestas.\nCOFFEE\nCoffee is popular around the world. (0) ________ the past centuries, few\nsubjects have been as carefully studied as coffee. Its (9) ________\nimportant component is caffeine and it has lots of benefits.\nCoffee has been well-known (10) ________ the beginning of the 14th century,\n(11) ________ Sufi Yemenis started using coffee to stay alert during special\nactivities. It became a popular medicine (12) ________ Europeans in the 1600s.\nCaffeine was first (13) ________ in the 1800s by Ferdinand Runge, a doctor that found out some\neffects of coffee on people.\nSome people say (14) ________ coffee isn't good, but doctors say you (15) ________ believe this.\nThanks to caffeine you don't get hungry. Coffee can also reduce headaches and blood problems.\n(16) ________  many people believe coffee is bad, studies show it is good for your heart.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "when",
+        "which",
+        "who"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). when — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). which — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). who — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "35a2d5d2-c91b-5ec9-a549-5b28b08c7076",
+      "numero": 12,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 9 - 16, marque A, B o C en su hoja de respuestas.\nCOFFEE\nCoffee is popular around the world. (0) ________ the past centuries, few\nsubjects have been as carefully studied as coffee. Its (9) ________\nimportant component is caffeine and it has lots of benefits.\nCoffee has been well-known (10) ________ the beginning of the 14th century,\n(11) ________ Sufi Yemenis started using coffee to stay alert during special\nactivities. It became a popular medicine (12) ________ Europeans in the 1600s.\nCaffeine was first (13) ________ in the 1800s by Ferdinand Runge, a doctor that found out some\neffects of coffee on people.\nSome people say (14) ________ coffee isn't good, but doctors say you (15) ________ believe this.\nThanks to caffeine you don't get hungry. Coffee can also reduce headaches and blood problems.\n(16) ________  many people believe coffee is bad, studies show it is good for your heart.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "among",
+        "about",
+        "along"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). among — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). about — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). along — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "78ddc6e4-f930-5bcc-abba-76be782201fd",
+      "numero": 13,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 9 - 16, marque A, B o C en su hoja de respuestas.\nCOFFEE\nCoffee is popular around the world. (0) ________ the past centuries, few\nsubjects have been as carefully studied as coffee. Its (9) ________\nimportant component is caffeine and it has lots of benefits.\nCoffee has been well-known (10) ________ the beginning of the 14th century,\n(11) ________ Sufi Yemenis started using coffee to stay alert during special\nactivities. It became a popular medicine (12) ________ Europeans in the 1600s.\nCaffeine was first (13) ________ in the 1800s by Ferdinand Runge, a doctor that found out some\neffects of coffee on people.\nSome people say (14) ________ coffee isn't good, but doctors say you (15) ________ believe this.\nThanks to caffeine you don't get hungry. Coffee can also reduce headaches and blood problems.\n(16) ________  many people believe coffee is bad, studies show it is good for your heart.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "describe",
+        "described",
+        "describes"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). describe — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). described — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). describes — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "f0c3c4c5-7600-5733-b99f-8ac7a3f9d7fc",
+      "numero": 14,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 9 - 16, marque A, B o C en su hoja de respuestas.\nCOFFEE\nCoffee is popular around the world. (0) ________ the past centuries, few\nsubjects have been as carefully studied as coffee. Its (9) ________\nimportant component is caffeine and it has lots of benefits.\nCoffee has been well-known (10) ________ the beginning of the 14th century,\n(11) ________ Sufi Yemenis started using coffee to stay alert during special\nactivities. It became a popular medicine (12) ________ Europeans in the 1600s.\nCaffeine was first (13) ________ in the 1800s by Ferdinand Runge, a doctor that found out some\neffects of coffee on people.\nSome people say (14) ________ coffee isn't good, but doctors say you (15) ________ believe this.\nThanks to caffeine you don't get hungry. Coffee can also reduce headaches and blood problems.\n(16) ________  many people believe coffee is bad, studies show it is good for your heart.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "drink",
+        "drinking",
+        "drunk"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). drink — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). drinking — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). drunk — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "d24d07ec-a90f-550b-a135-7f8c061177e4",
+      "numero": 15,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 9 - 16, marque A, B o C en su hoja de respuestas.\nCOFFEE\nCoffee is popular around the world. (0) ________ the past centuries, few\nsubjects have been as carefully studied as coffee. Its (9) ________\nimportant component is caffeine and it has lots of benefits.\nCoffee has been well-known (10) ________ the beginning of the 14th century,\n(11) ________ Sufi Yemenis started using coffee to stay alert during special\nactivities. It became a popular medicine (12) ________ Europeans in the 1600s.\nCaffeine was first (13) ________ in the 1800s by Ferdinand Runge, a doctor that found out some\neffects of coffee on people.\nSome people say (14) ________ coffee isn't good, but doctors say you (15) ________ believe this.\nThanks to caffeine you don't get hungry. Coffee can also reduce headaches and blood problems.\n(16) ________  many people believe coffee is bad, studies show it is good for your heart.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "mustn’t",
+        "couldn’t",
+        "wouldn’t"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). mustn’t — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). couldn’t — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). wouldn’t — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "3b1d6912-e80e-5f16-a609-a5bd29ab84b5",
+      "numero": 16,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "easy",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 9 - 16, marque A, B o C en su hoja de respuestas.\nCOFFEE\nCoffee is popular around the world. (0) ________ the past centuries, few\nsubjects have been as carefully studied as coffee. Its (9) ________\nimportant component is caffeine and it has lots of benefits.\nCoffee has been well-known (10) ________ the beginning of the 14th century,\n(11) ________ Sufi Yemenis started using coffee to stay alert during special\nactivities. It became a popular medicine (12) ________ Europeans in the 1600s.\nCaffeine was first (13) ________ in the 1800s by Ferdinand Runge, a doctor that found out some\neffects of coffee on people.\nSome people say (14) ________ coffee isn't good, but doctors say you (15) ________ believe this.\nThanks to caffeine you don't get hungry. Coffee can also reduce headaches and blood problems.\n(16) ________  many people believe coffee is bad, studies show it is good for your heart.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "While",
+        "Except",
+        "Because"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). While — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). Except — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). Because — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "1923fc9b-2272-5902-b0c0-bedd43c7bef4",
+      "numero": 17,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 17 - 23, marque A, B o C en su hoja de respuestas.\nJAMES SALTER'S DAYS IN FILM\nJames Salter was a pilot in the United States Air Force. He abandoned the military\nprofession in 1957 after the publication of his first novel, The Hunters. He is best\nknown as a novelist, but during the sixties and seventies, he worked in film making.\nSalter made documentaries, wrote scripts for films, and even was the director of a film\ncalled Three, starring Charlotte Rampling and Sam Waterston.\nBurning the Days, a short story published in The New Yorker in 1997, where Salter\ntells the story of his life, was adapted into a film called Passionate Falsehoods.\nSalter's time in the film world is both good and bad. In Rome, he met directors and\nstars. In New York, he explored the city with Robert Redford and enjoyed being famous.\nDeborah Treisman, and Michael Agger have talked about Salter. Nick Paumgarten in\nThe Last Book, describes Salter's opinion about his film career:\n\"Of sixteen scripts for movies, only four were popular. There was money, attractive\nwomen, and entrance into rooms where there were stories more for the dinner table\nthan for the page\". Salter thought he was wasting his time.\nPerhaps he wasted his time in a larger artistic way, but it still makes for attractive\nreading. The Last Book is available to everyone in online stores.\n\n────────────────────\n\n17. James Salter played an important part in the making of movies",
+      "opciones": [
+        "from 1960 to 1979.",
+        "in 1957.",
+        "after 1997."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). from 1960 to 1979. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). in 1957. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). after 1997. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "5e25e047-c3ba-51bb-b64d-1323b03ac7cb",
+      "numero": 18,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 17 - 23, marque A, B o C en su hoja de respuestas.\nJAMES SALTER'S DAYS IN FILM\nJames Salter was a pilot in the United States Air Force. He abandoned the military\nprofession in 1957 after the publication of his first novel, The Hunters. He is best\nknown as a novelist, but during the sixties and seventies, he worked in film making.\nSalter made documentaries, wrote scripts for films, and even was the director of a film\ncalled Three, starring Charlotte Rampling and Sam Waterston.\nBurning the Days, a short story published in The New Yorker in 1997, where Salter\ntells the story of his life, was adapted into a film called Passionate Falsehoods.\nSalter's time in the film world is both good and bad. In Rome, he met directors and\nstars. In New York, he explored the city with Robert Redford and enjoyed being famous.\nDeborah Treisman, and Michael Agger have talked about Salter. Nick Paumgarten in\nThe Last Book, describes Salter's opinion about his film career:\n\"Of sixteen scripts for movies, only four were popular. There was money, attractive\nwomen, and entrance into rooms where there were stories more for the dinner table\nthan for the page\". Salter thought he was wasting his time.\nPerhaps he wasted his time in a larger artistic way, but it still makes for attractive\nreading. The Last Book is available to everyone in online stores.\n\n────────────────────\n\n18. Passionate Falsehoods is",
+      "opciones": [
+        "a newspaper.",
+        "a play.",
+        "a movie."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). a newspaper. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). a play. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). a movie. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "687c52f1-1f36-54e3-b421-d7698682ee61",
+      "numero": 19,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 17 - 23, marque A, B o C en su hoja de respuestas.\nJAMES SALTER'S DAYS IN FILM\nJames Salter was a pilot in the United States Air Force. He abandoned the military\nprofession in 1957 after the publication of his first novel, The Hunters. He is best\nknown as a novelist, but during the sixties and seventies, he worked in film making.\nSalter made documentaries, wrote scripts for films, and even was the director of a film\ncalled Three, starring Charlotte Rampling and Sam Waterston.\nBurning the Days, a short story published in The New Yorker in 1997, where Salter\ntells the story of his life, was adapted into a film called Passionate Falsehoods.\nSalter's time in the film world is both good and bad. In Rome, he met directors and\nstars. In New York, he explored the city with Robert Redford and enjoyed being famous.\nDeborah Treisman, and Michael Agger have talked about Salter. Nick Paumgarten in\nThe Last Book, describes Salter's opinion about his film career:\n\"Of sixteen scripts for movies, only four were popular. There was money, attractive\nwomen, and entrance into rooms where there were stories more for the dinner table\nthan for the page\". Salter thought he was wasting his time.\nPerhaps he wasted his time in a larger artistic way, but it still makes for attractive\nreading. The Last Book is available to everyone in online stores.\n\n────────────────────\n\n19. Salter had nice and difficult times when he was",
+      "opciones": [
+        "an actor.",
+        "making movies.",
+        "in a different city."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). an actor. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). making movies. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). in a different city. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "b4381971-9a21-5dca-bf5c-5615f932b42a",
+      "numero": 20,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 17 - 23, marque A, B o C en su hoja de respuestas.\nJAMES SALTER'S DAYS IN FILM\nJames Salter was a pilot in the United States Air Force. He abandoned the military\nprofession in 1957 after the publication of his first novel, The Hunters. He is best\nknown as a novelist, but during the sixties and seventies, he worked in film making.\nSalter made documentaries, wrote scripts for films, and even was the director of a film\ncalled Three, starring Charlotte Rampling and Sam Waterston.\nBurning the Days, a short story published in The New Yorker in 1997, where Salter\ntells the story of his life, was adapted into a film called Passionate Falsehoods.\nSalter's time in the film world is both good and bad. In Rome, he met directors and\nstars. In New York, he explored the city with Robert Redford and enjoyed being famous.\nDeborah Treisman, and Michael Agger have talked about Salter. Nick Paumgarten in\nThe Last Book, describes Salter's opinion about his film career:\n\"Of sixteen scripts for movies, only four were popular. There was money, attractive\nwomen, and entrance into rooms where there were stories more for the dinner table\nthan for the page\". Salter thought he was wasting his time.\nPerhaps he wasted his time in a larger artistic way, but it still makes for attractive\nreading. The Last Book is available to everyone in online stores.\n\n────────────────────\n\nThe Last Book was written by",
+      "opciones": [
+        "his books.",
+        "his movies.",
+        "his plays.",
+        "from 1960 to 1979.",
+        "in 1957.",
+        "after 1997.",
+        "a newspaper.",
+        "a play.",
+        "a movie.",
+        "an actor.",
+        "making movies.",
+        "in a different city.",
+        "James Salter.",
+        "Deborah Treisman.",
+        "Nick Paumgarten.",
+        "not useful.",
+        "not hard.",
+        "not usual.",
+        "clever enough.",
+        "just fair.",
+        "quite interesting.",
+        "in museums.",
+        "at a café.",
+        "on the web.",
+        "left a £25 tip to the waiters who work",
+        "celebrated Christmas and New Year at",
+        "found this great restaurant after many",
+        "posted an excellent review about this",
+        "does not like cooking food for himself.",
+        "almost always eats hamburgers.",
+        "enjoys eating fast food sometimes.",
+        "is tired of going to restaurants."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). his books. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). his movies. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). his plays. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). from 1960 to 1979. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C).",
+        "No (E). in 1957. — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (C).",
+        "No (F). after 1997. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (G). a newspaper. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "No (H). a play. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C).",
+        "No (I). a movie. — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (C).",
+        "No (J). an actor. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (K). making movies. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "No (L). in a different city. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C).",
+        "No (M). James Salter. — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (C).",
+        "No (N). Deborah Treisman. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (O). Nick Paumgarten. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "No (P). not useful. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C).",
+        "No (Q). not hard. — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (C).",
+        "No (R). not usual. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (S). clever enough. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "No (T). just fair. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C).",
+        "No (U). quite interesting. — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (C).",
+        "No (V). in museums. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (W). at a café. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "No (X). on the web. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C).",
+        "No (Y). left a £25 tip to the waiters who work — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (C).",
+        "No (Z). celebrated Christmas and New Year at — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No ([). found this great restaurant after many — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "No (\\). posted an excellent review about this — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C).",
+        "No (]). does not like cooking food for himself. — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (C).",
+        "No (^). almost always eats hamburgers. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (_). enjoys eating fast food sometimes. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "No (`). is tired of going to restaurants. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "e5b92944-be50-576b-b3ca-0e4f9549e9ec",
+      "numero": 21,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 17 - 23, marque A, B o C en su hoja de respuestas.\nJAMES SALTER'S DAYS IN FILM\nJames Salter was a pilot in the United States Air Force. He abandoned the military\nprofession in 1957 after the publication of his first novel, The Hunters. He is best\nknown as a novelist, but during the sixties and seventies, he worked in film making.\nSalter made documentaries, wrote scripts for films, and even was the director of a film\ncalled Three, starring Charlotte Rampling and Sam Waterston.\nBurning the Days, a short story published in The New Yorker in 1997, where Salter\ntells the story of his life, was adapted into a film called Passionate Falsehoods.\nSalter's time in the film world is both good and bad. In Rome, he met directors and\nstars. In New York, he explored the city with Robert Redford and enjoyed being famous.\nDeborah Treisman, and Michael Agger have talked about Salter. Nick Paumgarten in\nThe Last Book, describes Salter's opinion about his film career:\n\"Of sixteen scripts for movies, only four were popular. There was money, attractive\nwomen, and entrance into rooms where there were stories more for the dinner table\nthan for the page\". Salter thought he was wasting his time.\nPerhaps he wasted his time in a larger artistic way, but it still makes for attractive\nreading. The Last Book is available to everyone in online stores.\n\n────────────────────\n\n21. James Salter thinks that his work in the cinema business was",
+      "opciones": [
+        "not useful.",
+        "not hard.",
+        "not usual."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). not useful. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). not hard. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). not usual. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "b8d537b0-e0d9-5604-b1b4-96ac6186ef09",
+      "numero": 22,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 17 - 23, marque A, B o C en su hoja de respuestas.\nJAMES SALTER'S DAYS IN FILM\nJames Salter was a pilot in the United States Air Force. He abandoned the military\nprofession in 1957 after the publication of his first novel, The Hunters. He is best\nknown as a novelist, but during the sixties and seventies, he worked in film making.\nSalter made documentaries, wrote scripts for films, and even was the director of a film\ncalled Three, starring Charlotte Rampling and Sam Waterston.\nBurning the Days, a short story published in The New Yorker in 1997, where Salter\ntells the story of his life, was adapted into a film called Passionate Falsehoods.\nSalter's time in the film world is both good and bad. In Rome, he met directors and\nstars. In New York, he explored the city with Robert Redford and enjoyed being famous.\nDeborah Treisman, and Michael Agger have talked about Salter. Nick Paumgarten in\nThe Last Book, describes Salter's opinion about his film career:\n\"Of sixteen scripts for movies, only four were popular. There was money, attractive\nwomen, and entrance into rooms where there were stories more for the dinner table\nthan for the page\". Salter thought he was wasting his time.\nPerhaps he wasted his time in a larger artistic way, but it still makes for attractive\nreading. The Last Book is available to everyone in online stores.\n\n────────────────────\n\n22. Reading about James Salter’s years in the cinema could be",
+      "opciones": [
+        "clever enough.",
+        "just fair.",
+        "quite interesting."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). clever enough. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). just fair. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). quite interesting. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "51926df4-0aa8-5584-b506-a2f3c5cccf26",
+      "numero": 23,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 17 - 23, marque A, B o C en su hoja de respuestas.\nJAMES SALTER'S DAYS IN FILM\nJames Salter was a pilot in the United States Air Force. He abandoned the military\nprofession in 1957 after the publication of his first novel, The Hunters. He is best\nknown as a novelist, but during the sixties and seventies, he worked in film making.\nSalter made documentaries, wrote scripts for films, and even was the director of a film\ncalled Three, starring Charlotte Rampling and Sam Waterston.\nBurning the Days, a short story published in The New Yorker in 1997, where Salter\ntells the story of his life, was adapted into a film called Passionate Falsehoods.\nSalter's time in the film world is both good and bad. In Rome, he met directors and\nstars. In New York, he explored the city with Robert Redford and enjoyed being famous.\nDeborah Treisman, and Michael Agger have talked about Salter. Nick Paumgarten in\nThe Last Book, describes Salter's opinion about his film career:\n\"Of sixteen scripts for movies, only four were popular. There was money, attractive\nwomen, and entrance into rooms where there were stories more for the dinner table\nthan for the page\". Salter thought he was wasting his time.\nPerhaps he wasted his time in a larger artistic way, but it still makes for attractive\nreading. The Last Book is available to everyone in online stores.\n\n────────────────────\n\n23. The Last Book can be found",
+      "opciones": [
+        "in museums.",
+        "at a café.",
+        "on the web."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). in museums. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). at a café. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). on the web. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "d749ce12-a528-5b31-b235-619feb2f01b7",
+      "numero": 24,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 24 y 25, marque A, B, C o D en su hoja de respuestas.\nSWIFT PIZZA AND SANDWICH HOUSE\nToday we have the pleasure of showing you the best letter written by our customer\nMark. He wins £25 for writing about us this week. He is so happy with the orders at\nSwift Pizza and Sandwich House that he wants to declare a holiday to celebrate his\nexperience here: \"Happy burgerday and Merry Sandwichmas to everyone!\" he wrote.\nWednesday May 18, 2011.\nOne typical day I was too tired after working all day long to cook for myself, and I was\nvery hungry. I really wanted something to eat, so I decided to find a burger.\nI ordered a half-pound burger and a lamb and chicken sandwich. I also had some special\nrequests about extra cheese and vegetables.\nFood arrived very fast (less than twenty minutes) and was hot and fresh. The burger\nwas delicious, and left me wanting more - fortunately I had the sandwich left. It left as\nif it was cut just a minute before I opened it -  juicy, fresh, and great.\nEvery single special request I made was completely satisfied, 100%!\nAnd the best thing was that all of the above and some drinks cost me ONLY 10 dollars!\nIf that doesn't say value for money, I don't know what it does.\nIt certainly feels great to find new excellent food delivery companies for whenever you\ndon't feel like cooking yourself. I recently had a sad experience with my usual take away\nrestaurant, so I decided to change to something else - and on my first try I got what I\nwanted!\nOrder now from Swift Pizza and Sandwich House.\nMark\n\n────────────────────\n\n24. According to the text, the customer",
+      "opciones": [
+        "left a £25 tip to the waiters who work there.",
+        "celebrated Christmas and New Year at this restaurant.",
+        "found this great restaurant after many attempts.",
+        "posted an excellent review about this restaurant."
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). left a £25 tip to the waiters who work there. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). celebrated Christmas and New Year at this restaurant. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). found this great restaurant after many attempts. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). posted an excellent review about this restaurant. — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "a0cd1a26-743e-53c4-98ea-591ea2fc5d0c",
+      "numero": 25,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 24 y 25, marque A, B, C o D en su hoja de respuestas.\nSWIFT PIZZA AND SANDWICH HOUSE\nToday we have the pleasure of showing you the best letter written by our customer\nMark. He wins £25 for writing about us this week. He is so happy with the orders at\nSwift Pizza and Sandwich House that he wants to declare a holiday to celebrate his\nexperience here: \"Happy burgerday and Merry Sandwichmas to everyone!\" he wrote.\nWednesday May 18, 2011.\nOne typical day I was too tired after working all day long to cook for myself, and I was\nvery hungry. I really wanted something to eat, so I decided to find a burger.\nI ordered a half-pound burger and a lamb and chicken sandwich. I also had some special\nrequests about extra cheese and vegetables.\nFood arrived very fast (less than twenty minutes) and was hot and fresh. The burger\nwas delicious, and left me wanting more - fortunately I had the sandwich left. It left as\nif it was cut just a minute before I opened it -  juicy, fresh, and great.\nEvery single special request I made was completely satisfied, 100%!\nAnd the best thing was that all of the above and some drinks cost me ONLY 10 dollars!\nIf that doesn't say value for money, I don't know what it does.\nIt certainly feels great to find new excellent food delivery companies for whenever you\ndon't feel like cooking yourself. I recently had a sad experience with my usual take away\nrestaurant, so I decided to change to something else - and on my first try I got what I\nwanted!\nOrder now from Swift Pizza and Sandwich House.\nMark\n\n────────────────────\n\n25. It can be inferred from the text that Mark",
+      "opciones": [
+        "does not like cooking food for himself.",
+        "almost always eats hamburgers.",
+        "enjoys eating fast food sometimes.",
+        "is tired of going to restaurants."
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). does not like cooking food for himself. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). almost always eats hamburgers. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). enjoys eating fast food sometimes. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). is tired of going to restaurants. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "54b39024-e8ff-5166-97e1-a23c2166064c",
+      "numero": 26,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea las descripciones de la columna de la izquierda (1 - 3). ¿Cuál palabra de la columna de la\nderecha (A - G) concuerda con cada descripción?\nLa opción H se usa para el ejemplo. Sobran dos palabras más.\nEn las preguntas 1 - 3, marque la letra correcta A - G en su hoja de respuestas.\nTransportation\nEjemplo:\n\n────────────────────\n\nYou often learn to ride it when you are a child.",
+      "opciones": [
+        "ambulance",
+        "boat",
+        "bike",
+        "bus",
+        "motorbike",
+        "plane",
+        "train",
+        "truck"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea las descripciones de la columna de la izquierda (1 - 3). ¿Cuál palabra de la columna de la»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). ambulance — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). boat — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). bike — es coherente con la pregunta y con la evidencia disponible.",
+        "No (D). bus — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C).",
+        "No (E). motorbike — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (C).",
+        "No (F). plane — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (G). train — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "No (H). truck — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (C)."
+      ]
+    },
+    {
+      "id": "14f1c641-b362-5948-b10e-78c29bd4e4e0",
+      "numero": 27,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea las descripciones de la columna de la izquierda (1 - 3). ¿Cuál palabra de la columna de la\nderecha (A - G) concuerda con cada descripción?\nLa opción H se usa para el ejemplo. Sobran dos palabras más.\nEn las preguntas 1 - 3, marque la letra correcta A - G en su hoja de respuestas.\nTransportation\nEjemplo:\n\n────────────────────\n\nPeople pay to take this public transport by road.",
+      "opciones": [
+        "ambulance",
+        "boat",
+        "bike",
+        "bus",
+        "motorbike",
+        "plane",
+        "train",
+        "truck"
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea las descripciones de la columna de la izquierda (1 - 3). ¿Cuál palabra de la columna de la»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). ambulance — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). boat — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). bike — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). bus — es coherente con la pregunta y con la evidencia disponible.",
+        "No (E). motorbike — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (D).",
+        "No (F). plane — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (G). train — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (H). truck — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D)."
+      ]
+    },
+    {
+      "id": "0c02a5c5-6e27-5e75-a5db-051fa87351ea",
+      "numero": 28,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea las descripciones de la columna de la izquierda (1 - 3). ¿Cuál palabra de la columna de la\nderecha (A - G) concuerda con cada descripción?\nLa opción H se usa para el ejemplo. Sobran dos palabras más.\nEn las preguntas 1 - 3, marque la letra correcta A - G en su hoja de respuestas.\nTransportation\nEjemplo:\n\n────────────────────\n\nMany people fly on it to go to a place.",
+      "opciones": [
+        "ambulance",
+        "boat",
+        "bike",
+        "bus",
+        "motorbike",
+        "plane",
+        "train",
+        "truck"
+      ],
+      "indiceCorrecto": 5,
+      "respuestaLetra": "F",
+      "explicacionGeneral": "Respuesta correcta: F. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea las descripciones de la columna de la izquierda (1 - 3). ¿Cuál palabra de la columna de la»). La opción F es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). ambulance — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (F).",
+        "No (B). boat — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (F).",
+        "No (C). bike — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (F).",
+        "No (D). bus — Exige información o pasos que el ejercicio no pide para decidir. Compara con la línea de razonamiento de (F).",
+        "No (E). motorbike — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (F).",
+        "Sí (F). plane — es coherente con la pregunta y con la evidencia disponible.",
+        "No (G). train — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (F).",
+        "No (H). truck — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (F)."
+      ]
+    },
+    {
+      "id": "fae75d6a-1238-5cf7-ac3d-bfa9e6199950",
+      "numero": 29,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "¿Dónde puede ver estos avisos?\nEn las preguntas 4 a 6, marque A, B o C en su hoja de respuestas.\nEjemplo:\n\n────────────────────\n\nHow do I drive?\nPhone: 0152067",
+      "opciones": [
+        "on a plane",
+        "on a bus",
+        "on a boat"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («¿Dónde puede ver estos avisos?»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). on a plane — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). on a bus — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). on a boat — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "645f7f5c-b9be-5f1a-a06f-516b0c8f41a4",
+      "numero": 30,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "¿Dónde puede ver estos avisos?\nEn las preguntas 4 a 6, marque A, B o C en su hoja de respuestas.\nEjemplo:\n\n────────────────────\n\nNew Toys: Green monsters, angry dolls, and black helicopters",
+      "opciones": [
+        "in a house",
+        "in a shop",
+        "in a zoo"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («¿Dónde puede ver estos avisos?»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). in a house — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). in a shop — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). in a zoo — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "ee465296-2979-51f2-986e-c0a3cdb28149",
+      "numero": 31,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "¿Dónde puede ver estos avisos?\nEn las preguntas 4 a 6, marque A, B o C en su hoja de respuestas.\nEjemplo:\n\n────────────────────\n\nPlease, take the one you want to read",
+      "opciones": [
+        "on a stool",
+        "on a computer",
+        "on a bookshelf"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («¿Dónde puede ver estos avisos?»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). on a stool — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). on a computer — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). on a bookshelf — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "1eeed35d-161a-5285-b8f4-7b0e254061fc",
+      "numero": 32,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Complete las tres conversaciones.\nEn las preguntas 7 - 9, marque A, B o C en su hoja de respuestas.\nEjemplo:\nI think I am\ngetting sick.\nA.\tI am sorry.\nB.\tI can too.\nC.\tI need it.\nRespuesta:     0.    A      B      C\n\n────────────────────\n\nI can’t eat a cold sandwich. It is horrible!",
+      "opciones": [
+        "I hope so.",
+        "I agree.",
+        "I am not."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Complete las tres conversaciones.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). I hope so. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). I agree. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). I am not. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "8bb0489d-79d9-5d3e-b726-a447e4358e80",
+      "numero": 33,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Complete las tres conversaciones.\nEn las preguntas 7 - 9, marque A, B o C en su hoja de respuestas.\nEjemplo:\nI think I am\ngetting sick.\nA.\tI am sorry.\nB.\tI can too.\nC.\tI need it.\nRespuesta:     0.    A      B      C\n\n────────────────────\n\nI am going on vacation to Vancouver!",
+      "opciones": [
+        "That’s great!",
+        "I like swimming!",
+        "You are first!"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Complete las tres conversaciones.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). That’s great! — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). I like swimming! — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). You are first! — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "c9cf83ec-545e-5634-8ada-d12c2bcddf14",
+      "numero": 34,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Complete las tres conversaciones.\nEn las preguntas 7 - 9, marque A, B o C en su hoja de respuestas.\nEjemplo:\nI think I am\ngetting sick.\nA.\tI am sorry.\nB.\tI can too.\nC.\tI need it.\nRespuesta:     0.    A      B      C\n\n────────────────────\n\nIt rained a lot last night!",
+      "opciones": [
+        "Did you accept?",
+        "Did you understand?",
+        "Did you sleep?"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Complete las tres conversaciones.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Did you accept? — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Did you understand? — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). Did you sleep? — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "9c308fe8-b209-5d83-9b3e-087470b5f2ae",
+      "numero": 35,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 10 - 14, marque A, B o C en su hoja de respuestas.\nTHE ETHIOPIAN WOLF\nIt is an African animal, (0) ________ is called the\nSimien Jackal. Some scientists have (10) ________ it is not\na real wolf. But studies show that (11) ________ close\nrelationship to grey wolves and coyotes is evident.\n(12) ________ Ethiopian wolves are more similar to grey\nwolves and coyotes than any other African canines.\nScientists also believe there are about 450 of them living in wild conditions. The\n(13) ________ group of Ethiopian wolves lives (4) ________ the Bale Mountains National Park.\nThe Ethiopian wolf has a special red coat with a white part in the front of the body. It is\nin size from 1,1 to 1,4 meters. By nature, the Ethiopian wolf looks for food by day, but\nit is sometimes nocturnal in areas where other animals may hunt it.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "saying",
+        "said",
+        "say"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). saying — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). said — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). say — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "69e36928-5386-54d5-bdef-513605d34c31",
+      "numero": 36,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 10 - 14, marque A, B o C en su hoja de respuestas.\nTHE ETHIOPIAN WOLF\nIt is an African animal, (0) ________ is called the\nSimien Jackal. Some scientists have (10) ________ it is not\na real wolf. But studies show that (11) ________ close\nrelationship to grey wolves and coyotes is evident.\n(12) ________ Ethiopian wolves are more similar to grey\nwolves and coyotes than any other African canines.\nScientists also believe there are about 450 of them living in wild conditions. The\n(13) ________ group of Ethiopian wolves lives (4) ________ the Bale Mountains National Park.\nThe Ethiopian wolf has a special red coat with a white part in the front of the body. It is\nin size from 1,1 to 1,4 meters. By nature, the Ethiopian wolf looks for food by day, but\nit is sometimes nocturnal in areas where other animals may hunt it.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "its",
+        "his",
+        "your"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). its — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). his — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). your — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "48ff99bf-062f-588a-b488-284b51b6db0a",
+      "numero": 37,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "medium",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 10 - 14, marque A, B o C en su hoja de respuestas.\nTHE ETHIOPIAN WOLF\nIt is an African animal, (0) ________ is called the\nSimien Jackal. Some scientists have (10) ________ it is not\na real wolf. But studies show that (11) ________ close\nrelationship to grey wolves and coyotes is evident.\n(12) ________ Ethiopian wolves are more similar to grey\nwolves and coyotes than any other African canines.\nScientists also believe there are about 450 of them living in wild conditions. The\n(13) ________ group of Ethiopian wolves lives (4) ________ the Bale Mountains National Park.\nThe Ethiopian wolf has a special red coat with a white part in the front of the body. It is\nin size from 1,1 to 1,4 meters. By nature, the Ethiopian wolf looks for food by day, but\nit is sometimes nocturnal in areas where other animals may hunt it.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "This",
+        "That",
+        "These"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). This — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). That — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). These — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "8c730072-c835-5faa-a48f-478cc63d4075",
+      "numero": 38,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 10 - 14, marque A, B o C en su hoja de respuestas.\nTHE ETHIOPIAN WOLF\nIt is an African animal, (0) ________ is called the\nSimien Jackal. Some scientists have (10) ________ it is not\na real wolf. But studies show that (11) ________ close\nrelationship to grey wolves and coyotes is evident.\n(12) ________ Ethiopian wolves are more similar to grey\nwolves and coyotes than any other African canines.\nScientists also believe there are about 450 of them living in wild conditions. The\n(13) ________ group of Ethiopian wolves lives (4) ________ the Bale Mountains National Park.\nThe Ethiopian wolf has a special red coat with a white part in the front of the body. It is\nin size from 1,1 to 1,4 meters. By nature, the Ethiopian wolf looks for food by day, but\nit is sometimes nocturnal in areas where other animals may hunt it.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "larger",
+        "largest",
+        "large"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). larger — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). largest — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). large — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "2e371a1c-d396-5d5e-8fd6-43e319bc1cda",
+      "numero": 39,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 10 - 14, marque A, B o C en su hoja de respuestas.\nTHE ETHIOPIAN WOLF\nIt is an African animal, (0) ________ is called the\nSimien Jackal. Some scientists have (10) ________ it is not\na real wolf. But studies show that (11) ________ close\nrelationship to grey wolves and coyotes is evident.\n(12) ________ Ethiopian wolves are more similar to grey\nwolves and coyotes than any other African canines.\nScientists also believe there are about 450 of them living in wild conditions. The\n(13) ________ group of Ethiopian wolves lives (4) ________ the Bale Mountains National Park.\nThe Ethiopian wolf has a special red coat with a white part in the front of the body. It is\nin size from 1,1 to 1,4 meters. By nature, the Ethiopian wolf looks for food by day, but\nit is sometimes nocturnal in areas where other animals may hunt it.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "in",
+        "along",
+        "on"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). in — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). along — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). on — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "4a69f6df-72be-56c2-ac04-5042961158a6",
+      "numero": 40,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 15 - 19, marque A, B o C en su hoja de respuestas.\nMY ARTISTIC ADVENTURE\nWhen I was a child in Ireland, I went to bed late, and I could\nnot sleep past six. One morning, I found a Spanish television\nshow with a French man who was painting a beautiful\ncountryside with oil paints.\nRight then, I began watching this show. With his quiet voice he explained his natural\nway of painting, and he quickly made trees and rivers, simply by moving his hand\nacross the canvas. He made it look simple and easy, so I thought I could do it by myself.\nEvery Sunday morning, I would try to paint what he was painting on the screen,\nbut I needed oil paints to make my paintings as beautiful as his. I could not buy\noil paints; I was only seven, and my parents would not buy them for me. Then I\ndecided to use my mother’s cosmetics and paper for my painting. I was ready to\npaint my first picture.\nAfter my mum saw what I did with her things, I was told I could not paint again. This put\nan end to my idea of using food the next time to make a picture. After a while, I stopped\nwatching the French painter. This put and end to my dream of becoming an artist.\nEjemplo:\n\n────────────────────\n\n15. Where was the painter from?",
+      "opciones": [
+        "Ireland",
+        "Spain",
+        "France"
+      ],
+      "indiceCorrecto": 2,
+      "respuestaLetra": "C",
+      "explicacionGeneral": "Respuesta correcta: C. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción C es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). Ireland — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (C).",
+        "No (B). Spain — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (C).",
+        "Sí (C). France — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "88f3bd49-be21-5da8-a2bf-bc358fbd12d8",
+      "numero": 41,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 15 - 19, marque A, B o C en su hoja de respuestas.\nMY ARTISTIC ADVENTURE\nWhen I was a child in Ireland, I went to bed late, and I could\nnot sleep past six. One morning, I found a Spanish television\nshow with a French man who was painting a beautiful\ncountryside with oil paints.\nRight then, I began watching this show. With his quiet voice he explained his natural\nway of painting, and he quickly made trees and rivers, simply by moving his hand\nacross the canvas. He made it look simple and easy, so I thought I could do it by myself.\nEvery Sunday morning, I would try to paint what he was painting on the screen,\nbut I needed oil paints to make my paintings as beautiful as his. I could not buy\noil paints; I was only seven, and my parents would not buy them for me. Then I\ndecided to use my mother’s cosmetics and paper for my painting. I was ready to\npaint my first picture.\nAfter my mum saw what I did with her things, I was told I could not paint again. This put\nan end to my idea of using food the next time to make a picture. After a while, I stopped\nwatching the French painter. This put and end to my dream of becoming an artist.\nEjemplo:\n\n────────────────────\n\n16. She was mostly excited by the",
+      "opciones": [
+        "painter’s ability.",
+        "painter’s voice.",
+        "painter’s show."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). painter’s ability. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). painter’s voice. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). painter’s show. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "1dd92f6e-10a5-5156-a713-8ae38963ebc2",
+      "numero": 42,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 15 - 19, marque A, B o C en su hoja de respuestas.\nMY ARTISTIC ADVENTURE\nWhen I was a child in Ireland, I went to bed late, and I could\nnot sleep past six. One morning, I found a Spanish television\nshow with a French man who was painting a beautiful\ncountryside with oil paints.\nRight then, I began watching this show. With his quiet voice he explained his natural\nway of painting, and he quickly made trees and rivers, simply by moving his hand\nacross the canvas. He made it look simple and easy, so I thought I could do it by myself.\nEvery Sunday morning, I would try to paint what he was painting on the screen,\nbut I needed oil paints to make my paintings as beautiful as his. I could not buy\noil paints; I was only seven, and my parents would not buy them for me. Then I\ndecided to use my mother’s cosmetics and paper for my painting. I was ready to\npaint my first picture.\nAfter my mum saw what I did with her things, I was told I could not paint again. This put\nan end to my idea of using food the next time to make a picture. After a while, I stopped\nwatching the French painter. This put and end to my dream of becoming an artist.\nEjemplo:\n\n────────────────────\n\n17. How often did she watch the show?",
+      "opciones": [
+        "three times a week",
+        "once a week",
+        "twice a week"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). three times a week — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). once a week — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). twice a week — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "e4a7d542-ba6d-57d9-a2cf-f94d2343fd04",
+      "numero": 43,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 15 - 19, marque A, B o C en su hoja de respuestas.\nMY ARTISTIC ADVENTURE\nWhen I was a child in Ireland, I went to bed late, and I could\nnot sleep past six. One morning, I found a Spanish television\nshow with a French man who was painting a beautiful\ncountryside with oil paints.\nRight then, I began watching this show. With his quiet voice he explained his natural\nway of painting, and he quickly made trees and rivers, simply by moving his hand\nacross the canvas. He made it look simple and easy, so I thought I could do it by myself.\nEvery Sunday morning, I would try to paint what he was painting on the screen,\nbut I needed oil paints to make my paintings as beautiful as his. I could not buy\noil paints; I was only seven, and my parents would not buy them for me. Then I\ndecided to use my mother’s cosmetics and paper for my painting. I was ready to\npaint my first picture.\nAfter my mum saw what I did with her things, I was told I could not paint again. This put\nan end to my idea of using food the next time to make a picture. After a while, I stopped\nwatching the French painter. This put and end to my dream of becoming an artist.\nEjemplo:\n\n────────────────────\n\n18. She could not get oil paints because she",
+      "opciones": [
+        "didn’t speak Spanish.",
+        "was too young.",
+        "always watched TV."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). didn’t speak Spanish. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). was too young. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). always watched TV. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "c8f1cfce-6566-59d1-acea-fec3bf189290",
+      "numero": 44,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 15 - 19, marque A, B o C en su hoja de respuestas.\nMY ARTISTIC ADVENTURE\nWhen I was a child in Ireland, I went to bed late, and I could\nnot sleep past six. One morning, I found a Spanish television\nshow with a French man who was painting a beautiful\ncountryside with oil paints.\nRight then, I began watching this show. With his quiet voice he explained his natural\nway of painting, and he quickly made trees and rivers, simply by moving his hand\nacross the canvas. He made it look simple and easy, so I thought I could do it by myself.\nEvery Sunday morning, I would try to paint what he was painting on the screen,\nbut I needed oil paints to make my paintings as beautiful as his. I could not buy\noil paints; I was only seven, and my parents would not buy them for me. Then I\ndecided to use my mother’s cosmetics and paper for my painting. I was ready to\npaint my first picture.\nAfter my mum saw what I did with her things, I was told I could not paint again. This put\nan end to my idea of using food the next time to make a picture. After a while, I stopped\nwatching the French painter. This put and end to my dream of becoming an artist.\nEjemplo:\n\n────────────────────\n\n19. Stopping painting was",
+      "opciones": [
+        "the painter’s idea.",
+        "her mother’s order.",
+        "her own decision."
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). the painter’s idea. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). her mother’s order. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). her own decision. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "cb594b53-ccc7-53f5-8a0c-7cdbad260e92",
+      "numero": 45,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 20 y 21, marque A, B, C o D en su hoja de respuestas.\nJONATHAN'S TRIP TO COLOMBIA\nI went to Colombia last summer. My journey began on\nthe Caribbean coast and ended on the border with\nFaador. Colombia is a splendid country, extremely\ndiverse and full of wonderful people. I will tell you why.\nIn South Cdombia there is a city caled Perera, just outside you can find an area where\nyou will see the farm Villa Maria - a hidden paradise that takes a long time to get to- It\nis a working coffee farm located in the midde of a valey. Coffee and plantain grow as\nfar as the eye can see. The farm is made up of the house and the processing plant. The\nfamily business has guests at the house for just $45.000 a night. This indudes three\nhome-cooked meals a day, a swimming pod, and as much coffee as you can dork. The\nscene is quite unbelievable. Bamboo chairs reston the corners of the Villa, mangos\nhang from the trees and parrots and birds fly wild.\nA wonderful man named Hector who runs the farm is happy to show guests arcund\nthe coffee processing plant. By day, the only sounds are of the horses coming down\nthe valley side carrying food. By night, the wildife comes alive, and depending on the\ntime of the year thunderstorms offer a spectacular light show. For those who wish to\nescape, Vila Maria is the answer.\nThis is just one attraction of many in Cambia. I could write pages on the country and\nnot get bored. I graduate next year and I can't wait to return to this beautiful country.\nSome of you reading this may feel inspired to do the same.\n\n────────────────────\n\n20. What is the writer trying to do in this artide?",
+      "opciones": [
+        "encouraging tourists to visit Colombia.",
+        "convincing people to buy a Colombian coffee farm.",
+        "telling readers to run a coffee business in Colombia.",
+        "inviting tourists to write about places they visit in Colombia."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). encouraging tourists to visit Colombia. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). convincing people to buy a Colombian coffee farm. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). telling readers to run a coffee business in Colombia. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). inviting tourists to write about places they visit in Colombia. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "dbf3e8e5-42a1-547d-98f0-ed6268fcd434",
+      "numero": 46,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el artículo y luego responda las preguntas.\nEn las preguntas 20 y 21, marque A, B, C o D en su hoja de respuestas.\nJONATHAN'S TRIP TO COLOMBIA\nI went to Colombia last summer. My journey began on\nthe Caribbean coast and ended on the border with\nFaador. Colombia is a splendid country, extremely\ndiverse and full of wonderful people. I will tell you why.\nIn South Cdombia there is a city caled Perera, just outside you can find an area where\nyou will see the farm Villa Maria - a hidden paradise that takes a long time to get to- It\nis a working coffee farm located in the midde of a valey. Coffee and plantain grow as\nfar as the eye can see. The farm is made up of the house and the processing plant. The\nfamily business has guests at the house for just $45.000 a night. This indudes three\nhome-cooked meals a day, a swimming pod, and as much coffee as you can dork. The\nscene is quite unbelievable. Bamboo chairs reston the corners of the Villa, mangos\nhang from the trees and parrots and birds fly wild.\nA wonderful man named Hector who runs the farm is happy to show guests arcund\nthe coffee processing plant. By day, the only sounds are of the horses coming down\nthe valley side carrying food. By night, the wildife comes alive, and depending on the\ntime of the year thunderstorms offer a spectacular light show. For those who wish to\nescape, Vila Maria is the answer.\nThis is just one attraction of many in Cambia. I could write pages on the country and\nnot get bored. I graduate next year and I can't wait to return to this beautiful country.\nSome of you reading this may feel inspired to do the same.\n\n────────────────────\n\n21. What can a reader find out from this text?",
+      "opciones": [
+        "how to grow coffee on the farm.",
+        "when the best time to visit the farm is.",
+        "what the accommodation price includes.",
+        "which activities tourists prefer to do at the farm."
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el artículo y luego responda las preguntas.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). how to grow coffee on the farm. — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). when the best time to visit the farm is. — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). what the accommodation price includes. — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). which activities tourists prefer to do at the farm. — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    },
+    {
+      "id": "22d1b491-b0ab-55eb-ae99-3716809778c3",
+      "numero": 47,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 22 - 25, marque A, B, C o D en su hoja de respuestas.\nVALENTINE'S DAY\nDo you know what (0) ________ on February 14th every year? Many people exchange\ngifts, chocolates, cards, and flowers. This is done to celebrate Valentine's Day. It's\nalways a lot of fun to get a card or some chocolates, but (22) ________ do we do this?\nThere is a lot of mystery about this day.\nOne of the (23) ________ says that the original Valentine was a priest. It is said that\nthe king, Claudius II, had forbidden marriage because he thought that only unmarried\nmen made the best soldiers. However, Valentine continued to hold weddings for\na lot of young couples in secret. When the King found (24) ________, he ordered\nsoldiers to kill Valentine!\nValentine's Day is now the second biggest holiday for cards and gifts. Women buy\n(25) ________ 90% of the cards, but gentlemen still buy the most chocolates and\nflowers to give as a Valentine's Day present.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "where",
+        "why",
+        "when",
+        "what"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). where — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). why — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). when — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). what — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "857cbaf2-0a01-5576-9c04-6062192c300b",
+      "numero": 48,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 22 - 25, marque A, B, C o D en su hoja de respuestas.\nVALENTINE'S DAY\nDo you know what (0) ________ on February 14th every year? Many people exchange\ngifts, chocolates, cards, and flowers. This is done to celebrate Valentine's Day. It's\nalways a lot of fun to get a card or some chocolates, but (22) ________ do we do this?\nThere is a lot of mystery about this day.\nOne of the (23) ________ says that the original Valentine was a priest. It is said that\nthe king, Claudius II, had forbidden marriage because he thought that only unmarried\nmen made the best soldiers. However, Valentine continued to hold weddings for\na lot of young couples in secret. When the King found (24) ________, he ordered\nsoldiers to kill Valentine!\nValentine's Day is now the second biggest holiday for cards and gifts. Women buy\n(25) ________ 90% of the cards, but gentlemen still buy the most chocolates and\nflowers to give as a Valentine's Day present.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "essays",
+        "stories",
+        "reports",
+        "letters"
+      ],
+      "indiceCorrecto": 1,
+      "respuestaLetra": "B",
+      "explicacionGeneral": "Respuesta correcta: B. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción B es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). essays — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (B).",
+        "Sí (B). stories — es coherente con la pregunta y con la evidencia disponible.",
+        "No (C). reports — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (B).",
+        "No (D). letters — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (B)."
+      ]
+    },
+    {
+      "id": "68b8f0f8-4078-5f95-b6c0-5fc3787e3dcd",
+      "numero": 49,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 22 - 25, marque A, B, C o D en su hoja de respuestas.\nVALENTINE'S DAY\nDo you know what (0) ________ on February 14th every year? Many people exchange\ngifts, chocolates, cards, and flowers. This is done to celebrate Valentine's Day. It's\nalways a lot of fun to get a card or some chocolates, but (22) ________ do we do this?\nThere is a lot of mystery about this day.\nOne of the (23) ________ says that the original Valentine was a priest. It is said that\nthe king, Claudius II, had forbidden marriage because he thought that only unmarried\nmen made the best soldiers. However, Valentine continued to hold weddings for\na lot of young couples in secret. When the King found (24) ________, he ordered\nsoldiers to kill Valentine!\nValentine's Day is now the second biggest holiday for cards and gifts. Women buy\n(25) ________ 90% of the cards, but gentlemen still buy the most chocolates and\nflowers to give as a Valentine's Day present.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "off",
+        "in",
+        "at",
+        "out"
+      ],
+      "indiceCorrecto": 3,
+      "respuestaLetra": "D",
+      "explicacionGeneral": "Respuesta correcta: D. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción D es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "No (A). off — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (D).",
+        "No (B). in — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (D).",
+        "No (C). at — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (D).",
+        "Sí (D). out — es coherente con la pregunta y con la evidencia disponible."
+      ]
+    },
+    {
+      "id": "e63e26f2-15c2-570a-8d43-2a3fb7833514",
+      "numero": 50,
+      "tema": "Inglés (cuadernillo)",
+      "dificultad": "hard",
+      "enunciado": "Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.\nEn las preguntas 22 - 25, marque A, B, C o D en su hoja de respuestas.\nVALENTINE'S DAY\nDo you know what (0) ________ on February 14th every year? Many people exchange\ngifts, chocolates, cards, and flowers. This is done to celebrate Valentine's Day. It's\nalways a lot of fun to get a card or some chocolates, but (22) ________ do we do this?\nThere is a lot of mystery about this day.\nOne of the (23) ________ says that the original Valentine was a priest. It is said that\nthe king, Claudius II, had forbidden marriage because he thought that only unmarried\nmen made the best soldiers. However, Valentine continued to hold weddings for\na lot of young couples in secret. When the King found (24) ________, he ordered\nsoldiers to kill Valentine!\nValentine's Day is now the second biggest holiday for cards and gifts. Women buy\n(25) ________ 90% of the cards, but gentlemen still buy the most chocolates and\nflowers to give as a Valentine's Day present.\nEjemplo:\n\n────────────────────\n\n",
+      "opciones": [
+        "almost",
+        "only",
+        "hardly",
+        "just"
+      ],
+      "indiceCorrecto": 0,
+      "respuestaLetra": "A",
+      "explicacionGeneral": "Respuesta correcta: A. En Inglés se te pide cerrar el razonamiento a partir del enunciado («Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.»). La opción A es la que mejor encaja: no contradice los datos ni la consigna.",
+      "feedbackPorOpcion": [
+        "Sí (A). almost — es coherente con la pregunta y con la evidencia disponible.",
+        "No (B). only — Atiende a un detalle parcial pero no responde exactamente lo que se pregunta. Compara con la línea de razonamiento de (A).",
+        "No (C). hardly — Mezcla datos o ideas ciertas con una conclusión que no se desprende del enunciado. Compara con la línea de razonamiento de (A).",
+        "No (D). just — Confunde comparaciones (totales, promedios, mayorías, extremos) sin verificar la consigna exacta. Compara con la línea de razonamiento de (A)."
+      ]
+    }
+  ]
+}
